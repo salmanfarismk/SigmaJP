@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Japanese Flashcards</title>
+        <link rel = "stylesheet" href = "/static/style.css">
+    </head>
+    <body>
+        <div class="container">
+            <h1>日本語 Flashcards</h1>
+            <p>{{ card_count }} cards in your deck</p>
+
+            <div class="menu">
+                <a href = "/quiz" class = "btn">Quiz</a>
+                <a href = "/cards" class = "btn">Cards</a>
+            </div>
+
+            <div class="add-form">
+                <h2>Add a Card</h2>
+                <form action="/add" method="POST">
+                    <input type="text" name="japanese" placeholder="Japanese (日本語)" required>
+                    <input type="text" name="reading" placeholder="Reading (よみかた)" required>
+                    <input type="text" name="meaning" placeholder="Meaning" required>
+                    <button type="submit"> 
+                </form>
+            </div>
+        </div>
+    </body>
+</html>
+                

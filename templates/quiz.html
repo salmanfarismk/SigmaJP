@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Quiz</title>
+        <link rel = "stylesheet" href = "/static/style.css">
+    </head>
+    <body>
+        <div class="container">
+            <h1>Quiz</h1>
+
+            {% if show_result %}
+                {% if result %}
+                    <p class="correct">Correct!</p>
+                {% else %}
+                    <p class="wrong">Wrong. The answer was: {{ card.meaning }}.</p>
+                {% endif %}
+                    <p>Reading: {{ card.reading }}</p>
+                    <a href="/quiz" class="btn">Next Card</a>
+            {% else %}
+                <div class="card">
+                    <h2>{{ card.japanese }}</h2>
+                    <p>What is the meaning?</p>
+                </div>
+                <form action="/answer" method="POST">
+                    <input type="hidden" name="japanese" value="{{ card.japanese }}">
+                    <input type="hidden" name="reading" value="{{ card.reading }}">
+                    <input type="hidden" name="meaning" value="{{ card.meaning }}">
+                    <input type="text" name="answer" placeholder="Your Answer" autofocus>
+                    <button type="submit">Submit</button>
+                </form>
+                <a href="/" class="btn">Back</a>
+            {% endif %}
+        </body>
+</html>
+
+
+
+
+
+            

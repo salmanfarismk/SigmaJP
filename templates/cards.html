@@ -1,0 +1,21 @@
+<!DOCTYPE>
+<html>
+    <head>
+        <title>Your Cards</title>
+        <link rel="stylesheet" href="/static/style.css">
+    </head>
+    <body>
+        <div class="container">
+            <h1>Your Deck</h1>
+            {% for card in cards%}
+            <div class="card-item">
+                <span class="japanese">{{ card.japanese }}</span>
+                <span class="reading">{{ card.reading }}</span>
+                <span class="meaning">{{ card.meaning }}</span>
+                <span class="wrongcount">{{ card.wrongcount }}</span>
+            </div>
+            {% endfor %}
+            <a href="/" class="btn">Back</a>
+        </div>
+    </body>
+</html>
