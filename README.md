@@ -1,4 +1,4 @@
-# 🎌 Kurokana Tapes
+# 🎌 SigmaJP
 
 > A spaced-repetition Japanese language learning web application.
 
