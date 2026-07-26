@@ -46,6 +46,7 @@ h2 { font-size: 1.4rem; margin-bottom: 15px}
 
 .card {
     background: white;
+    color:#666;
     padding: 40px;
     border-radius: 12px;
     text-align: center;
