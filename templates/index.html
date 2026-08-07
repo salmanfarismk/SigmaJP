@@ -1,29 +1,39 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <title>Japanese Flashcards</title>
-        <link rel = "stylesheet" href = "/static/style.css">
-    </head>
-    <body>
-        <div class="container">
-            <h1>日本語 Flashcards</h1>
-            <p>{{ card_count }} cards in your deck</p>
 
-            <div class="menu">
-                <a href = "/quiz" class = "btn">Quiz</a>
-                <a href = "/cards" class = "btn">Cards</a>
-            </div>
+<head>
+    <title>SigmaJP - Japanese Flashcards</title>
+    <link rel="stylesheet" href="/static/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@500;700&family=Outfit:wght@400;600;700&display=swap"
+        rel="stylesheet">
+</head>
 
-            <div class="add-form">
-                <h2>Add a Card</h2>
-                <form action="/add" method="POST">
-                    <input type="text" name="japanese" placeholder="Japanese (日本語)" required>
-                    <input type="text" name="reading" placeholder="Reading (よみかた)" required>
-                    <input type="text" name="meaning" placeholder="Meaning" required>
-                    <button type="submit">Submit</button>
-                </form>
-            </div>
+<body>
+    <div class="container">
+        <h1>日本語 Flashcards</h1>
+        <p class="subtitle"><span class="deck-stat">📚 {{ card_count }} cards in deck</span></p>
+
+        <div class="menu">
+            <a href="/quiz" class="btn primary">Start Quiz 🎯</a>
+            <a href="/cards" class="btn secondary">View Deck 📖</a>
         </div>
-    </body>
+
+        <div class="add-form">
+            <h2>➕ Add a New Card</h2>
+            <form action="/add" method="POST">
+                <input type="text" name="japanese" placeholder="Japanese Word (e.g. 桜 or さくら)" required
+                    autocomplete="off">
+                <input type="text" name="reading" placeholder="Reading / Furigana (e.g. sakura)" required
+                    autocomplete="off">
+                <input type="text" name="meaning" placeholder="Meaning in English (e.g. cherry blossom)" required
+                    autocomplete="off">
+                <button type="submit" class="btn primary">Add to Deck</button>
+            </form>
+        </div>
+    </div>
+</body>
+
 </html>
-                

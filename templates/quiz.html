@@ -1,40 +1,64 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <title>Quiz</title>
-        <link rel = "stylesheet" href = "/static/style.css">
-    </head>
-    <body>
-        <div class="container">
-            <h1>Quiz</h1>
 
-            {% if show_result %}
-                {% if result %}
-                    <p class="correct">Correct!</p>
-                {% else %}
-                    <p class="wrong">Wrong. The answer was: {{ card.meaning }}.</p>
-                {% endif %}
-                    <p>Reading: {{ card.reading }}</p>
-                    <a href="/quiz" class="btn">Next Card</a>
+<head>
+    <title>Quiz - SigmaJP</title>
+    <link rel="stylesheet" href="/static/style.css">
+    <!-- Google Fonts for Modern UI & Crisp Japanese Rendering -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@500;700&family=Outfit:wght@400;600;700&display=swap"
+        rel="stylesheet">
+</head>
+
+<body>
+    <div class="container">
+        <h1>日本語 Quiz</h1>
+
+        {% if show_result %}
+        <div class="result-box {% if result %}success{% else %}error{% endif %}">
+            {% if result %}
+            <p class="result-title">✨ Correct!</p>
             {% else %}
-                <div class="card">
-                    <h2>{{ card.japanese }}</h2>
-                    <p>What is the meaning?</p>
-                </div>
-                <form action="/answer" method="POST">
-                    <input type="hidden" name="japanese" value="{{ card.japanese }}">
-                    <input type="hidden" name="reading" value="{{ card.reading }}">
-                    <input type="hidden" name="meaning" value="{{ card.meaning }}">
-                    <input type="text" name="answer" placeholder="Your Answer" autofocus>
-                    <button type="submit">Submit</button>
-                </form>
-                <a href="/" class="btn">Back</a>
+            <p class="result-title">❌ Wrong!</p>
+            <p class="result-detail">Correct Meaning: <strong>{{ card.meaning }}</strong></p>
             {% endif %}
-        </body>
+            <p class="reading-hint">Reading: <strong>{{ card.reading }}</strong></p>
+            <a href="/quiz" class="btn primary">Next Card ➡️</a>
+        </div>
+        {% else %}
+        <!-- 3D Interactive Flip Card -->
+        <div class="card-3d-wrapper">
+            <div class="card-3d" onclick="this.classList.toggle('flipped')">
+                <div class="card-face card-front">
+                    <span class="flip-badge">Click to flip 🔄</span>
+                    <h2 class="japanese-text">{{ card.japanese }}</h2>
+                    <p class="sub-text">What is the meaning?</p>
+                </div>
+                <div class="card-face card-back">
+                    <span class="label">Reading (よみかた)</span>
+                    <p class="reading-text">{{ card.reading }}</p>
+                    <span class="label">Meaning (意味)</span>
+                    <p class="meaning-text">{{ card.meaning }}</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Answer Form -->
+        <form action="/answer" method="POST" class="quiz-form">
+            <input type="hidden" name="japanese" value="{{ card.japanese }}">
+            <input type="hidden" name="reading" value="{{ card.reading }}">
+            <input type="hidden" name="meaning" value="{{ card.meaning }}">
+            <input type="text" name="answer" placeholder="Type meaning in English..." autofocus required
+                autocomplete="off">
+            <div class="btn-group">
+                <button type="submit" class="btn primary">Submit Answer</button>
+                <a href="/" class="btn secondary">Back to Home</a>
+            </div>
+        </form>
+        {% endif %}
+    </div>
+</body>
+
 </html>
-
-
-
-
-
-            

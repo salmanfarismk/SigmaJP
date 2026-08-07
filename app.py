@@ -55,13 +55,16 @@ def answer():
     user_answer = request.form["answer"].lower().strip()
     correct = user_answer == meaning.lower().strip()
     
-    if not correct:
-        deck = load_deck()
-        for c in deck:
-            if c["japanese"] == japanese:
+
+    deck = load_deck()
+    for c in deck:
+        if c["japanese"] == japanese:
+            if correct:
+                c["wrongcount"] = max(0, c["wrongcount"] - 1)
+            else:
                 c["wrongcount"] += 1
-                break
-        save_deck(deck)
+            break
+    save_deck(deck)
         
     return render_template("quiz.html",
                            card = {"japanese": japanese, "reading": reading, "meaning": meaning, },

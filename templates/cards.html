@@ -1,21 +1,49 @@
-<!DOCTYPE>
+<!DOCTYPE html>
 <html>
-    <head>
-        <title>Your Cards</title>
-        <link rel="stylesheet" href="/static/style.css">
-    </head>
-    <body>
-        <div class="container">
-            <h1>Your Deck</h1>
-            {% for card in cards%}
+
+<head>
+    <title>Your Deck - SigmaJP</title>
+    <link rel="stylesheet" href="/static/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@500;700&family=Outfit:wght@400;600;700&display=swap"
+        rel="stylesheet">
+</head>
+
+<body>
+    <div class="container" style="max-width: 780px;">
+        <h1>Your Deck</h1>
+        <p class="subtitle"><span class="deck-stat">Total: {{ cards|length }} Cards</span></p>
+
+        {% if cards %}
+        <div class="cards-grid">
+            {% for card in cards %}
             <div class="card-item">
                 <span class="japanese">{{ card.japanese }}</span>
                 <span class="reading">{{ card.reading }}</span>
                 <span class="meaning">{{ card.meaning }}</span>
-                <span class="wrongcount">{{ card.wrongcount }}</span>
+
+                {% if card.wrongcount == 0 %}
+                <span class="wrongcount-badge mastered">✓ Mastered (0 errors)</span>
+                {% elif card.wrongcount <= 2 %} <span class="wrongcount-badge review">⚠️ Review ({{ card.wrongcount }}
+                    errors)</span>
+                    {% else %}
+                    <span class="wrongcount-badge hard">🔥 Needs Work ({{ card.wrongcount }} errors)</span>
+                    {% endif %}
             </div>
             {% endfor %}
-            <a href="/" class="btn">Back</a>
         </div>
-    </body>
+        {% else %}
+        <p style="text-align: center; color: #94a3b8; margin: 30px 0;">No cards in your deck yet. Add some from the
+            homepage!</p>
+        {% endif %}
+
+        <div class="btn-group" style="margin-top: 20px;">
+            <a href="/" class="btn secondary">⬅️ Back to Home</a>
+            <a href="/quiz" class="btn primary">Start Quiz 🎯</a>
+        </div>
+    </div>
+</body>
+
 </html>
