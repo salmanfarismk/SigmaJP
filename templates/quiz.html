@@ -4,11 +4,10 @@
 <head>
     <title>Quiz - SigmaJP</title>
     <link rel="stylesheet" href="/static/style.css">
-    <!-- Google Fonts for Modern UI & Crisp Japanese Rendering -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link
-        href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@500;700&family=Outfit:wght@400;600;700&display=swap"
+        href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@500;700;900&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap"
         rel="stylesheet">
 </head>
 
@@ -16,25 +15,16 @@
     <div class="container">
         <h1>日本語 Quiz</h1>
 
-        {% if show_result %}
-        <div class="result-box {% if result %}success{% else %}error{% endif %}">
-            {% if result %}
-            <p class="result-title">✨ Correct!</p>
-            {% else %}
-            <p class="result-title">❌ Wrong!</p>
-            <p class="result-detail">Correct Meaning: <strong>{{ card.meaning }}</strong></p>
-            {% endif %}
-            <p class="reading-hint">Reading: <strong>{{ card.reading }}</strong></p>
-            <a href="/quiz" class="btn primary">Next Card ➡️</a>
-        </div>
-        {% else %}
-        <!-- 3D Interactive Flip Card -->
+        <!-- 3D Interactive Flashcard -->
         <div class="card-3d-wrapper">
-            <div class="card-3d" onclick="this.classList.toggle('flipped')">
+            <div class="card-3d {% if show_result %}flipped{% endif %}" id="quizCard" {% if not show_result
+                %}onclick="flipAndGiveUp();" {% endif %}>
                 <div class="card-face card-front">
-                    <span class="flip-badge">Click to flip 🔄</span>
+                    <span class="flip-badge">Japanese Word</span>
                     <h2 class="japanese-text">{{ card.japanese }}</h2>
-                    <p class="sub-text">What is the meaning?</p>
+                    {% if not show_result %}
+                    <p class="sub-text">Type answer below or click card to flip 🔄</p>
+                    {% endif %}
                 </div>
                 <div class="card-face card-back">
                     <span class="label">Reading (よみかた)</span>
@@ -45,18 +35,60 @@
             </div>
         </div>
 
-        <!-- Answer Form -->
-        <form action="/answer" method="POST" class="quiz-form">
+        {% if show_result %}
+        <!-- Result State (Card is automatically flipped showing Reading & Meaning) -->
+        {% if result %}
+        <div class="result-box success">
+            <p class="result-title">✨ Correct!</p>
+            <p class="result-detail">Card mastered</p>
+            <a href="/quiz" class="btn primary">Next Card ➡️</a>
+        </div>
+        {% elif gave_up %}
+        <div class="result-box warning">
+            <p class="result-title">💡 Revealed!</p>
+            <p class="result-detail">Card flipped</p>
+            <a href="/quiz" class="btn primary">Next Card ➡️</a>
+        </div>
+        {% else %}
+        <div class="result-box error">
+            <p class="result-title">❌ Wrong Answer!</p>
+            <p class="result-detail">Correct Meaning: <strong>{{ card.meaning }}</strong> (+1 wrongcount)</p>
+            <a href="/quiz" class="btn primary">Next Card ➡️</a>
+        </div>
+        {% endif %}
+        {% else %}
+        <!-- Question View (Input or Flip) -->
+        <form action="/answer" method="POST" id="quizForm" class="quiz-form">
             <input type="hidden" name="japanese" value="{{ card.japanese }}">
             <input type="hidden" name="reading" value="{{ card.reading }}">
             <input type="hidden" name="meaning" value="{{ card.meaning }}">
-            <input type="text" name="answer" placeholder="Type meaning in English..." autofocus required
+            <input type="hidden" name="action" id="actionInput" value="submit">
+
+            <input type="text" name="answer" id="answerInput" placeholder="Type meaning in English..." autofocus
                 autocomplete="off">
+
             <div class="btn-group">
-                <button type="submit" class="btn primary">Submit Answer</button>
-                <a href="/" class="btn secondary">Back to Home</a>
+                <a href="/" class="btn secondary">🏠 Home</a>
+                <button type="button" onclick="flipAndGiveUp();" class="btn secondary">Don't Know (Flip 🔄)</button>
+                <button type="submit" onclick="document.getElementById('actionInput').value='submit';"
+                    class="btn primary">Submit Answer</button>
             </div>
         </form>
+
+        <script>
+            function flipAndGiveUp() {
+                const card = document.getElementById('quizCard');
+                if (card && !card.classList.contains('flipped')) {
+                    card.classList.add('flipped');
+                    document.getElementById('actionInput').value = 'flip';
+                    const answerInput = document.getElementById('answerInput');
+                    if (answerInput) answerInput.required = false;
+                    setTimeout(() => {
+                        document.getElementById('quizForm').submit();
+                    }, 550); // Gives time for 3D flip animation to play before page reload
+                }
+            }
+        </script>
         {% endif %}
     </div>
 </body>

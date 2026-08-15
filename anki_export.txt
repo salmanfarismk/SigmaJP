@@ -1,0 +1,970 @@
+#separator:tab
+#html:false
+#tags column:8
+私[わたし;h] は アン[;a] です 。	I am Anne.	私[わたし;h]	私[わたし;h]  - I				N5 Tango
+A「 トム[;a] さん です か 。」 B「 はい[;a] 。」	"A ""Are you Tom?"" B ""Yes."""	さん	さん  - Mr. or Mrs. はい[;a]  - yes				N5 Tango
+彼[かれ;a] は トム[;a] さん です 。	He is Tom.	彼[かれ;a]	彼[かれ;a]  - he, male lover				N5 Tango
+彼女[かのじょ;a] は ヒエン[;a] さん です 。	She's Hien.	彼女[かのじょ;a]	彼女[かのじょ;a]  - she, female lover				N5 Tango
+彼女[かのじょ;a] は ララ[;h] ちゃん[;a] です 。	She is Lara.	ちゃん[;a]	ちゃん[;a]  - endearment honorific				N5 Tango
+あなた[;n2] は トム[;a] さん です か 。	Are you Tom?	あなた[;n2]	あなた[;n2]  - you				N5 Tango
+A「 お名前[おなまえ;h] は ？」 B「 トム[;a] です 。」	"A ""What's your name?"" B ""Tom."""	名前[なまえ;h]	名前[なまえ;h]  - name				N5 Tango
+A「 山田[やまだ;h] さん です か 。」 B「 はい[;a] 、 そう[;a]  です 。」	"A ""Are you Yamada?"" B ""Yes, I am."""	そう[;a] です	そう[;a] です - yes, that's right				N5 Tango
+A「 山田[やまだ;h] さん です か 。」 B「 ええ[;a] 、 そう[;a]  です 。」	"A ""Are you Yamada?"" B ""Yes, I am."""	ええ[;a]	ええ[;a]  - yes				N5 Tango
+A「 山田[やまだ;h] さん です か 。」 C「 いいえ[;o] 。」	"A ""Are you Yamada?"" C ""No."""	いいえ[;o]	いいえ[;o]  - no				N5 Tango
+A「 山田[やまだ;h] さん です か 。」 B「 いいえ[;o] 、 違[ちが,ちがう;h]います 。 田中[たなか;h] です 。」	"A ""Are you Yamada?"" B ""No, that is not correct. I am Tanaka."""	違[ちが,ちがう;h]います	違[ちが,ちがう;h]います  - no, that's not correct				N5 Tango
+おはよう[;h]			おはよう[;h]  - good morning (informal)				N5 Tango
+おはよう[;h] ございます[,ございます;k4]			おはよう[;h] ございます[,ございます;k4]  - good morning (formal)				N5 Tango
+こんにちは[;o]			こんにちは[;o]  - hello, good afternoon				N5 Tango
+こんばんは[;o]			こんばんは[;o]  - good evening				N5 Tango
+さようなら[;n4,o]			さようなら[;n4,o]  - goodbye				N5 Tango
+じゃ[;h] 、 また[;h]			じゃ[;h] 、 また[;h]  - see you again				N5 Tango
+お休[おやす;h]み なさい[,なさる;k2]			お休[おやす;h]み なさい[,なさる;k2]  - good night				N5 Tango
+ありがとう[;n2]			ありがとう[;n2]  - thank you (informal)				N5 Tango
+ありがとう[;h] ございます[,ございます;k4]			ありがとう[;h] ございます[,ございます;k4]  - thank you (formal)				N5 Tango
+どう[;a]いたしまして			どう[;a]いたしまして  - you're welcome				N5 Tango
+どうぞ[;a]			どうぞ[;a]  - go ahead				N5 Tango
+どうも[;a]			どうも[;a]  - thank you				N5 Tango
+初[はじ;h]め まして[;a]			初[はじ;h]め まして[;a]  - hello, nice to meet you				N5 Tango
+どうぞ[;a] よろしく[;h]			どうぞ[;a] よろしく[;h]  - glad to meet you				N5 Tango
+こちら[;h] こそ[;a]			こちら[;h] こそ[;a]  - me too, same here				N5 Tango
+両親[りょうしん;a]			両親[りょうしん;a]  - parents				N5 Tango
+父[ちち;o,a]			父[ちち;o,a]  - father				N5 Tango
+母[はは;a]			母[はは;a]  - mother				N5 Tango
+姉[あね;h]			姉[あね;h]  - older sister				N5 Tango
+兄[あに;a]			兄[あに;a]  - older brother				N5 Tango
+弟[おとうと;o]			弟[おとうと;o]  - younger brother				N5 Tango
+妹[いもうと;o]			妹[いもうと;o]  - younger sister				N5 Tango
+兄弟[きょうだい;a]			兄弟[きょうだい;a]  - siblings				N5 Tango
+犬[いぬ;o]			犬[いぬ;o]  - dog				N5 Tango
+猫[ねこ;a]			猫[ねこ;a]  - cat				N5 Tango
+うち[;h] に 猫[ねこ;a] が います[,います;k2] 。	I own a cat.	うち[;h]	うち[;h]  - one's household/house				N5 Tango
+おじいさん[;n2]			おじいさん[;n2]  - grandfather				N5 Tango
+おばあさん[;n2]			おばあさん[;n2]  - grandmother				N5 Tango
+ご 両親[りょうしん;a]			ご 両親[りょうしん;a]  - parents (formal)				N5 Tango
+お父[おとう;n2]さん			お父[おとう;n2]さん  - father				N5 Tango
+お母[おかあ;n2]さん			お母[おかあ;n2]さん  - mother				N5 Tango
+お姉[おねえ;n2]さん			お姉[おねえ;n2]さん  - older sister				N5 Tango
+お兄[おにい;n2]さん			お兄[おにい;n2]さん  - older brother				N5 Tango
+弟[おとうと;o] さん			弟[おとうと;o] さん  - younger brother				N5 Tango
+妹[いもうと;o] さん			妹[いもうと;o] さん  - younger sister				N5 Tango
+家族[かぞく;a] は 七人[しちにん;n2] です 。	There are  7  people in my family.	家族[かぞく;a]	家族[かぞく;a]  - family ー 人[にん]  - ーpeople/persons				N5 Tango
+一人[ひとり;n2]			一人[ひとり;n2]  - one person				N5 Tango
+二人[ふたり;o]			二人[ふたり;o]  - two people				N5 Tango
+三人[さんにん;n3]			三人[さんにん;n3]  - three people				N5 Tango
+四人[よにん;n2]			四人[よにん;n2]  - four people				N5 Tango
+五人[ごにん;n2]			五人[ごにん;n2]  - five people				N5 Tango
+六人[ろくにん;n2]			六人[ろくにん;n2]  - six people				N5 Tango
+七人[しちにん;n2]			七人[しちにん;n2]  - seven people				N5 Tango
+八人[はちにん;n2]			八人[はちにん;n2]  - eight people				N5 Tango
+九人[くにん;n2]			九人[くにん;n2]  - nine people				N5 Tango
+十人[じゅうにん;n2]			十人[じゅうにん;n2]  - ten people				N5 Tango
+A「 何人[なんにん;a] です か 。」 B「 三人[さんにん;n3] です 。」	"A ""How many people are there?"" B ""We have  3  people."""	何人[なんにん;a]	何人[なんにん;a]  - how many people?				N5 Tango
+大人[おとな;h]			大人[おとな;h]  - adult				N5 Tango
+子供[こども;h]			子供[こども;h]  - child				N5 Tango
+男の人[おとこのひと;o]			男の人[おとこのひと;o]  - man				N5 Tango
+女の人[おんなのひと;o]			女の人[おんなのひと;o]  - woman				N5 Tango
+男の子[おとこのこ;n3]			男の子[おとこのこ;n3]  - boy				N5 Tango
+女の子[おんなのこ;n3]			女の子[おんなのこ;n3]  - girl				N5 Tango
+私[わたし;h] の 国[くに;h] は マレーシア[;n2] です 。	I am from Malaysia.	国[くに;h]	国[くに;h]  - country マレーシア[;n2]  - Malaysia				N5 Tango
+中国[ちゅうごく;a] に ディズニーランド[;n5] が あり[,ある;k1]ます  。	There is a Disneyland in China.	ある[,ある;k1]	ある[,ある;k1]  - have, be, exists (for nonliving, inanimate objects) 中国[ちゅうごく;a]  - China ディズニーランド[;n5]  - Disneyland				N5 Tango
+A「 お国[おくに;h] は どちら[;a] です か 。」 B「 ケニア[;a] です 。」	"A ""Which country are you from?"" B ""I'm from Kenya."""	どちら[;a]	どちら[;a]  - which? ケニア[;a]  - Kenya				N5 Tango
+私[わたし;h] は アメリカ[;h] から 来[き,くる;k1]ました 。	I came from the United States.	から 来[き,くる;k1]ました	から 来[き,くる;k1]ました  - came from アメリカ[;h]  - USA				N5 Tango
+私[わたし;h] は イギリス人[いぎりすじん;n4] です 。	I am British.	～ 人[じん]	～ 人[じん]  - ～person イギリス[;h]  - Britain				N5 Tango
+日本[にほん;n2] の 地図[ちず;a] は あり[,ある;k1]ます  か 。	Do you have a map of Japan?	地図[ちず;a]	地図[ちず;a]  - map 日本[にほん;n2]  - Japan				N5 Tango
+世界[せかい;a,n2] の 地図[ちず;a] は あり[,ある;k1]ます  か 。	Do you have a world map?	世界[せかい;a,n2]	世界[せかい;a,n2]  - world				N5 Tango
+弟[おとうと;o] は 学生[がくせい;h] です 。	My younger brother is a student.	学生[がくせい;h]	学生[がくせい;h]  - student				N5 Tango
+ヒエン[;a] さん は ベトナム[;h] の 留学生[りゅうがくせい;n3,n4] です 。	Hien-san is a foreign student from Vietnam.	留学生[りゅうがくせい;n3,n4]	留学生[りゅうがくせい;n3,n4]  - foreign student ベトナム[;h]  - Vietnam				N5 Tango
+学校[がっこう;h] は 日本[にほん;n2] に あり[,ある;k1]ます  。	The school is in Japan.	学校[がっこう;h]	学校[がっこう;h]  - school				N5 Tango
+山田[やまだ;h] さん は 日本語[にほんご;h] 学校[がっこう;h] の 先生[せんせい;n3] です 。	Yamada-san is a Japanese teacher.	先生[せんせい;n3]	先生[せんせい;n3]  - teacher ～ 語[ご]  - ～language 日本語[にほんご;h] 学校[がっこう;h]  - Japanese language school				N5 Tango
+日本語[にほんご;h] を 勉強[べんきょう;h] します[,する;h] 。	I study Japanese.	勉強[べんきょう;h] ( する)	勉強[べんきょう;h] ( する) - study する[,する;h]  - to do				N5 Tango
+アリ[;h] さん は 小学校[しょうがっこう;n3] の 先生[せんせい;n3] です 。	Ali-san is an elementary school teacher.	小学校[しょうがっこう;n3]	小学校[しょうがっこう;n3]  - elementary school				N5 Tango
+トム[;a] さん は 中学校[ちゅうがっこう;n3] の 先生[せんせい;n3] です 。	Tom is a junior high school teacher.	中学校[ちゅうがっこう;n3]	中学校[ちゅうがっこう;n3]  - junior high school				N5 Tango
+アメリカ[;h] の 高校[こうこう;h] で 勉強[べんきょう;h] します[,する;h] 。	I study at an American high school.	高校[こうこう;h]	高校[こうこう;h]  - high school				N5 Tango
+スミス[;a] さん は 大学[だいがく;h] の 先生[せんせい;n3] です 。	Smith-san is a teacher at a university.	大学[だいがく;h]	大学[だいがく;h]  - university				N5 Tango
+先生[せんせい;n3] は 教室[きょうしつ;h] に います[,います;k2] 。	Teacher is in the classroom.	教室[きょうしつ;h]	教室[きょうしつ;h]  - classroom				N5 Tango
+クラス[;a] に 留学生[りゅうがくせい;n3,n4] が います[,います;k2] 。	There are foreign students in the class.	クラス[;a]	クラス[;a]  - class				N5 Tango
+学校[がっこう;h] へ 行[い,いく;h]きます 。	I will go to school.	行[い,いく;h]く	行[い,いく;h]く  - to go				N5 Tango
+先生[せんせい;n3] が 内[うち;h] へ 来[き,くる;k1]ます 。	Teacher is coming inside.	来[く,くる;k1]る	来[く,くる;k1]る  - to come 内[うち;h]  - inside				N5 Tango
+うち[;h] へ 帰[かえ,かえる;k1]ります 。	I will go home.	帰[かえ,かえる;k1]る	帰[かえ,かえる;k1]る  - go back				N5 Tango
+一月[いちがつ;o,h]			一月[いちがつ;o,h]  - January				N5 Tango
+二月[にがつ;o,h]			二月[にがつ;o,h]  - February				N5 Tango
+三月[さんがつ;a]			三月[さんがつ;a]  - March				N5 Tango
+四月[しがつ;o,h]			四月[しがつ;o,h]  - April				N5 Tango
+五月[ごがつ;a]			五月[ごがつ;a]  - May				N5 Tango
+六月[ろくがつ;o,h]			六月[ろくがつ;o,h]  - June				N5 Tango
+七月[しちがつ;o,h]			七月[しちがつ;o,h]  - July				N5 Tango
+八月[はちがつ;o,h]			八月[はちがつ;o,h]  - August				N5 Tango
+九月[くがつ;a]			九月[くがつ;a]  - September				N5 Tango
+十月[じゅうがつ;o,h]			十月[じゅうがつ;o,h]  - October				N5 Tango
+十一月[じゅういちがつ;o,h]			十一月[じゅういちがつ;o,h]  - November				N5 Tango
+十二月[じゅうにがつ;o,h]			十二月[じゅうにがつ;o,h]  - December				N5 Tango
+A「 何月[なんがつ;a] です か 。」 B「 五月[ごがつ;a] です 。」			"A「 何月[なんがつ;a] です か 。」 B「 五月[ごがつ;a] です 。」  - A ""What month is it?"" B ""It's May."" 何月 - what month?"				N5 Tango
+曜日[ようび;h]			曜日[ようび;h]  - day of the week				N5 Tango
+日曜日[にちようび;n3]			日曜日[にちようび;n3]  - Sunday				N5 Tango
+月曜日[げつようび;n3]			月曜日[げつようび;n3]  - Monday				N5 Tango
+火曜日[かようび;n2]			火曜日[かようび;n2]  - Tuesday				N5 Tango
+水曜日[すいようび;n3]			水曜日[すいようび;n3]  - Wednesday				N5 Tango
+木曜日[もくようび;n3]			木曜日[もくようび;n3]  - Thursday				N5 Tango
+金曜日[きんようび;n3]			金曜日[きんようび;n3]  - Friday				N5 Tango
+土曜日[どようび;n2]			土曜日[どようび;n2]  - Saturday				N5 Tango
+A「 明日[あした;h] は 何曜日[なんようび;n3] です か 。」 B「 火曜日[かようび;n2] です 。」	"A ""What day is tomorrow?"" B ""It's Tuesday."""	何曜日[なんようび;n3]	何曜日[なんようび;n3]  - what day?				N5 Tango
+今日[きょう;a] は 月曜日[げつようび;n3] です 。	Today is Monday.	今日[きょう;a]	今日[きょう;a]  - today				N5 Tango
+明日[あした;h] 、 学校[がっこう;h] へ 行[い,いく;h]きます 。	Tomorrow, I will go to school.	明日[あした;h]	明日[あした;h]  - tomorrow				N5 Tango
+昨日[きのう;h] 、 大学[だいがく;h] へ 行[い,いく;h]きました 。	Yesterday, I went to the university.	昨日[きのう;h]	昨日[きのう;h]  - yesterday				N5 Tango
+毎日[まいにち;a] 、 日本語[にほんご;h] を 勉強[べんきょう;h] します[,する;h] 。	I study Japanese every day.	毎日[まいにち;a]	毎日[まいにち;a]  - every day				N5 Tango
+アメリカ[;h] へ 二週間[にしゅうかん;h] 行[い,いく;h]きました 。	I went to America for two weeks.	ー 週間[しゅうかん;h]	ー 週間[しゅうかん;h]  - ーweek(s)				N5 Tango
+日本語[にほんご;h] を 一ヶ月[いっかげつ;n3] 勉強[べんきょう;h] しました[,する;h] 。	I studied Japanese for one month.	ー ヶ月[かげつ]	ー ヶ月[かげつ]  - ーmonth(s)				N5 Tango
+韓国[かんこく;a] に 五年[ごねん;h] いました[,いる;h] 。	I was in South Korea for  5  years.	ー  年[ねん]	ー  年[ねん]  - ーyear(s) 韓国[かんこく;a]  - South Korea				N5 Tango
+一週間[いっしゅうかん;n3] に 三回[さんかい;h] コンビニ[;h] へ 行[い,いく;h]きます 。	I go to a convenience store three times a week.	ー 回[かい;a]	ー 回[かい;a]  - ーtimes コンビニ[;h]  - convenience store				N5 Tango
+A「 一週間[いっしゅうかん;n3] に 何回[なんかい;a] 行[い,いく;h]きます か 。」 B「 二回[にかい;n2] 行[い,いく;h]きます 。」	"A ""How many times do you go per week?"" B ""I go twice."""	何回[なんかい;a]	何回[なんかい;a]  - how many times?				N5 Tango
+土曜日[どようび;n2] に アルバイト[;n3] を します[,する;h] 。	I go to my part-time job on Saturdays.	アルバイト[;n3]	アルバイト[;n3]  - part-time job				N5 Tango
+日本[にほん;n2] の 言葉[ことば;o] が 分[わ,わかる;k2]かりません 。	I don't understand the Japanese language.	言葉[ことば;o]	言葉[ことば;o]  - word, language				N5 Tango
+先生[せんせい;n3] と 日本語[にほんご;h] で 話[はな,はなす;k2]します 。	I speak Japanese with the teacher.	話[はな,はなす;k2]す	話[はな,はなす;k2]す  - talk				N5 Tango
+先生[せんせい;n3] は ゆっくり[;n3] 話[はな,はなす;k2]します 。	The teacher speaks slowly.	ゆっくり[;n3]	ゆっくり[;n3]  - slowly				N5 Tango
+ゆっくり[;n3] 言[い,いう;h]って ください[,くださる;k3] 。	Please speak slowly.	言[い,いう;h]う	言[い,いう;h]う  - say ください[,くださる;k3]  - please				N5 Tango
+もう[;h,a] 一度[いちど;h] 言[い,いう;h]います 。	I will say it one more time.	もう[;h,a] 一度[いちど;h]	もう[;h,a] 一度[いちど;h]  - once more				N5 Tango
+もう[;h,a] 一度[いちど;h] お願[おねが;h]い します[,する;h] 。	Please repeat it one more time.	お願[おねが;h]い します[,する;h]	お願[おねが;h]い します[,する;h]  - please				N5 Tango
+高校[こうこう;h] で 日本[にほん;n2] の 字[じ;o] を 勉強[べんきょう;h] しました[,する;h] 。	I studied the Japanese letters in high school.	字[じ;o]	字[じ;o]  - character				N5 Tango
+平仮名[ひらがな;n3]			平仮名[ひらがな;n3]  - Hiragana				N5 Tango
+片仮名[かたかな;n3,n2]			片仮名[かたかな;n3,n2]  - Katakana				N5 Tango
+漢字[かんじ;h]			漢字[かんじ;h]  - Kanji				N5 Tango
+ローマ字[ろーまじ;n3,h]			ローマ字[ろーまじ;n3,h]  - Romaji				N5 Tango
+平仮名[ひらがな;n3] が 分[わ,わかる;k2]かります 。	I know Hiragana.	分[わ,わかる;k2]かる	分[わ,わかる;k2]かる  - understand				N5 Tango
+漢字[かんじ;h] が 少[すこ;n2]し 分[わ,わかる;k2]かります 。	I know a few Kanji	少[すこ;n2]し	少[すこ;n2]し  - a little				N5 Tango
+もう少[もうすこ;n4]し ゆっくり[;n3] 話[はな,はなす;k2]して ください[,くださる;k3] 。	Please speak a little slower.	もう少[もうすこ;n4]し	もう少[もうすこ;n4]し  - a little bit more				N5 Tango
+よく[;a] 分[わ,わかる;k2]かりました 。	I understand well.	よく[,よく;k1]	よく[,よく;k1]  - well				N5 Tango
+大体[だいたい;h] 分[わ,わかる;k2]かりました 。	I roughly understand.	大体[だいたい;h]	大体[だいたい;h]  - roughly				N5 Tango
+A「 分[わ,わかる;k2]かりました か 。」 B「 いいえ[;o] 。 全然[ぜんぜん;h] 分[わ,わかる;k2]かりません でした 。」	"A ""Did you understand?."" B ""No. I did not understand at all."""	全然[ぜんぜん;h]	全然[ぜんぜん;h]  - not at all				N5 Tango
+日本語[にほんご;h] の 本[ほん;a] を 読[よ,よむ;k1]みます 。	I read a Japanese language book.	読[よ,よむ;k1]む	読[よ,よむ;k1]む  - read 本[ほん;a]  - book				N5 Tango
+漢字[かんじ;h] を 書[か,かく;k1]きます 。	I write kanji.	書[か,かく;k1]く	書[か,かく;k1]く  - write				N5 Tango
+うち[;h] で CD[シーディー;h] を 聞[き,きく;h]きます 。	I listen to the CD at home.	聞[き,きく;h]く	聞[き,きく;h]く  - hear				N5 Tango
+昨日[きのう;h] 、 CD[シーディー;h] を 買[か,かう;h]いました 。	Yesterday, I bought a CD.	買[か,かう;h]う	買[か,かう;h]う  - buy				N5 Tango
+日本語[にほんご;h] の 辞書[じしょ;a] を 買[か,かう;h]いました 。	I bought a Japanese language dictionary.	辞書[じしょ;a]	辞書[じしょ;a]  - dictionary				N5 Tango
+辞書[じしょ;a] で 言葉[ことば;o] を 調[しら,しらべる;k3]べます 。	I look up a word in the dictionary.	調[しら,しらべる;k3]べる	調[しら,しらべる;k3]べる  - look up				N5 Tango
+日本語[にほんご;h] の 意味[いみ;a] が 分[わ,わかる;k2]かりません 。	I don't understand the meaning in Japanese.	意味[いみ;a]	意味[いみ;a]  - meaning				N5 Tango
+電子辞書[でんしじしょ;n4] で 意味[いみ;a] を 調[しら,しらべる;k3]べます 。	I will check the meaning using the electronic dictionary.	電子辞書[でんしじしょ;n4]	電子辞書[でんしじしょ;n4]  - electrical dictionary				N5 Tango
+頑張[がんば,がんばる;k3]って ください[,くださる;k3] 。	Please do your best.	頑張[がんば,がんばる;k3]る	頑張[がんば,がんばる;k3]る  - do one's best				N5 Tango
+今日[きょう;a] は 宿題[しゅくだい;h] が あります 。	Today, I have homework to do.	宿題[しゅくだい;h]	宿題[しゅくだい;h]  - homework				N5 Tango
+毎日[まいにち;a] 、 日記[にっき;h] を 書[か,かく;k1]きます 。	I write in my diary every day.	日記[にっき;h]	日記[にっき;h]  - diary				N5 Tango
+学校[がっこう;h] で レポート[;n2] を 書[か,かく;k1]きました 。	I wrote a report at school.	レポート[;n2]	レポート[;n2]  - report				N5 Tango
+図書館[としょかん;n2] で 本[ほん;a] を 読[よ,よむ;k1]みます 。	I read a book at the library.	図書館[としょかん;n2]	図書館[としょかん;n2]  - library				N5 Tango
+本屋[ほんや;a] で 辞書[じしょ;a] を 買[か,かう;h]いました 。	I bought a dictionary at the bookstore.	本屋[ほんや;a]	本屋[ほんや;a]  - bookstore				N5 Tango
+漢字[かんじ;h] を 練習[れんしゅう;h] します[,する;h] 。	I practice kanji.	練習[れんしゅう;h]	練習[れんしゅう;h]  - practice				N5 Tango
+土曜日[どようび;n2] に 学校[がっこう;h] で スピーチ[;n2] を しました[,する;h] 。	I gave a speech at the school on Saturday.	スピーチ[;n2]	スピーチ[;n2]  - speech				N5 Tango
+毎日[まいにち;a] 、 漢字[かんじ;h] を 覚[おぼ,おぼえる;k3]えます 。	I learn kanji every day.	覚[おぼ,おぼえる;k3]える	覚[おぼ,おぼえる;k3]える  - memorize				N5 Tango
+宿題[しゅくだい;h] を 忘[わす,わすれる;h]れました 。	I forgot my homework.	忘[わす,わすれる;h]れる	忘[わす,わすれる;h]れる  - forget				N5 Tango
+問題[もんだい;h] を 読[よ,よむ;k1]んで ください[,くださる;k3] 。	Please read the question.	問題[もんだい;h]	問題[もんだい;h]  - problem, question				N5 Tango
+例[れい;a] を 見[み,みる;k1]て ください[,くださる;k3] 。	Please look at an example.	例[れい;a]	例[れい;a]  - example 見[み,みる;k1]る  - see, watch				N5 Tango
+答[こた;n2,o]え が 分[わ,わかる;k2]かりません 。	I don't know the answer.	答[こた;n2,o]え	答[こた;n2,o]え  - answer				N5 Tango
+先生[せんせい;n3] に 質問[しつもん;h] します[,する;h] 。	I have a question for the teacher.	質問[しつもん;h]	質問[しつもん;h]  - question				N5 Tango
+日本語[にほんご;h] 学校[がっこう;h] を 見学[けんがく;h] しました[,する;h] 。	I went to observe the Japanese language school.	見学[けんがく;h]	見学[けんがく;h]  - observation				N5 Tango
+トヨタ[;a] は 日本[にほん;n2] の 会社[かいしゃ;h] です 。	Toyota is a Japanese company.	会社[がいしゃ;h]	会社[がいしゃ;h]  - company				N5 Tango
+毎日[まいにち;a] 、 働[はたら,はたらく;h]きます 。	I work everyday.	働[はたら,はたらく;h]く	働[はたら,はたらく;h]く  - work				N5 Tango
+弟[おとうと;o] は 銀行[ぎんこう;h] で 働[はたら,はたらく;h]いて います[,います;k2] 。	My younger brother works at a bank.	銀行[ぎんこう;h]	銀行[ぎんこう;h]  - bank				N5 Tango
+昨日[きのう;h] 、 会社[かいしゃ;h] を 休[やす,やすむ;k2]みました 。	Yesterday, I took a leave of absence from work.	休[やす,やすむ;k2]む	休[やす,やすむ;k2]む  - rest				N5 Tango
+休[やす;o]み は 土曜日[どようび;n2] と 日曜日[にちようび;n3] です 。	The days off are Saturdays and Sundays.	休[やす;o]み	休[やす;o]み  - holiday				N5 Tango
+昼休[ひるやす;n3]み に 宿題[しゅくだい;h] を します[,する;h] 。	I do my homework during the lunch break.	昼休[ひるやす;n3]み	昼休[ひるやす;n3]み  - lunch break				N5 Tango
+明日[あした;h] は 暇[ひま;h] です 。	I am not busy tomorrow.	暇[ひま;h] な	暇[ひま;h] な  - not busy				N5 Tango
+毎日[まいにち;a] 、 忙[いそが,いそがしい;k4]しい です 。	I am busy every day.	忙[いそが,いそがしい;k4]しい	忙[いそが,いそがしい;k4]しい  - busy				N5 Tango
+今日[きょう;a] は 残業[ざんぎょう;h] します[,する;h] 。	Today I will work overtime.	残業[ざんぎょう;h] (する)	残業[ざんぎょう;h] (する) - overtime work				N5 Tango
+フランス[;h] へ 出張[しゅっちょう;h] します[,する;h] 。	I will take a business trip to France.	出張[しゅっちょう;h] (する)	出張[しゅっちょう;h] (する) - taking a business trip フランス[;h]  - France				N5 Tango
+事務所[じむしょ;n2] は 台湾[たいわん;n3] に あり[,ある;k1]ます  。	The office is in Taiwan.	事務所[じむしょ;n2]	事務所[じむしょ;n2]  - office 台湾[たいわん;n3]  - Taiwan				N5 Tango
+中国[ちゅうごく;a] に 大[おお,おおきい;k3]きい 工場[こうじょう;n3] が あり[,ある;k1]ます  。	There is a large factory in China.	工場[こうじょう;n3]	工場[こうじょう;n3]  - factory 大[おお,おおきい;k3]きい  - large				N5 Tango
+受付[うけつけ;h] で 聞[き,きく;h]いて ください[,くださる;k3] 。	Please ask at the reception desk.	受付[うけつけ;h]	受付[うけつけ;h]  - reception (desk)				N5 Tango
+今日[きょう;a] 、 会議[かいぎ;a,o] が あり[,ある;k1]ます  。	There is a meeting today.	会議[かいぎ;a,o]	会議[かいぎ;a,o]  - meeting				N5 Tango
+山田[やまだ;h] さん は 会議室[かいぎしつ;a] に います[,います;k2] 。	Yamada-san is in the meeting room.	会議室[かいぎしつ;a]	会議室[かいぎしつ;a]  - meeting room				N5 Tango
+会議室[かいぎしつ;a] に 電話[でんわ;h] が あり[,ある;k1]ません 。	There is no telephone in the meeting room.	電話[でんわ;h]	電話[でんわ;h]  - telephone				N5 Tango
+会社[かいしゃ;h] に 電話[でんわ;h] を 掛[か,かける;k2]けます 。	I will call the company.	電話[でんわ;h] を 掛[か,かける;k2]ける	電話[でんわ;h] を 掛[か,かける;k2]ける  - make a phone call				N5 Tango
+A「 もしもし[;a] 、 山田[やまだ;h] さん です か 。」 B「 はい[;a] 、 そう[;a]  です 。」	"A ""Hello, is this Yamada-san?"" B ""Yes it is."""	もしもし[;a]	もしもし[;a]  - hello				N5 Tango
+B「 いいえ[;o] 、 知[し,しる;h]りません 。」	"B ""No, I do not know."""	知[し,しる;h]る	知[し,しる;h]る  - know				N5 Tango
+A「 山田[やまだ;h] さん の 電話番号[でんわばんごう;n4] を 知[し,しる;h]って います[,います;k2] か 。」	"A ""Do you know Yamada-san's phone number?"""	電話番号[でんわばんごう;n4]	電話番号[でんわばんごう;n4]  - phone number				N5 Tango
+電話番号[でんわばんごう;n4] は 何番[なんばん;a] です か 。	What is the phone number?	何番[なんばん;a]	何番[なんばん;a]  - what number				N5 Tango
+電話番号[でんわばんごう;n4] を 教[おし,おしえる;h]えて ください[,くださる;k3] 。	Please tell me the phone number.	教[おし,おしえる;h]える	教[おし,おしえる;h]える  - teach, tell				N5 Tango
+父[ちち;o,a] の 仕事[しごと;h] を 手伝[てつだ,てつだう;k3]います 。	I help with my father's work.	手伝[てつだ,てつだう;k3]う	手伝[てつだ,てつだう;k3]う  - help 仕事[しごと;h]  - work				N5 Tango
+これ[;h] は 日本[にほん;n2] の 工場[こうじょう;n3] で 作[つく,つくる;k2]りました 。	This was made at a Japanese factory.	作[つく,つくる;k2]る	作[つく,つくる;k2]る  - make				N5 Tango
+これ[;h] は 役[やく;o] に 立[た,たつ;k1]ちます 。	This will be helpful.	役[やく;o] に 立[た,たつ;k1]つ	役[やく;o] に 立[た,たつ;k1]つ  - helpful				N5 Tango
+A「 お仕事[おしごと;n2] は ？」 B「 教師[きょうし;a] です 。」	"A ""What is your job?"" B ""I am a teacher."""	教師[きょうし;a]	教師[きょうし;a]  - teacher (job)				N5 Tango
+社員[しゃいん;a]			社員[しゃいん;a]  - worker				N5 Tango
+会社員[かいしゃいん;n3]			会社員[かいしゃいん;n3]  - office worker				N5 Tango
+銀行員[ぎんこういん;n3]			銀行員[ぎんこういん;n3]  - bank worker				N5 Tango
+医者[いしゃ;h]			医者[いしゃ;h]  - doctor				N5 Tango
+看護師[かんごし;n3]			看護師[かんごし;n3]  - nurse				N5 Tango
+介護士[かいごし;n3]			介護士[かいごし;n3]  - care worker				N5 Tango
+警察官[けいさつかん;n3,n4]			警察官[けいさつかん;n3,n4]  - policeman				N5 Tango
+駅員[えきいん;n2,h]			駅員[えきいん;n2,h]  - train station staff				N5 Tango
+運転手[うんてんしゅ;n3]			運転手[うんてんしゅ;n3]  - car driver				N5 Tango
+社長[しゃちょう;h]			社長[しゃちょう;h]  - company president				N5 Tango
+部長[ぶちょう;h]			部長[ぶちょう;h]  - director				N5 Tango
+課長[かちょう;h]			課長[かちょう;h]  - manager				N5 Tango
+これ[;h] は 日本語[にほんご;h] の 本[ほん;a] です 。	This a Japanese book.	これ[;h]	これ[;h]  - this				N5 Tango
+それ[;h] は 中国語[ちゅうごくご;h] の 本[ほん;a] です 。	That is a Chinese book.	それ[;h]	それ[;h]  - that				N5 Tango
+あれ[;a,h] は パソコン[;h] です 。	That is a personal computer.	あれ[;a,h]	あれ[;a,h]  - that パソコン[;h]  - personal computer				N5 Tango
+A「 山田[やまだ;h] さん の 傘[かさ;a] は どれ[;a] です か 。」 B「 これ[;h] です 。」	"A ""Which umbrella is yours, Yamada-san?"" B ""This one."""	どれ[;a]	どれ[;a]  - which? 傘[かさ;a]  - umbrella				N5 Tango
+A「 先生[せんせい;n3] の かばん[;h] は どれ[;a] です か 。」 B「 あれ[;a,h] です 。」	"A ""Which bag is the teacher's?"" B ""That one."""	かばん[;h]	かばん[;h]  - bag				N5 Tango
+山田[やまだ;h] さん の 本[ほん;a] は どれ[;a] です か 。 この[;h] 本[ほん;a] です か 。	Which book is Yamada-san's? Is it this book?	この[;h]	この[;h]  - this				N5 Tango
+その[;h] 本[ほん;a] です か 。	Is it that book?	その[;h]	その[;h]  - that				N5 Tango
+あの[;h] 本[ほん;a] です か 。	That book over there?	あの[;h]	あの[;h]  - that				N5 Tango
+どの[;a] 本[ほん;a] です か 。	Which book is it?	どの[;a]	どの[;a]  - which				N5 Tango
+A「 これ[;h] は 何[なん;a] です か 。」 B「 本[ほん;a] です 。」	"A ""What is this?"" B ""It's a book."""	何[なに;h]	何[なに;h]  - what?				N5 Tango
+名刺[めいし;h]			名刺[めいし;h]  - name card				N5 Tango
+携帯[けいたい;h]			携帯[けいたい;h]  - cell phone				N5 Tango
+スマホ[;h]			スマホ[;h]  - smartphone				N5 Tango
+電池[でんち;a]			電池[でんち;a]  - battery				N5 Tango
+ノート[;a]			ノート[;a]  - notebook				N5 Tango
+紙[かみ;o]			紙[かみ;o]  - paper				N5 Tango
+手帳[てちょう;h]			手帳[てちょう;h]  - pocket notebook				N5 Tango
+ボールペン[;h]			ボールペン[;h]  - ballpoint pen				N5 Tango
+シャープペンシル[;n4]			シャープペンシル[;n4]  - mechanical pencil				N5 Tango
+鉛筆[えんぴつ;h]			鉛筆[えんぴつ;h]  - pencil				N5 Tango
+消[け;h]しゴム			消[け;h]しゴム  - eraser				N5 Tango
+パンチ[;a]			パンチ[;a]  - hole puncher				N5 Tango
+ホッチキス[;a]			ホッチキス[;a]  - stapler				N5 Tango
+セロテープ[;n3]			セロテープ[;n3]  - cellophane tape				N5 Tango
+はさみ[;o]			はさみ[;o]  - scissors				N5 Tango
+箱[はこ;h]			箱[はこ;h]  - box				N5 Tango
+この[;h] はさみ[;o] を 使[つか,つかう;h]って ください[,くださる;k3] 。	Please use this pair of scissors.	使[つか,つかう;h]う	使[つか,つかう;h]う  - use				N5 Tango
+毎日[まいにち;a] 、 コンピューター[;n3] を 使[つか,つかう;h]います 。	I use the computer every day.	コンピューター[;n3]	コンピューター[;n3]  - computer				N5 Tango
+インターネット[;n5] で 電話番号[でんわばんごう;n4] を 調[しら,しらべる;k3]べます 。	I will check the phone number on the Internet.	インターネット[;n5]	インターネット[;n5]  - internet				N5 Tango
+これ[;h] は 会議[かいぎ;a,o] の 資料[しりょう;a] です 。	These are the materials for the meeting.	資料[しりょう;a]	資料[しりょう;a]  - materials				N5 Tango
+はさみ[;o] で 紙[かみ;o] を 切[き,きる;k1]ります 。	I will cut the paper with a pair of scissors.	切[き,きる;k1]る	切[き,きる;k1]る  - cut				N5 Tango
+一個[いっこ;a] ・ 二個[にこ;a] ・ 三個[さんこ;a] ・ 四個[よんこ;a] ・ 五個[ごこ;a] ・ 六個[ろっこ;a] ・ 七個[ななこ;n2] ・ 八個[はっこ;a] ・ 九個[きゅうこ;a] ・ 十個[じゅっこ;a]		ー 個[こ]	ー 個[こ]  - ーobjects				N5 Tango
+A「 消[け;h]しゴム が 何個[なんこ;a] あり[,ある;k1]ます か 。」 B「 十個[じゅっこ;a] です 。」	"A ""How many erasers are there?"" B ""There are 10  of them."""	何個[なんこ;a]	何個[なんこ;a]  - how many (small objects)?				N5 Tango
+一台[いちだい;n2] ・ 二台[にだい;a] ・ 三台[さんだい;a] ・ 四台[よんだい;a] ・ 五台[ごだい;h]  ・ 六台[ろくだい;n2] ・ 七台[ななだい;n2] ・ 八台[はちだい;n2] ・  九台[きゅうだい;a] ・ 十台[じゅうだい;a]		ー 台[だい]	ー 台[だい]  - ーmachines or vehicles				N5 Tango
+A「 パソコン[;h] が 何台[なんだい;a] あり[,ある;k1]ます か 。」 B「 二台[にだい;a] あり[,ある;k1]ます 。」	"A ""How many computers are there?"" B ""There are two of them."""	何台[なんだい;a]	何台[なんだい;a]  - how many (machines and vehicles)?				N5 Tango
+1時[いちじ;n2] ・ 2時[にじ;a] ・ 3時[さんじ;a] ・ 4時[よじ;a] ・ 5時[ごじ;a] ・ 6時[ろくじ;n2] ・ 7時[しちじ;n2] ・ 8時[はちじ;n2] ・ 9時[くじ;a] ・ 10時[じゅうじ;a] ・ 11時[じゅういちじ;n4] ・ 12時[じゅうにじ;n3]		ー 時[じ]	ー 時[じ]  - ーo'clock				N5 Tango
+1分[いっぷん;a] ・ 2分[にふん;a] ・ 3分[さんぷん;a] ・ 4分[よんぷん;a] ・ 5分[ごふん;a] ・ 6分[ろっぷん;a] ・ 7分[ななふん;n2] ・ 8分[はっぷん;a] ・ 9分[きゅうふん;a] ・ 10分[じゅっぷん;a] ・ 11分[じゅういっぷん;n3] ・ 12分[じゅうにふん;n3] ・ 15分[じゅうごふん;n3] ・ 20分[にじゅっぷん;n2] ・ 30分[さんじゅっぷん;n3] ・ 40分[よんじゅっぷん;n3] ・ 4[よんじゅう;a] 5分[ごふん;a] ・ 50分[ごじゅっぷん;n2]		ー 分[ふん]	ー 分[ふん]  - ーminutes				N5 Tango
+半[はん;a]			半[はん;a]  - half				N5 Tango
+A「 何時[なんじ;a] です か 。」 B「 3時[さんじ;a] です 。」	"A ""What time is it?"" B ""It's three o'clock."""	何時[なんじ;a]	何時[なんじ;a]  - what time?				N5 Tango
+A「 何時[なんじ;a] 何分[なんぷん;a] です か 。」 B「 6時[ろくじ;n2] 20分[にじゅっぷん;n2] です 。」	"A ""What time is it exactly?."" B ""It is  6 : 20 ."""	何分[なんぷん;a]	何分[なんぷん;a]  - what minute?				N5 Tango
+8時[はちじ;n2] 40分[よんじゅっぷん;n3] 頃[ごろ;a] 学校[がっこう;h] へ 行[い,いく;h]きます 。	I go to school around  8 : 40  AM.	～ 頃[ごろ;a]	～ 頃[ごろ;a]  - around～				N5 Tango
+午前[ごぜん;a] 1時[いちじ;n2] です 。	It is  1 : 00 AM.	午前[ごぜん;a]	午前[ごぜん;a]  - AM				N5 Tango
+午後[ごご;a] 7時[しちじ;n2] です 。	It is  7 : 00 PM.	午後[ごご;a]	午後[ごご;a]  - PM				N5 Tango
+A「 今[いま;a] 、 何時[なんじ;a] です か 。」 B「 2時[にじ;a] 半[はん;a] です 。」	"A ""What time is it now?"" B ""It's  2 : 30 ."""	今[いま;a]	今[いま;a]  - now				N5 Tango
+30分[さんじゅっぷん;n3] ぐらい 休[やす,やすむ;k2]みましょう 。			30分[さんじゅっぷん;n3] ぐらい 休[やす,やすむ;k2]みましょう 。  - Let's rest for about 30 minutes. ぐらい - about				N5 Tango
+昨日[きのう;h] 、 1時間[いちじかん;n3] 勉強[べんきょう;h] しました[,する;h] 。	Yesterday, I studied for one hour.	時間[じかん;h]	時間[じかん;h]  - hours				N5 Tango
+A「 毎日[まいにち;a] 、 何時間[なんじかん;n3] 働[はたら,はたらく;h]きます か 。」 B「 8時間[はちじかん;n3] 働[はたら,はたらく;h]きます 。」	"A ""How many hours do you work every day?"" B ""I work  8  hours."""	何時間[なんじかん;n3]	何時間[なんじかん;n3]  - how many hours?				N5 Tango
+学校[がっこう;h] は 8時[はちじ;n2] から です 。			学校[がっこう;h] は 8時[はちじ;n2] から です 。  - School is from 8 o'clock. から - from				N5 Tango
+会社[かいしゃ;h] は 9時[くじ;a] から 5時[ごじ;a] まで です 。			会社[かいしゃ;h] は 9時[くじ;a] から 5時[ごじ;a] まで です 。  - I work at the office from 9AM to 5PM. まで - until				N5 Tango
+友達[ともだち;h] と 横浜[よこはま;h] へ 行[い,いく;h]きます 。	I will go to Yokohama with my friend.	友達[ともだち;h]	友達[ともだち;h]  - friend 横浜[よこはま;h]  - Yokohama				N5 Tango
+スミス[;a] さん は 親切[しんせつ;a] です 。	Smith-san is kind.	親切[しんせつ;a] な	親切[しんせつ;a] な  - kind				N5 Tango
+B「 親切[しんせつ;a] な 人[ひと;h] です 。」	"B ""He/she is a kind person."""	人[ひと;h]	人[ひと;h]  - person				N5 Tango
+A「 スミス[;a] さん は どんな[;a] 人[ひと;h] です か 。」	"A ""What kind of person is Smith-san?"""	どんな[;a]	どんな[;a]  - what kind?				N5 Tango
+友達[ともだち;h] は みんな[;o] 親切[しんせつ;a] です 。	All my friends are kind.	みんな[;o]	みんな[;o]  - everyone				N5 Tango
+スミス[;a] さん の おばあさん[;n2] は 元気[げんき;a] です 。	Smith-san's grandmother is doing fine.	元気[げんき;a] な	元気[げんき;a] な  - energetic				N5 Tango
+ハイン[;a] さん は 綺麗[きれい;a] な 人[ひと;h] です 。  この[;h] 学校[がっこう;h] は 綺麗[きれい;a] です 。	Hein-san is a beautiful person. This school is clean.	綺麗[きれい;a] な	綺麗[きれい;a] な  - beautiful, clean				N5 Tango
+ホアン[;a]  さん は ハンサム[;a] です 。	Huang-san is handsome.	ハンサム[;a] な	ハンサム[;a] な  - handsome				N5 Tango
+ララ[;h] ちゃん[;a] は 可愛[かわい,かわいい;k3]い です 。	Lara-chan is cute.	可愛[かわい,かわいい;k3]い	可愛[かわい,かわいい;k3]い  -  cute				N5 Tango
+ジョン[;a] さん は かっこいい[,かっこいい;k4] です 。	John-san is cool.	かっこいい[,かっこいい;k4]	かっこいい[,かっこいい;k4]   - cool				N5 Tango
+山田[やまだ;h] さん は 頭[あたま;o,n2] が いい[,いい;k1] です 。	Yamada-san is intelligent.	頭[あたま;o,n2] が いい[,いい;k1]	頭[あたま;o,n2] が いい[,いい;k1]  - intelligent				N5 Tango
+ハイン[;a] さん は 優[やさ,やさしい;h]しい です 。	Hein-san is friendly.	優[やさ,やさしい;h]しい	優[やさ,やさしい;h]しい  - friendly				N5 Tango
+山田[やまだ;h] さん は ユーモア[;a] が あり[,ある;k1]ます  。	Yamada-san is humorous.	ユーモア[;a]	ユーモア[;a]  - humor				N5 Tango
+ホアン[;a]  さん は 山田[やまだ;h] さん より 背[せ;h,o] が 高[たか,たかい;k2]い です 。	Huang-san is taller than Yamada-san.	背[せ;h,o]	背[せ;h,o]  - stature 高[たか,たかい;k2]い  - tall				N5 Tango
+私[わたし;h] は 背[せ;h,o] が 低[ひく,ひくい;k2]い です 。	I am short.	低[ひく,ひくい;k2]い	低[ひく,ひくい;k2]い  - short				N5 Tango
+ララ[;h] ちゃん[;a] は 目[め;o] が 大[おお,おおきい;k3]きい です 。	Lara-chan has big eyes.	目[め;o]	目[め;o]  - eye				N5 Tango
+私[わたし;h] の カメラ[;a] は 小[ちい,ちいさい;k3]さい です 。	My camera is small.	小[ちい,ちいさい;k3]さい	小[ちい,ちいさい;k3]さい  - small カメラ[;a]  - camera				N5 Tango
+昨日[きのう;h] 、 髪[かみ;o] を 切[き,きる;k1]りました 。	Yesterday, I cut my hair.	髪[かみ;o]	髪[かみ;o]  - hair				N5 Tango
+ハイン[;a] さん は 髪[かみ;o] が 長[なが,ながい;k2]い です 。	Hein-san has long hair.	長[なが,ながい;k2]い	長[なが,ながい;k2]い  - long				N5 Tango
+ララ[;h] ちゃん[;a] は 髪[かみ;o] が 短[みじか,みじかい;k3]い です 。	Lara-chan has short hair.	短[みじか,みじかい;k3]い	短[みじか,みじかい;k3]い  - short				N5 Tango
+シャツ[;a]			シャツ[;a]  - shirt				N5 Tango
+セーター[;a]			セーター[;a]  - sweater				N5 Tango
+コート[;a]			コート[;a]  - coat				N5 Tango
+スーツ[;a]			スーツ[;a]  - suit				N5 Tango
+上着[うわぎ;h]			上着[うわぎ;h]  - jacket				N5 Tango
+下着[したぎ;h]			下着[したぎ;h]  - underwear				N5 Tango
+着物[きもの;h]			着物[きもの;h]  - kimono				N5 Tango
+昨日[きのう;h] 、 服[ふく;o] を 買[か,かう;h]いました 。	Yesterday, I bought the clothes.	服[ふく;o]	服[ふく;o]  - clothes				N5 Tango
+大[おお,おおきい;k3]きい サイス[;h] が あり[,ある;k1]ません 。	There are no large sizes.	サイス[;a]	サイス[;a] - size				N5 Tango
+かっこいい[,かっこいい;k4] シャツ[;a] です ね 。 素敵[すてき;h] です 。	That is a fancy shirt. It looks great.	素敵[すてき;h] な	素敵[すてき;h] な  - fancy				N5 Tango
+素敵[すてき;h] な デザイン[;n2] です ね 。	It's a great design.	デザイン[;n2]	デザイン[;n2]  - design				N5 Tango
+上着[うわぎ;h] を 着[き,きる;h]ます 。	I will wear my overcoat.	着[き,きる;h]る	着[き,きる;h]る  - wear (above waist)				N5 Tango
+コート[;a] を 脱[ぬ,ぬぐ;k1]ぎます 。  靴[くつ;o] を 脱[ぬ,ぬぐ;k1]ぎます 。	I will take off my coat. I will take off my shoes.	脱[ぬ,ぬぐ;k1]ぐ	脱[ぬ,ぬぐ;k1]ぐ  - take off				N5 Tango
+赤[あか,あかい;h]い コート[;a] を 買[か,かう;h]いました 。	I bought a red coat.	赤[あか,あかい;h]い	赤[あか,あかい;h]い  - red				N5 Tango
+青[あお,あおい;k2]い シャツ[;a] を 着[き,きる;h]て います[,います;k2] 。	I am wearing a blue shirt.	青[あお,あおい;k2]い	青[あお,あおい;k2]い  - blue				N5 Tango
+白[しろ,しろい;k2]い スーツ[;a] を 買[か,かう;h]いたい です 。	I want to buy a white suit.	白[しろ,しろい;k2]い	白[しろ,しろい;k2]い  - white				N5 Tango
+黒[くろ,くろい;k2]い セーター[;a] を 着[き,きる;h]ます 。	I will wear a black sweater.	黒[くろ,くろい;k2]い	黒[くろ,くろい;k2]い  - black				N5 Tango
+黄色[きいろ,きいろい;h]い 服[ふく;o] を 買[か,かう;h]います 。	I will buy yellow clothes.	黄色[きいろ,きいろい;h]い	黄色[きいろ,きいろい;h]い  - yellow				N5 Tango
+色々[いろいろ;h] な 帽子[ぼうし;h] を 持[も,もつ;k1]って います[,います;k2] 。	I have various hats.	色々[いろいろ;h] な	色々[いろいろ;h] な  - various				N5 Tango
+ズボン[;n2,a]			ズボン[;n2,a]  - pants				N5 Tango
+ジーンズ[;a]			ジーンズ[;a]  - jeans				N5 Tango
+パンツ[;a,h]			パンツ[;a,h]  - pants				N5 Tango
+スカート[;n2]			スカート[;n2]  - skirt				N5 Tango
+靴[くつ;o]			靴[くつ;o]  - shoes				N5 Tango
+靴下[くつした;n2,o]			靴下[くつした;n2,o]  - socks				N5 Tango
+黒[くろ,くろい;k2]い スカート[;n2] を 履[は,はく;h]きます 。	I wear a black skirt.	履[は,はく;h]く	履[は,はく;h]く  - wear (below waist)				N5 Tango
+帽子[ぼうし;h]			帽子[ぼうし;h]  - hat				N5 Tango
+黒[くろ,くろい;k2]い 帽子[ぼうし;h] を 被[かぶ,かぶる;k2]ります 。	I wear a black hat.	被[かぶ,こうむる;k2]る	被[かぶ,こうむる;k2]る  - wear (hats)				N5 Tango
+眼鏡[めがね;a]			眼鏡[めがね;a]  - glasses				N5 Tango
+サングラス[;n3]			サングラス[;n3]  - sunglasses				N5 Tango
+眼鏡[めがね;a] を 掛[か,かける;k2]けます 。	I wear a pair of glasses.	掛[か,かける;k2]ける	掛[か,かける;k2]ける  - wear (glasses)				N5 Tango
+ネクタイ[;a]			ネクタイ[;a]  - necktie				N5 Tango
+指輪[ゆびわ;h]			指輪[ゆびわ;h]  - ring				N5 Tango
+時計[とけい;h]			時計[とけい;h]  - watch				N5 Tango
+綺麗[きれい;a] な 指輪[ゆびわ;h] を します[,する;h] 。	I wear a beautiful ring.	( 指輪[ゆびわ;h] を ) する[,する;h]	( 指輪[ゆびわ;h] を ) する[,する;h]  - wear (ring)				N5 Tango
+財布[さいふ;h]			財布[さいふ;h]  - purse, wallet				N5 Tango
+A「 かばん[;h] を 持[も,もつ;k1]ちましょう か 。」 B「 はい[;a] 、 ありがとう[;h] ございます[,ございます;k4] 。」	"A ""Shall I hold the bag?."" B ""Yes, thank you."""	持[も,もつ;k1]つ	持[も,もつ;k1]つ  - hold, have				N5 Tango
+日曜日[にちようび;n3] に 子供[こども;h] と 遊[あそ,あそぶ;h]びました 。  新宿[しんじゅく;h] へ 遊[あそ;h]び に 行[い,いく;h]きます 。	I played with the children on Sunday. I will go have fun in Shinjuku.	遊[あそ,あそぶ;h]ぶ	遊[あそ,あそぶ;h]ぶ  - play, have fun 新宿[しんじゅく;h]  - Shinjuku				N5 Tango
+京都[きょうと;a] を 案内[あんない;n3] します[,する;h] 。	It will show you Kyoto.	案内[あんない;n3] (する)	案内[あんない;n3] (する) - guide 京都[きょうと;a]  - Kyoto				N5 Tango
+成田[なりた;a] へ 父[ちち;o,a] を 迎[むか,むかえ;h]え に 行[い,いく;h]きます 。	I will pick up my father at Narita.	迎[むか,むかえる;h]える	迎[むか,むかえる;h]える  - pick up 成田[なりた;a]  - Narita				N5 Tango
+色々[いろいろ;h] な 動物[どうぶつ;h] を 見[み,みる;k1]ました 。	I saw various animals.	動物[どうぶつ;h]	動物[どうぶつ;h]  - animal				N5 Tango
+子供[こども;h] と 動物園[どうぶつえん;n4] へ 行[い,いく;h]きました 。	I went to the zoo with the children.	動物園[どうぶつえん;n4]	動物園[どうぶつえん;n4]  - zoo				N5 Tango
+子供[こども;h] を 動物園[どうぶつえん;n4] へ 連[つ,つれて;o]れて 行[い,いく;h]きました 。	I took the children to the zoo.	連[つ,つれて;o]れて 行[い,いく;h]く	連[つ,つれて;o]れて 行[い,いく;h]く  - take				N5 Tango
+弟[おとうと;o] が うち[;h] へ 友達[ともだち;h] を 連[つ,つれて;o]れて 来[き,くる;k1]ました 。	My younger brother brought home his friend.	連[つ,つれて;o]れて 来[く,くる;k1]る	連[つ,つれて;o]れて 来[く,くる;k1]る  - bring over				N5 Tango
+上野[うえの;h] 動物園[どうぶつえん;n4] に パンダ[;a] が いました[,いる;h] 。	There was a panda at the Ueno Zoo.	パンダ[;a]	パンダ[;a]  - panda 上野[うえの;h]  - Ueno				N5 Tango
+タイ[;a] で 象[ぞう;a] を 見[み,みる;k1]ました 。	I saw an elephant in Thailand.	象[ぞう;a]	象[ぞう;a]  - elephant タイ[;a]  - Thailand				N5 Tango
+馬[うま;o] を 見[み,みる;k1]たい です 。	I want to see a horse.	馬[うま;o]	馬[うま;o]  - horse				N5 Tango
+浅草[あさくさ;h] で お祭[おまつ;h]り が あり[,ある;k1]ます  。	There is a festival in Asakusa.	祭[まつ;h]り	祭[まつ;h]り  - festival 浅草[あさくさ;h]  - Asakusa				N5 Tango
+鎌倉[かまくら;h] に お寺[おてら;h] が あり[,ある;k1]ます  。	There are temples in Kamakura.	寺[てら;o]	寺[てら;o]  - temples 鎌倉[かまくら;h]  - Kamakura				N5 Tango
+京都[きょうと;a] で 神社[じんじゃ;a] へ 行[い,いく;h]きました 。	I went to a shrine in Kyoto.	神社[じんじゃ;a]	神社[じんじゃ;a]  - shrine				N5 Tango
+休[やす;o]み に 旅行[りょこう;h] を します[,する;h] 。	I will travel during the holidays.	旅行[りょこう;h]	旅行[りょこう;h]  - travel				N5 Tango
+旅行[りょこう;h] の 準備[じゅんび;a] を します[,する;h] 。	I will prepare for the trip.	準備[じゅんび;a] (する)	準備[じゅんび;a] (する) - preparation				N5 Tango
+ホテル[;a] に 電話[でんわ;h] を 掛[か,かける;k2]けます 。	I will call the hotel.	ホテル[;a]	ホテル[;a]  - hotel				N5 Tango
+ホテル[;a] を 予約[よやく;h] します[,する;h] 。	I will reserve a hotel.	予約[よやく;h] (する)	予約[よやく;h] (する) - reservation				N5 Tango
+綺麗[きれい;a] な ホテル[;a] に 泊[と,とまる;h]まりたい です 。	I want to stay at a beautiful hotel.	泊[と,とまる;h]まる	泊[と,とまる;h]まる  - stay over				N5 Tango
+ロビー[;a] に 電話[でんわ;h] が あり[,ある;k1]ます  。	There is a phone in the lobby.	ロビー[;a]	ロビー[;a]  - lobby				N5 Tango
+家族[かぞく;a] に お土産[おみやげ;h] を 買[か,かう;h]います 。	I bought souvenirs for the family.	土産[みやげ;h]	土産[みやげ;h]  - souvenir				N5 Tango
+ホテル[;a] は サービス[;a] が いい[,いい;k1] です 。	The hotel has good service.	サービス[;a]	サービス[;a]  - service				N5 Tango
+アメリカ[;h] で ホームステイ[;n5] しました[,する;h] 。	I did a home stay in America.	ホームステイ[;n5]	ホームステイ[;n5]  - homestay				N5 Tango
+東京[とうきょう;h]			東京[とうきょう;h]  - Tokyo				N5 Tango
+成田[なりた;a]			成田[なりた;a]  - Narita				N5 Tango
+上野[うえの;h]			上野[うえの;h]  - Ueno				N5 Tango
+浅草[あさくさ;h]			浅草[あさくさ;h]  - Asakusa				N5 Tango
+新宿[しんじゅく;h]			新宿[しんじゅく;h]  - Shinjuku				N5 Tango
+秋葉原[あきはばら;n3]			秋葉原[あきはばら;n3]  - Akihabara				N5 Tango
+渋谷[しぶや;h]			渋谷[しぶや;h]  - Shibuya				N5 Tango
+銀座[ぎんざ;h]			銀座[ぎんざ;h]  - Ginza				N5 Tango
+羽田[はねだ;h]			羽田[はねだ;h]  - Haneda				N5 Tango
+横浜[よこはま;h]			横浜[よこはま;h]  - Yokohama				N5 Tango
+鎌倉[かまくら;h]			鎌倉[かまくら;h]  - Kamakura				N5 Tango
+北海道[ほっかいどう;n3]			北海道[ほっかいどう;n3]  - Hokkaido				N5 Tango
+札幌[さっぽろ;h]			札幌[さっぽろ;h]  - Sapporo				N5 Tango
+仙台[せんだい;a]			仙台[せんだい;a]  - Sendai				N5 Tango
+日光[にっこう;a]			日光[にっこう;a]  - Nikko				N5 Tango
+富士山[ふじさん;a]			富士山[ふじさん;a]  - Mt. Fuji				N5 Tango
+金沢[かなざわ;n2]			金沢[かなざわ;n2]  - Kanazawa				N5 Tango
+名古屋[なごや;a]			名古屋[なごや;a]  - Nagoya				N5 Tango
+京都[きょうと;a]			京都[きょうと;a]  - Kyoto				N5 Tango
+奈良[なら;a]			奈良[なら;a]  - Nara				N5 Tango
+大阪[おおさか;h]			大阪[おおさか;h]  - Osaka				N5 Tango
+神戸[こうべ;a]			神戸[こうべ;a]  - Kobe				N5 Tango
+広島[ひろしま;h]			広島[ひろしま;h]  - Hiroshima				N5 Tango
+福岡[ふくおか;n2]			福岡[ふくおか;n2]  - Fukuoka				N5 Tango
+長崎[ながさき;n2]			長崎[ながさき;n2]  - Nagasaki				N5 Tango
+沖縄[おきなわ;h]			沖縄[おきなわ;h]  - Okinawa				N5 Tango
+渋谷[しぶや;h] は 東京[とうきょう;h] の 町[まち;o] です 。	Shibuya is a city in Tokyo.	町[まち;o]	町[まち;o]  - town				N5 Tango
+ディズニーランド[;n5] は 千葉[ちば;o] 県[けん] に あり[,ある;k1]ます  。	Disneyland is in Chiba Prefecture.	県[けん]	県[けん]  - prefecture 千葉[ちば;a]  - Chiba				N5 Tango
+朝[あさ;a] 、 6時[ろくじ;n2] に 起[お,おきる;k2]きます 。	I wake up at  6 AM in the morning.	朝[あさ;a]	朝[あさ;a]  - morning 起[お,おきる;k2]きる  - wake up				N5 Tango
+昼[ひる;o] 、 仕事[しごと;h] を します[,する;h] 。	I work during the day.	昼[ひる;o]	昼[ひる;o]  - noon				N5 Tango
+夜[よる;a] 、 本[ほん;a] を 読[よ,よむ;k1]みます 。	I read in the evening.	夜[よる;a]	夜[よる;a]  - evening				N5 Tango
+毎朝[まいあさ;a,h] 、 CD[シーディー;h] を 聞[き,きく;h]きます 。	I listen to the CD every morning.	毎朝[まいあさ;a,h]	毎朝[まいあさ;a,h]  - every morning				N5 Tango
+毎晩[まいばん;a,h] 、 勉強[べんきょう;h] を して[,して;h] います[,います;k2] 。	I study every night.	毎晩[まいばん;a,h]	毎晩[まいばん;a,h]  - every night				N5 Tango
+今朝[けさ;a] 、 友達[ともだち;h] に 電話[でんわ;h] を 掛[か,かける;k2]けました 。	I called my friend this morning.	今朝[けさ;a]	今朝[けさ;a]  - this morning				N5 Tango
+今晩[こんばん;a] 、 ホテル[;a] に 泊[と,とまる;h]まります 。	I will stay in a hotel tonight.	今晩[こんばん;a]	今晩[こんばん;a]  - this evening				N5 Tango
+毎晩[まいばん;a,h] 、 11時[じゅういちじ;n4] 頃[ごろ;a] 寝[ね,ねる;h]ます 。	I sleep around  11 PM every night.	寝[ね,ねる;h]る	寝[ね,ねる;h]る  - sleep				N5 Tango
+テレビ[;a] を 全然[ぜんぜん;h] 見[み,みる;k1]ません 。	I never watch television.	テレビ[;a]	テレビ[;a]  - television				N5 Tango
+昨日[きのう;h] 、 ニュース[;a] を 見[み,みる;k1]ました 。	Yesterday, I watched the news.	ニュース[;a]	ニュース[;a]  - news				N5 Tango
+夜[よる;a] 、 ラジオ[;a] の ニュース[;a] を 聞[き,きく;h]きます 。	I listen to the radio news in the evening.	ラジオ[;a]	ラジオ[;a]  - radio				N5 Tango
+A「 今朝[けさ;a] 、 5時[ごじ;a] に 起[お,おきる;k2]きました 。」 B「 早[はや,はやい;k2]い です ね 。」 A「 東京[とうきょう;h] から 大阪[おおさか;h] まで 2時間[にじかん;n2] 半[はん;a] です 。」 B「 速[はや,はやい;k2]い です ね 。」	"A ""I woke up at  5 AM this morning."" B ""That's early, isn't it?"" A ""It takes two and a half hours from Tokyo to Osaka."" B ""That's fast, isn't it?"""	早[はや,はやい;k2]い / 速[はや,はやい;k2]い	早[はや,はやい;k2]い / 速[はや,はやい;k2]い  - early, fast				N5 Tango
+A「 毎晩[まいばん;a,h] 、 1時[いちじ;n2] 頃[ごろ;a] 寝[ね,ねる;h]ます 。」 B「 遅[おそ,おそい;h]い です ね 。」	"A ""I go to sleep around  1 AM every night."" B ""That's late, isn't it?"""	遅[おそ,おそい;h]い	遅[おそ,おそい;h]い  - late				N5 Tango
+顔[かお;h]			顔[かお;h]  - face				N5 Tango
+鏡[かがみ;o] で 顔[かお;h] を 見[み,みる;k1]ます 。	I see my face in the mirror.	鏡[かがみ;o]	鏡[かがみ;o]  - mirror				N5 Tango
+朝[あさ;a] 、 顔[かお;h] を 洗[あら,あらう;h]います 。	I wash my face in the morning.	洗[あら,あらう;h]う	洗[あら,あらう;h]う  - wash				N5 Tango
+風呂[ふろ;o]			風呂[ふろ;o]  - bath				N5 Tango
+お風呂[おふろ;n2] に 入[はい,はいる;k1]ります 。	I take a bath.	入[はい,はいる;k1]る	入[はい,はいる;k1]る  - take				N5 Tango
+シャワー[;a]			シャワー[;a]  - shower				N5 Tango
+シャワー[;a] を 浴[あ,あびる;h]びます 。	I take a shower.	浴[あ,あびる;h]びる	浴[あ,あびる;h]びる  - take				N5 Tango
+歯[は;o]			歯[は;o]  - teeth				N5 Tango
+歯[は;o] を 磨[みが,みがく;h]きます 。	I brush my teeth.	磨[みが,みがく;h]く	磨[みが,みがく;h]く  - brush				N5 Tango
+これ[;h] は ベトナム[;h] の 食べ物[たべもの;n3,n2] です 。	This is Vietnamese food.	食べ物[たべもの;n3,n2]	食べ物[たべもの;n3,n2]  - food				N5 Tango
+7時[しちじ;n2] に 朝ご飯[あさごはん;n3] を 食[た,たべる;k2]べます 。	I eat breakfast at   7  AM.	朝ご飯[あさごはん;n3]	朝ご飯[あさごはん;n3]  - breakfast 食[た,たべる;k2]べる  - eat				N5 Tango
+学校[がっこう;h] で 昼ご飯[ひるごはん;n3] を 食[た,たべる;k2]べます 。	I eat lunch at school.	昼ご飯[ひるごはん;n3]	昼ご飯[ひるごはん;n3]  - lunch				N5 Tango
+友達[ともだち;h] と 晩御飯[ばんごはん;n3] を 食[た,たべる;k2]べました 。	I ate dinner with my friends.	晩御飯[ばんごはん;n3]	晩御飯[ばんごはん;n3]  - dinner				N5 Tango
+肉[にく;o]			肉[にく;o]  - meat				N5 Tango
+牛肉[ぎゅうにく;h]			牛肉[ぎゅうにく;h]  - beef				N5 Tango
+豚肉[ぶたにく;h]			豚肉[ぶたにく;h]  - pork				N5 Tango
+鶏肉[とりにく;h]			鶏肉[とりにく;h]  - chicken				N5 Tango
+魚[さかな;h]			魚[さかな;h]  - fish				N5 Tango
+卵[たまご;n2,h]			卵[たまご;n2,h]  - egg				N5 Tango
+野菜[やさい;h]			野菜[やさい;h]  - vegetable				N5 Tango
+果物[くだもの;n2]			果物[くだもの;n2]  - fruit				N5 Tango
+バナナ[;a]			バナナ[;a]  - banana				N5 Tango
+林檎[りんご;h]			林檎[りんご;h]  - apple				N5 Tango
+レモン[;a,h]			レモン[;a,h]  - lemon				N5 Tango
+蜜柑[みかん;a]			蜜柑[みかん;a]  - mandarin orange				N5 Tango
+パン[;a]			パン[;a]  - bread				N5 Tango
+菓子[かし;a]			菓子[かし;a]  - snacks				N5 Tango
+チョコレート[;n3]			チョコレート[;n3]  - chocolate				N5 Tango
+パン[;a] を たくさん[;n3] 食[た,たべる;k2]べました 。	I ate a lot of bread.	たくさん[;n3]	たくさん[;n3]  - a lot				N5 Tango
+スーパー[;a] で 肉[にく;o] を 買[か,かう;h]います 。	I buy meat at the supermarket	スーパー[;a]	スーパー[;a]  - supermarket				N5 Tango
+牛乳[ぎゅうにゅう;h]			牛乳[ぎゅうにゅう;h]  - milk				N5 Tango
+ジュース[;a]			ジュース[;a]  - juice				N5 Tango
+コーヒー[;n3]			コーヒー[;n3]  - coffee				N5 Tango
+紅茶[こうちゃ;h]			紅茶[こうちゃ;h]  - black tea				N5 Tango
+お茶[おちゃ;h]			お茶[おちゃ;h]  - green tea				N5 Tango
+酒[さけ;h]			酒[さけ;h]  - sake				N5 Tango
+ビール[;a]			ビール[;a]  - beer				N5 Tango
+ワイン[;a]			ワイン[;a]  - wine				N5 Tango
+カップ[;a]			カップ[;a]  - coffee cup				N5 Tango
+コップ[;h]			コップ[;h]  - glass (drinking vessel)				N5 Tango
+水[みず;h] を 飲[の,のむ;k1]みます 。	I drink water.	飲[の,のむ;k1]む	飲[の,のむ;k1]む  - drink 水[みず;h]  - water				N5 Tango
+A「 コーヒー[;n3] と 紅茶[こうちゃ;h] と どちら[;a] が いい[,いい;k1] です か 。」 B「 紅茶[こうちゃ;h] が いい[,いい;k1] です 。」	"A ""Which would you like, coffee or black tea?"" B ""I would like black tea."""	～ が いい[,いい;k1]	～ が いい[,いい;k1]  - better, want				N5 Tango
+A「 飲み物[のみもの;n2] は 何[なに;a]が いい[,いい;k1] です か 。」 B「 コーヒー[;n3] を お願[おねが;h]い します[,する;h] 。」	"A ""What would you like to drink?"" B ""Coffee please."""	飲み物[のみもの;n2]	飲み物[のみもの;n2]  - drinks				N5 Tango
+カップ[;a] に お湯[おゆ;h] を 入[い,いれる;h]れます 。	I will pour hot water into the cup.	湯[ゆ;o]	湯[ゆ;o]  - hot water				N5 Tango
+冷[つめ,つめたい;h]たい ジュース[;a] が 飲[の,のむ;k1]みたい です 。	I want to drink cold juice.	冷[つめ,つめたい;h]たい	冷[つめ,つめたい;h]たい  - cold				N5 Tango
+紅茶[こうちゃ;h] に ミルク[;a] を 入[い,いれる;h]れます 。  かばん[;h] に 本[ほん;a] を 入[い,いれる;h]れます 。	I put milk in my tea. I put the book in the bag.	入[い,いれる;h]れる	入[い,いれる;h]れる  - put in ミルク[;a]  - milk				N5 Tango
+自動販売機[じどうはんばいき;n6] で 飲み物[のみもの;n2] を 買[か,かう;h]います 。	I buy drinks at the vending machine.	自動販売機[じどうはんばいき;n6]	自動販売機[じどうはんばいき;n6]   - vending machine				N5 Tango
+これ[;h] は 日本[にほん;n2] の 料理[りょうり;a] です 。	This is Japanese food.	料理[りょうり;a]	料理[りょうり;a]  - cuisine				N5 Tango
+御飯[ごはん;a]			御飯[ごはん;a]  - rice				N5 Tango
+サンドイッチ[;n4]			サンドイッチ[;n4]  - sandwich				N5 Tango
+お握[おにぎ;n2]り			お握[おにぎ;n2]り  - rice ball				N5 Tango
+弁当[べんとう;n3]			弁当[べんとう;n3]  - box lunch				N5 Tango
+ラーメン[;a]			ラーメン[;a]  - ramen				N5 Tango
+パスタ[;a]			パスタ[;a]  - pasta				N5 Tango
+うどん[;h]			うどん[;h]  - udon				N5 Tango
+そば[;a]			そば[;a]  - soba				N5 Tango
+天[てん;h]ぷら			天[てん;h]ぷら  - tempura				N5 Tango
+すき焼[すきや;h]き			すき焼[すきや;h]き  - sukiyaki				N5 Tango
+刺身[さしみ;o]			刺身[さしみ;o]  - sashimi				N5 Tango
+カレーライス[;n4]			カレーライス[;n4]  - curry rice				N5 Tango
+牛丼[ぎゅうどん;h]			牛丼[ぎゅうどん;h]  - beef rice bowl				N5 Tango
+寿司[すし;o,a]			寿司[すし;o,a]  - sushi				N5 Tango
+ケーキ[;a]			ケーキ[;a]  - cake				N5 Tango
+アイスクリーム[;n5]			アイスクリーム[;n5]  - ice cream				N5 Tango
+砂糖[さとう;n2]			砂糖[さとう;n2]  - sugar				N5 Tango
+塩[しお;o]			塩[しお;o]  - salt				N5 Tango
+醤油[しょうゆ;h]			醤油[しょうゆ;h]  - soy sauce				N5 Tango
+砂糖[さとう;n2] を 取[と,とって;k1]って ください[,くださる;k3] 。	Please pass me the sugar.	取[と,とる;k1]る	取[と,とる;k1]る  - get				N5 Tango
+A「 朝[あさ;a] 、 何[なに;a]か 食[た,たべる;k2]べました か 。」 B「 いいえ[;o] 、 何[なに;a,h]も 食[た,たべる;k2]べません でした 。」	"A ""Did you eat something this morning?"" B ""No, I had nothing."""	何[なに;a]か	何[なに;a]か  - something 何[なに;a,h]も  - nothing				N5 Tango
+友達[ともだち;h] と レストラン[;a] に 行[い,いく;h]きました 。	I went to the restaurant with my friend.	レストラン[;a]	レストラン[;a]  - restaurant				N5 Tango
+食堂[しょくどう;h] は 11時[じゅういちじ;n4] から 7時[しちじ;n2] まで です 。	The cafeteria is open from  11 AM to  7 PM.	食堂[しょくどう;h]	食堂[しょくどう;h]  - cafeteria				N5 Tango
+食堂[しょくどう;h] で 友達[ともだち;h] と 食事[しょくじ;h] しました[,する;h] 。	I had a meal with my friend at the cafeteria.	食事[しょくじ;h] (する)	食事[しょくじ;h] (する) - meal				N5 Tango
+寿司[すし;o,a] は 日本[にほん;n2] の 有名[ゆうめい;h] な 料理[りょうり;a] です 。	Sushi is a famous Japanese dish.	有名[ゆうめい;h] な	有名[ゆうめい;h] な  - famous				N5 Tango
+レストラン[;a] に 入[はい,はいる;k1]ります 。  大学[だいがく;h] に 入[はい,はいる;k1]ります 。	I will enter the restaurant. I will enroll in a university.	入[はい,はいる;k1]る	入[はい,はいる;k1]る  - enter				N5 Tango
+食堂[しょくどう;h] で 定食[ていしょく;h] を 食[た,たべる;k2]べます 。	I eat the set meal at the cafeteria.	定食[ていしょく;h]	定食[ていしょく;h]  - set meal				N5 Tango
+喫茶店[きっさてん;h,n3] で サンドイッチ[;n4] を 食[た,たべる;k2]べました	I ate sandwiches at the coffee shop.	喫茶店[きっさてん;h,n3]	喫茶店[きっさてん;h,n3]  - coffee shop				N5 Tango
+箸[はし;a]			箸[はし;a]  - chopsticks				N5 Tango
+スプーン[;n2]			スプーン[;n2]  - spoon				N5 Tango
+フォーク[;a]			フォーク[;a]  - fork				N5 Tango
+ナイフ[;a]			ナイフ[;a]  - knife				N5 Tango
+皿[さら;h]			皿[さら;h]  - plate				N5 Tango
+茶碗[ちゃわん;h]			茶碗[ちゃわん;h]  - bowl				N5 Tango
+いらっしゃいませ[,いらっしゃいませ;k6]			いらっしゃいませ[,いらっしゃいませ;k6]  - welcome				N5 Tango
+A「 ご 注文[ちゅうもん;h] は ？」 B「 サンドイッチ[;n4] を お願[おねが;h]い します[,する;h] 。」	"A ""What would you like to order?"" B ""One sandwich please."""	ご 注文[ちゅうもん;h] は ？	ご 注文[ちゅうもん;h] は ？ - what would you like to order?				N5 Tango
+A「 他[ほか;h] に ご 注文[ちゅうもん;h] は ？」 B「 コーヒー[;n3] を お願[おねが;h]い します[,する;h] 。」	"A ""Would you like anything else?"" B ""Coffee, please."""	他[ほか;h] に	他[ほか;h] に - anything else				N5 Tango
+別々[べつべつ;h] に お願[おねが;h]い します[,する;h] 。	Separately, please.	別々[べつべつ;h] に	別々[べつべつ;h] に - separately				N5 Tango
+この[;h] ケーキ[;a] は 甘[あま,あまい;h]い です ね 。	This cake is sweet, isn't it?	甘[あま,あまい;h]い	甘[あま,あまい;h]い  - sweet				N5 Tango
+辛[から,からい;h]い 料理[りょうり;a] を よく[;a] 食[た,たべる;k2]べます 。	I eat hot/spicy food often.	辛[から,からい;h]い	辛[から,からい;h]い  - hot, spicy				N5 Tango
+果物[くだもの;n2] は 美味[おい,おいしい;h,k3]しい です 。	Fruit is tasty.	美味[おい,おいしい;h,k3]しい	美味[おい,おいしい;h,k3]しい    - tasty				N5 Tango
+A「 日本[にほん;n2] の 食べ物[たべもの;n3,n2] は どう[;a] です か 。」 B「 美味[おい,おいしい;h,k3]しい です 。」	"A ""How do you find Japanese food?"" B ""It's delicious."""	どう[;a]	どう[;a]  - how?				N5 Tango
+お弁当[おべんとう;h] を 全部[ぜんぶ;a] 食[た,たべる;k2]べました 。	I ate all that was in the box lunch.	全部[ぜんぶ;a]	全部[ぜんぶ;a]  - all				N5 Tango
+A「 美味[おい,おいしい;h,k3]しい   料理[りょうり;a] です ね 。 全部[ぜんぶ;a] 自分[じぶん;h] で 作[つく,つくる;k2]りました か 。」 B「 はい[;a] 。」	"A ""This food is good. Did you cook it yourself."" B ""Yes."""	自分[じぶん;h] で	自分[じぶん;h] で - by myself				N5 Tango
+お腹[おなか;h] が 空[す,すく;h]きました ね 。 何[なに;a]か 食[た,たべる;k2]べません か 。	I'm becoming hungry. Shall we eat something?	お腹[おなか;h] が 空[す,すく;h]く	お腹[おなか;h] が 空[す,すく;h]く   - become hungry				N5 Tango
+喉[のど;a] が 渇[かわ,かわく;k2]きました ね 。 何[なに;a]か 飲[の,のむ;k1]みません か 。	I'm getting thirsty. Shall we drink something?	喉[のど;a] が 渇[かわ,かわく;k2]く	喉[のど;a] が 渇[かわ,かわく;k2]く   - become thirsty				N5 Tango
+お腹[おなか;h] が いっぱい[;h] です 。	I am full.	いっぱい[;h] な	いっぱい[;h] な  - full				N5 Tango
+ワイン[;a] は いかが[;n2] です か 。	Would you like some wine?	いかが[;n2] です か	いかが[;n2] です か  - would you like				N5 Tango
+A「 もう[;h,a] 一杯[いっぱい;a] いかが[;n2] です か 。」	"A ""How about another serving?"""	もう[;h,a]   一杯[いっぱい;a]	もう[;h,a]   一杯[いっぱい;a]  - one more serving				N5 Tango
+B「 いいえ[;o] 、 結構[けっこう;a] です 。」	"B ""No, thank you."""	結構[けっこう;a] です	結構[けっこう;a] です  - no thank you				N5 Tango
+乾杯[かんぱい;h] ！			乾杯[かんぱい;h] ！  - cheers				N5 Tango
+頂[いただ,いただく;h]きます 。			頂[いただ,いただく;h]きます 。  - let's eat, thank you for the meal				N5 Tango
+ご馳走様[ごちそうさま;h] でし た。			ご馳走様[ごちそうさま;h] でし た。  - thank you for the meal, it was a feast (after eating)				N5 Tango
+趣味[しゅみ;a] は カラオケ[;h] です 。	My hobby is karaoke.	趣味[しゅみ;a]	趣味[しゅみ;a]  - hobby カラオケ[;h]  - karaoke				N5 Tango
+休[やす;o]み の 日[ひ;a] に 本[ほん;a] を 読[よ,よむ;k1]みます 。	I read books on holidays.	日[ひ;a]	日[ひ;a]  - day				N5 Tango
+テニス[;a] は 楽[たの,たのしい;k3]しい です 。	Tennis is fun.	楽[たの,たのしい;k3]しい	楽[たの,たのしい;k3]しい  - fun テニス[;a]  - tennis				N5 Tango
+スポーツ[;n2] が 好[す;o]き です 。	I like sports.	好[す;o]き な	好[す;o]き な  - like スポーツ[;n2]  - sports				N5 Tango
+漫画[まんが;h] が 嫌[きら;h]い です 。	I don't like manga.	嫌[きら;h]い な	嫌[きら;h]い な  - dislike, hate 漫画[まんが;h]  - manga, comic				N5 Tango
+スポーツ[;n2] は あまり[;h] 好[す;o]き じゃ あり[,ある;k1]ません 。	I don't really like sports.	あまり[;h]	あまり[;h]  - not really				N5 Tango
+A「 サッカー[;a] と 野球[やきゅう;h] と どちら[;a] が 好[す;o]き です か 。」 B「 サッカー[;a] の 方[ほう;a] が 好[す;o]き です 。」	"A ""Which do you like, soccer or baseball."" B ""I like soccer more."""	サッカー[;a]	サッカー[;a]  - soccer 野球[やきゅう;h]  - baseball 方[ほう;a]  - way, side				N5 Tango
+A「 サッカー[;a] と 野球[やきゅう;h] と どっち[;a] が 好[す;o]き ？」 B「 サッカー[;a] の 方[ほう;a] が 好[す;o]き。 」	"A ""Which do you like, soccer or baseball."" B ""I like soccer more."""	どっち[;a]	どっち[;a]  - which?				N5 Tango
+どちら[;a] も 好[す;o]き です 。	I like both.	どちら[;a] も	どちら[;a] も  - both				N5 Tango
+素敵[すてき;h] な 絵[え;o] です ね 。	It is a beautiful drawing.	絵[え;o]	絵[え;o]  - picture, drawing				N5 Tango
+スミス[;a] さん は 絵[え;o] が 上手[じょうず;o] です 。	Smith-san is good at drawing.	上手[じょうず;o] な	上手[じょうず;o] な  - good				N5 Tango
+私[わたし;h] は 歌[うた;o] が 下手[へた;o] です 。	I sing poorly.	下手[へた;o] な	下手[へた;o] な  - poor, bad at 歌[うた;o]  - song				N5 Tango
+A「 日本語[にほんご;h] が 上手[じょうず;o] です ね 。」 B「 いいえ[;o] 、 まだまだ[;a] です 。」	"A ""You speak good Japanese."" B ""No, it's not nearly good enough."""	まだまだ[;a]	まだまだ[;a]  - not nearly enough				N5 Tango
+生け花[いけばな;n2]			生け花[いけばな;n2]  - ikebana				N5 Tango
+生け花[いけばな;n2] を 習[なら,ならう;k2]いました 。	We learned ikebana.	習[なら,ならう;k2]う	習[なら,ならう;k2]う  - learn (from someone)				N5 Tango
+茶道[さどう;a]			茶道[さどう;a]  - tea ceremony				N5 Tango
+簡単[かんたん;h] な 絵[え;o] を 描[か,かく;k1]きます 。	I paint a simple painting.	簡単[かんたん;h] な	簡単[かんたん;h] な  - simple 描[か,かく;k1]く  - paint, sketch				N5 Tango
+茶道[さどう;a] は 難[むずか,むずかしい;h,k4]しい です 。	Tea ceremony is difficult.	難[むずか,むずかしい;h,k4]しい	難[むずか,むずかしい;h,k4]しい  - difficult				N5 Tango
+A「 茶道[さどう;a] は 易[やさ,やさしい;h]しい です か 。」 B「 いいえ[;o] 。 難[むずか,むずかしい;h,k4]しい です 。」	"A ""Is the tea ceremony easy?"" B ""No. It is difficult."""	易[やさ,やさしい;h]しい	易[やさ,やさしい;h]しい  - easy				N5 Tango
+これ[;h] は 家族[かぞく;a] の 写真[しゃしん;h] です 。	This is a photograph of my family.	写真[しゃしん;h]	写真[しゃしん;h]  - photograph				N5 Tango
+スマホ[;h] で 写真[しゃしん;h] を 撮[と,とる;k1]ります 。	I will take a photo using my smartphone.	撮[と,とる;k1]る	撮[と,とる;k1]る  - take				N5 Tango
+パンダ[;a] の 絵[え;o] を 描[か,かく;k1]きました 。	I drew a panda.	描[か,かく;k1]く	描[か,かく;k1]く  - draw 描[えが,えがく;k2]く  - draw				N5 Tango
+美術館[びじゅつかん;n3,n2] で 絵[え;o] を 見[み,みる;k1]ます 。	I look at drawings at the museum.	美術館[びじゅつかん;n3,n2]	美術館[びじゅつかん;n3,n2]  - museum				N5 Tango
+日本[にほん;n2] の 音楽[おんがく;a,h] が 好[す;o]き です 。	I like Japanese music.	音楽[おんがく;a,h]	音楽[おんがく;a,h]  - music				N5 Tango
+一緒[いっしょ;h] に カラオケ[;h] に 行[い,いく;h]きません か 。	Why don't we go to karaoke together?	一緒[いっしょ;h] に	一緒[いっしょ;h] に - together				N5 Tango
+クラス[;a] の みんな[;o] で カラオケ[;h] に 行[い,いく;h]きました 。	I went to karaoke with everyone in the class.	みんな[;o] で	みんな[;o] で - with everyone				N5 Tango
+みんな[;o] で 日本[にほん;n2] の 歌[うた;o] を 歌[うた,うたう;h]います 。	We all sing a Japanese song.	歌[うた,うたう;h]う	歌[うた,うたう;h]う  - sing				N5 Tango
+コンサート[;a] に 行[い,いく;h]きました 。	I went to the concert.	コンサート[;a]	コンサート[;a]  - concert				N5 Tango
+ジャズ[;a] の CD[シーディー;h] を よく[;a] 聞[き,きく;h]きます 。	I listen to Jazz CDs often.	ジャズ[;a]	ジャズ[;a]  - jazz				N5 Tango
+A「 クラシック[;n3,n2] と ジャズ[;a] と どちら[;a] が 好[す;o]き です か 。」 B「 どちら[;a] も 好[す;o]き です 。」	"A ""Which do you like, classical music or jazz?"" B ""I like both."""	クラシック[;n3,n2]	クラシック[;n3,n2]  - classic				N5 Tango
+ポップス[;a] が 好[す;o]き です 。	I like popular music.	ポップス[;a]	ポップス[;a]  - pop				N5 Tango
+ロック[;a] は あまり[;h] 聞[き,きく;h]きません 。	I don't listen to rock very much.	ロック[;a]	ロック[;a]  - rock				N5 Tango
+これ[;h] は 兄[あに;a] の ギター[;a] です 。	This is my older brother's guitar.	ギター[;a]	ギター[;a]  - guitar				N5 Tango
+フランス[;h] の 映画[えいが;a,h] を 見[み,みる;k1]ました 。	I saw a French movie.	映画[えいが;a,h]	映画[えいが;a,h]  - movie				N5 Tango
+映画館[えいがかん;n3] で 映画[えいが;a,h] を 見[み,みる;k1]ます 。	I will watch a movie at the movie theater.	映画館[えいがかん;n3]	映画館[えいがかん;n3]  - movie theater				N5 Tango
+コンサート[;a] は 7時[しちじ;n2] に 終[お,おわる;h]わります 。	The concert will end at  7  o'clock.	終[お,おわる;h]わる	終[お,おわる;h]わる  - end				N5 Tango
+日本[にほん;n2] の アニメ[;a,h] が 好[す;o]き です 。	I like Japanese animation.	アニメ[;a,h]	アニメ[;a,h]  - animation				N5 Tango
+昨日[きのう;h] 、 面白[おもしろ,おもしろい;k4]い アニメ[;a,h] を 見[み,みる;k1]ました 。	Yesterday, I saw an interesting anime.	面白[おもしろ,おもしろい;k4]い	面白[おもしろ,おもしろい;k4]い  - interesting				N5 Tango
+日本[にほん;n2] の ゲーム[;a] は 面白[おもしろ,おもしろい;k4]い です 。	Japanese games are fun.	ゲーム[;a]	ゲーム[;a]  - game				N5 Tango
+ゲーム[;a] の ソフト[;a] を 買[か,かう;h]いました 。	I bought a video game.	ソフト[;a]	ソフト[;a]  - software				N5 Tango
+毎日[まいにち;a] 、 ジョギング[;h] を して[,して;h] います[,います;k2] 。	I go jogging every day.	ジョギング[;h]	ジョギング[;h]  - jogging				N5 Tango
+北海道[ほっかいどう;n3] で スキー[;n2] を します[,する;h] 。	I go skiing in Hokkaido.	スキー[;n2]	スキー[;n2]  - skiing				N5 Tango
+マリア[;a] さん は ダンス[;a] が 上手[じょうず;o] です 。	Maria-san dances well.	ダンス[;a]	ダンス[;a]  - dance				N5 Tango
+富士山[ふじさん;a] は 綺麗[きれい;a] な 山[やま;o] です 。	Mt. Fuji is a beautiful mountain.	山[やま;o]	山[やま;o]  - mountain				N5 Tango
+海[うみ;a] より 山[やま;o] の 方[ほう;a] が 好[す;o]き です 。	I like the mountains more than the ocean.	海[うみ;a]	海[うみ;a]  - ocean, sea				N5 Tango
+沖縄[おきなわ;h] の 海[うみ;a] で 泳[およ,およぐ;k2]ぎました 。	I swam in the ocean of Okinawa.	泳[およ,およぐ;k2]ぐ	泳[およ,およぐ;k2]ぐ  - swim				N5 Tango
+昨日[きのう;h] 、 プール[;a] で 泳[およ,およぐ;k2]ぎました 。	Yesterday I swam in the pool.	プール[;a]	プール[;a]  - pool				N5 Tango
+この[;h] 川[かわ;o] で 泳[およ,およぐ;k2]がないで ください[,くださる;k3] 。	Please do not swim in this river.	川[かわ;o]	川[かわ;o]  - river				N5 Tango
+川[かわ;o] で 釣[つ;h]り を します[,する;h] 。	I fish in the river.	釣[つ;h]り	釣[つ;h]り  - fishing				N5 Tango
+7月[しちがつ;o,h] に 富士山[ふじさん;a] に 登[のぼ,のぼる;h]ります 。	I will climb Mount Fuji in July.	登[のぼ,のぼる;h]る	登[のぼ,のぼる;h]る  - climb				N5 Tango
+サッカー[;a] の 試合[しあい;h] が あり[,ある;k1]ます  。	There is a soccer game.	試合[しあい;h]	試合[しあい;h]  - game				N5 Tango
+ブラジル[;h] が 勝[か,かつ;k1]ちました 。	Brazil won.	勝[か,かつ;k1]つ	勝[か,かつ;k1]つ  - win ブラジル[;h]  - Brazil				N5 Tango
+山田[やまだ;h] さん は ホアン[;a]  さん に 負[ま,まける;h]けました 。	Yamada-san lost to Huang-san.	負[ま,まける;h]ける	負[ま,まける;h]ける  - lose				N5 Tango
+A「 どちら[;a] が 勝[か,かつ;k1]つ でしょう か 。」 B「 さあ[;a] ..... 分[わか,わかる;k2]りません 。」	"A ""Which side do you think will win?"" B ""Hmm..... I don't know."""	さあ[;a] .....	さあ[;a] ..... - hmm.....				N5 Tango
+強[つよ,つよい;k2]い			強[つよ,つよい;k2]い  - strong				N5 Tango
+弱[よわ,よわい;k2]い			弱[よわ,よわい;k2]い  - weak				N5 Tango
+相撲[すもう;h]			相撲[すもう;h]  - sumo wrestling				N5 Tango
+柔道[じゅうどう;a]			柔道[じゅうどう;a]  - judo				N5 Tango
+ゴルフ[;a]			ゴルフ[;a]  - golf				N5 Tango
+今日[きょう;a] の 天気[てんき;a] は どう[;a] です か 。	How is the weather today?	天気[てんき;a]	天気[てんき;a]  - weather				N5 Tango
+天気[てんき;a] が いい[,いい;k1] です 。  あの人[あのひと;n2,o] は いい人[いいひと,いい;k1] です 。	The weather is good. He/she is a good person.	いい[,いい;k1]	いい[,いい;k1]  - good あの人[あのひと;n2,o]  - that person				N5 Tango
+天気[てんき;a] が 悪[わる,わるい;k2]い です 。  あの人[あのひと;n2,o] は 悪い人[わるいひと,わるい;k2] です 。	The weather is bad. He/she is a bad person.	悪[わる,わるい;k2]い	悪[わる,わるい;k2]い  - bad				N5 Tango
+A「 おはよう[;h] ございます[,ございます;k4] 。 いい[,いい;k1] お天気[おてんき;n2] です ね 。」 B「 そう[;a] です ね 。」	"A ""Good morning. The weather is nice, isn't it?"" B ""Yes, it sure is."""	いい[,いい;k1] お天気[おてんき;n2] です ね	いい[,いい;k1] お天気[おてんき;n2] です ね  - the weather is nice				N5 Tango
+今日[きょう;a] は 雨[あめ;a] です 。	It is raining today.	雨[あめ;a]	雨[あめ;a]  - rain				N5 Tango
+昨日[きのう;h] は 雪[ゆき;o] でし た。	It snowed yesterday.	雪[ゆき;o]	雪[ゆき;o]  - snow				N5 Tango
+今日[きょう;a] 、 雨[あめ;a] が 降[ふ,ふる;k1]ります 。	Today, it will rain.	降[ふ,ふる;k1]る	降[ふ,ふる;k1]る  - fall				N5 Tango
+暑[あつ,あつい;k2]い			暑[あつ,あつい;k2]い  - hot				N5 Tango
+涼[すず,すずしい;k3]しい			涼[すず,すずしい;k3]しい  - cool				N5 Tango
+寒[さむ,さむい;k2]い			寒[さむ,さむい;k2]い  - cold				N5 Tango
+暖[あたた,あたたかい;k4]かい			暖[あたた,あたたかい;k4]かい  - warm				N5 Tango
+6月[ろくがつ;o,h] は 雨[あめ;a] が 多[おお,おおい;k1,k2]い です 。	It rains a lot in June.	多[おお,おおい;k1,k2]い	多[おお,おおい;k1,k2]い  - a lot				N5 Tango
+1月[いちがつ;o,h] は 雨[あめ;a] が 少[すく,すくない;k3]ない です 。	There is little rain in January.	少[すく,すくない;k3]ない	少[すく,すくない;k3]ない  - little, fewer in quantity				N5 Tango
+明日[あした;h] は 暑[あつ,あつい;k2]い と 思[おも,おもう;k2]います 。	I think it will be hot tomorrow.	思[おも,おもう;k2]う	思[おも,おもう;k2]う  - think				N5 Tango
+明日[あした;h] は 多分[たぶん;h] 雨[あめ;a] だ と 思[おも,おもう;k2]います 。	I think it might rain tomorrow.	多分[たぶん;h]	多分[たぶん;h]  - maybe				N5 Tango
+きっと[;h] 雪[ゆき;o] が 降[ふ,ふる;k1]る でしょう 。	It will certainly snow.	きっと[;h]	きっと[;h]  - certainly, surely				N5 Tango
+学校[がっこう;h] へ 傘[かさ;a] を 持[も,もつ;k1]って きました[,くる;k1] 。	I brought an umbrella to school.	持[も,もつ;k1]って くる[,くる;k1]	持[も,もつ;k1]って くる[,くる;k1]  - bring				N5 Tango
+会社[かいしゃ;h] へ 傘[かさ;a] を 持[も,もつ;k1]って いきます[,いく;h] 。	I took an umbrella to work today.	持[も,もつ;k1]って いく[,いく;h]	持[も,もつ;k1]って いく[,いく;h]  - take				N5 Tango
+毎日[まいにち;a] 、 天気[てんき;a] の 番組[ばんぐみ;h,o] を 見[み,みる;k1]ます 。	I watch the weather forecast program every day.	番組[ばんぐみ;h,o]	番組[ばんぐみ;h,o]  - program				N5 Tango
+去年[きょねん;a] 、 日本[にほん;n2] へ 来[き,くる;k1]ました 。	I came to Japan last year.	去年[きょねん;a]	去年[きょねん;a]  - last year				N5 Tango
+今年[ことし;h] 、 イギリス[;h] へ 留学[りゅうがく;h] します[,する;h] 。	I will study in Britain this year.	今年[ことし;h]	今年[ことし;h]  - this year 留学[りゅうがく;h] (する) - study overseas				N5 Tango
+来年[らいねん;h] 、 国[くに;h] へ 帰[かえ,かえる;k1]ります 。	I will return to my country next year.	来年[らいねん;h]	来年[らいねん;h]  - next year				N5 Tango
+A「 いつ[,いつ;k1] 、 国[くに;h] へ 帰[かえ,かえる;k1]ります か 。」 B「 来年[らいねん;h] 、 帰[かえ,かえる;k1]ります 。」	"A ""When are you returning to your country?"" B ""I will return next year."""	いつ[,いつ;k1]	いつ[,いつ;k1]  - when?				N5 Tango
+日本[にほん;n2] の 季節[きせつ;a,n2] は 四[よっ;o]つ あり[,ある;k1]ます  。	There are four seaons in Japan.	季節[きせつ;a,n2]	季節[きせつ;a,n2]  - season   ー つ  - general counter				N5 Tango
+春[はる;a]			春[はる;a]  - spring				N5 Tango
+夏[なつ;o]			夏[なつ;o]  - summer				N5 Tango
+秋[あき;a]			秋[あき;a]  - fall				N5 Tango
+冬[ふゆ;o]			冬[ふゆ;o]  - winter				N5 Tango
+夏[なつ;o] が 一番[いちばん;n2] 好[す;o]き です 。	I like summer the most.	一番[いちばん;n2]	一番[いちばん;n2]  - best, most				N5 Tango
+冬[ふゆ;o] に な[,なる;k1]りました 。 寒[さむ,さむい;k2]く な[,なる;k1]りました 。  いつか[;a] 社長[しゃちょう;h] に な[,なる;k1]りたい です 。	It's winter now. It's getting cold. I want to become a company president someday.	な[,なる;k1]る	な[,なる;k1]る - become いつか[;a]  - someday				N5 Tango
+母[はは;a] は 花[はな;o] が 好[す;o]き です 。	My mother likes flowers.	花[はな;o]	花[はな;o]  - flower				N5 Tango
+月[つき;o] が 綺麗[きれい;a] です 。	The moon is beautiful.	月[つき;o]	月[つき;o]  - moon				N5 Tango
+日本人[にほんじん;n4] は 花見[はなみ;o] が 好[す;o]き です 。	The Japanese love flower viewing.	花見[はなみ;o]	花見[はなみ;o]  - flower viewing				N5 Tango
+桜[さくら;h] は 綺麗[きれい;a] な 花[はな;o] です 。	The cherry blossom is a beautiful flower.	桜[さくら;h]	桜[さくら;h]  - cherry blossom				N5 Tango
+夏[なつ;o] に 花火[はなび;a] を 見[み,みる;k1]ました 。	I saw the fireworks in the summer.	花火[はなび;a]	花火[はなび;a]  - fireworks				N5 Tango
+山[やま;o] で 紅葉[もみじ;a] を 見[み,みる;k1]ました 。	I saw the maple leaves in the mountains.	紅葉[もみじ;a]	紅葉[もみじ;a]  - Japanese maple				N5 Tango
+初[はじ;n2]めて 桜[さくら;h] を 見[み,みる;k1]ました 。	I saw the cherry blossoms for the first time.	初[はじ;n2]めて	初[はじ;n2]めて  - first time				N5 Tango
+一度[いちど;n2] 、 花見[はなみ;o] を した[,する;h] こと[;o] が あり[,ある;k1]ます  。	I went to flower viewing once before.	一度[いちど;n2]	一度[いちど;n2]  - once こと[;o]  - event				N5 Tango
+何回[なんかい;a] も 北海道[ほっかいどう;n3] へ 行[い,いく;h]きました 。	I went to Hokkaido many times.	何回[なんかい;a] も	何回[なんかい;a] も  - many times				N5 Tango
+一度[いちど;h]も 京都[きょうと;a] へ 行[い,いく;h]った こと[;o] が あり[,ある;k1]ません 。	I have never been to Kyoto.	一度[いちど;h]も	一度[いちど;h]も  - never				N5 Tango
+公園[こうえん;h] で 花見[はなみ;o] を します[,する;h] 。	I will go flower viewing in the park.	公園[こうえん;h]	公園[こうえん;h]  - park				N5 Tango
+犬[いぬ;o] と 公園[こうえん;h] を 散歩[さんぽ;h] します[,する;h] 。	I will take a walk in the park with my dog.	散歩[さんぽ;h] (する)	散歩[さんぽ;h] (する) - walk				N5 Tango
+A「 桜[さくら;h] が とても[;h] 綺麗[きれい;a] です ね 。」	"A ""The cherry blossoms are very beautiful."""	とても[;h]	とても[;h]  - very				N5 Tango
+B「 本当[ほんとう;o,h]に そう[;a] です ね 。」	"B ""Yes, they really are."""	本当[ほんとう;o,h]に	本当[ほんとう;o,h]に  - honestly, really				N5 Tango
+是非[ぜひ;a] 、 私[わたし;h] の うち[;h] に 来[き,くる;k1]て ください[,くださる;k3] 。	Please definitely come to my house.	是非[ぜひ;a]	是非[ぜひ;a]  - definitely				N5 Tango
+A「 土曜日[どようび;n2] の お花見[おはなみ;o] に 行[い,いく;h]きます か 。」 B「 はい[;a] 、 もちろん[;n2] です 。」	"A ""Will you go to flower viewing on Saturday?"" B ""Yes, of course."""	もちろん[;n2]	もちろん[;n2]  - of course				N5 Tango
+スーパー[;a] で 買い物[かいもの;h] を します[,する;h] 。	I will go shopping at the supermarket.	買い物[かいもの;h]	買い物[かいもの;h]  - shopping				N5 Tango
+これ[;h] を ください[,くださる;k3] 。	Please give me this.	～ を ください[,くださる;k3]	～ を ください[,くださる;k3]  - give me				N5 Tango
+牛乳[ぎゅうにゅう;h] と パン[;a] を 買[か,かう;h]いました 。			牛乳[ぎゅうにゅう;h] と パン[;a] を 買[か,かう;h]いました 。  - I bought milk and bread. と - and				N5 Tango
+ジュース[;a] や アイスクリーム[;n5] を 買[か,かう;h]います 。			ジュース[;a] や アイスクリーム[;n5] を 買[か,かう;h]います 。  - I will buy juice and ice cream(and others). や - and				N5 Tango
+この[;h] カメラ[;a] は 高[たか,たかい;k2]い です ね 。	This camera is expensive.	高[たか,たかい;k2]い	高[たか,たかい;k2]い  - expensive				N5 Tango
+安[やす,やすい;k2]い カメラ[;a] が 買[か,かう;h]いたい です 。	I want a cheap camera.	安[やす,やすい;k2]い	安[やす,やすい;k2]い  - cheap				N5 Tango
+百[ひゃく;o]			百[ひゃく;o]  - hundred				N5 Tango
+千[せん;a]			千[せん;a]  - thousand				N5 Tango
+万[まん;a]			万[まん;a]  - ten thousand				N5 Tango
+億[おく;a]			億[おく;a]  - hundred million				N5 Tango
+A「 この[;h] パソコン[;h] は いくら[;h,a] です か 。」	"A ""How much is this computer?"""	いくら[;h,a]	いくら[;h,a]  - how much				N5 Tango
+B「 90,000円[きゅうまんえん;h]   です 。」	"B ""It is  90 , 000  yen."""	円[えん;a]	円[えん;a]  - yen 一円[いちえん;h,n2]  - one yen 十円[じゅうえん;h]  - ten yen 百円[ひゃくえん;h]  - one hundred yen 千円[せんえん;a]  - one thousand yen 一万円[いちまんえん;h]  - ten thousand yen 一億円[いちおくえん;h]  - one hundred million yen				N5 Tango
+A「 これ[;h] は ちょっと[;o] 高[たか,たかい;k2]い です ね 。」	"A ""This is a little expensive."""	ちょっと[;o]	ちょっと[;o]  - little				N5 Tango
+B「 では[;a] 、 こちら[;h] は いかが[;n2] です か 。 60,000円[ろくまんえん;h] です 。」	"B ""Then how about this one?  60 , 000  yen."""	では[;a]	では[;a]  - then こちら[;h]  - this				N5 Tango
+A 「 じゃ 、 それ[;h] を ください[,くださる;k3] 。」			"A 「 じゃ 、 それ[;h] を ください[,くださる;k3] 。」  - A ""Okay, then I'll have that one."" じゃ - well, okay"				N5 Tango
+日本[にほん;n2] の お金[おかね;h] は 円[えん;a] です 。	The Japanese currency is yen.	金[かね;h]	金[かね;h]  - money				N5 Tango
+お金[おかね;h] を 払[はら,はらう;k2]います 。	I pay the money.	払[はら,はらう;k2]う	払[はら,はらう;k2]う  - pay				N5 Tango
+お釣[おつ;h]り   は 850円[はっぴやくごじゅうえん;h] です 。	The change is  850  yen.	お釣[おつ;h]り	お釣[おつ;h]り  - change				N5 Tango
+細[こま,こまかい;k3]かい お金[おかね;h] が あり[,ある;k1]ません 。	I don't have any pocket change.	細[こま,こまかい;k3]かい お金[おかね;h]	細[こま,こまかい;k3]かい お金[おかね;h]  - pocket change				N5 Tango
+お金[おかね;h] が 足[た,たりる;h]りません 。	I don't have enough money.	足[た,たりる;h]りる	足[た,たりる;h]りる   - enough				N5 Tango
+東京[とうきょう;h] の 生活[せいかつ;h] は 楽[たの,たのしい;k3]しい です 。	Living in Tokyo is fun.	生活[せいかつ;h]	生活[せいかつ;h]  - life				N5 Tango
+東京[とうきょう;h] は 物価[ぶっか;h] が 高[たか,たかい;k2]い です 。	The cost of living in Tokyo is high.	物価[ぶっか;h]	物価[ぶっか;h]  - cost of living				N5 Tango
+一[ひと;n2]つ			一[ひと;n2]つ  - 1 (general counting)				N5 Tango
+二[ふた;h]つ			二[ふた;h]つ  - 2 (general counting)				N5 Tango
+三[みっ;o]つ			三[みっ;o]つ  - 3 (general counting)				N5 Tango
+四[よっ;o]つ			四[よっ;o]つ  - 4 (general counting)				N5 Tango
+五[いつ;n2]つ			五[いつ;n2]つ  - 5 (general counting)				N5 Tango
+六[むっ;h]つ			六[むっ;h]つ  - 6 (general counting)				N5 Tango
+七[なな;n2]つ			七[なな;n2]つ  - 7 (general counting)				N5 Tango
+八[やっ;h]つ			八[やっ;h]つ  - 8 (general counting)				N5 Tango
+九[ここの;n2]つ			九[ここの;n2]つ  - 9 (general counting)				N5 Tango
+十[とお;a]			十[とお;a]  - 10 (general counting)				N5 Tango
+A「 林檎[りんご;h] を いくつ[;a] 買[か,かう;h]いました か 。」 B「 五[いつ;n2]つ 買[か,かう;h]いました 。」	"A ""How many apples did you buy?"" B ""I bought five."""	いくつ[;a]	いくつ[;a]  - how many?				N5 Tango
+A「 林檎[りんご;h] を 五[いつ;n2]つ ください[,くださる;k3] 。」 B「 はい[;a] 。 全部[ぜんぶ;a] で 500円[ごひゃくえん;h] です 。」	"A ""Please give me  5  apples."" B ""Here you go. It's  500  yen in all."""	全部[ぜんぶ;a] で	全部[ぜんぶ;a] で - in total				N5 Tango
+色々[いろいろ;h] な 店[みせ;o] が あり[,ある;k1]ます  。	There are different kinds of shops.	店[みせ;o]	店[みせ;o]  - shop				N5 Tango
+パン屋[ぱんや;a] で パン[;a] を 買[か,かう;h]います 。	I will buy bread at the bakery.	パン屋[ぱんや;a]	パン屋[ぱんや;a]  - bakery				N5 Tango
+日曜日[にちようび;n3] に デパート[;n2] で 買い物[かいもの;h] しました[,する;h] 。	I went shopping at the department store on Sunday.	デパート[;n2]	デパート[;n2]  - depatment store				N5 Tango
+コンビニ[;h] で お握[おにぎ;n2]り を 売[う,うる;h]って います[,います;k2] 。	The convenience store sells rice balls.	売[う,うる;h]る	売[う,うる;h]る  - sell				N5 Tango
+A「 野菜[やさい;h] の 売り場[うりば;h] は どこ[;a] です か 。」 B「 あそこ[;h] です 。」	"A ""Where is the counter that sells vegetables?."" B ""It is over there."""	売り場[うりば;h]	売り場[うりば;h]  - counter, booth どこ[;a]  - where? あそこ[;h]  - (over) there				N5 Tango
+ニョクマム[;a] は 醤油[しょうゆ;h] の コーナー[;a] に あり[,ある;k1]ます  。	Nuoc mam is in the area where the soy sauce is.	コーナー[;a]	コーナー[;a]  - area, counter ニョクマム[;a]  - Nuoc mam (soy sauce)				N5 Tango
+飲み物[のみもの;n2] は その[;h] 棚[たな;h] です 。	The drinks are on that shelf.	棚[たな;h]	棚[たな;h]  - shelf				N5 Tango
+コンビニ[;h] で コピー[;a] します[,する;h] 。	I will make a copy at the convenience store.	コピー[;a] (する)	コピー[;a] (する) - copy				N5 Tango
+コンサート[;a] の チケット[;n2,a] を 買[か,かう;h]います 。	I will buy a ticket to the concert.	チケット[;n2,a]	チケット[;n2,a]  - ticket				N5 Tango
+パソコン[;h] の カタログ[;h] を 見[み,みる;k1]ます 。	I will look at the computer catalog.	カタログ[;h]	カタログ[;h]  - catalog				N5 Tango
+喫茶店[きっさてん;h,n3] で 雑誌[ざっし;h] を 読[よ,よむ;k1]みました 。	I read a magazine at a coffee shop.	雑誌[ざっし;h]	雑誌[ざっし;h]  - magazine				N5 Tango
+コンビニ[;h] で 新聞[しんぶん;h] を 買[か,かう;h]います 。	I bought a newspaper at the convenience store.	新聞[しんぶん;h]	新聞[しんぶん;h]  - newspaper				N5 Tango
+小[ちい,ちいさい;k3]さい パソコン[;h] が 欲[ほ,ほしい;k2]しい です 。	I want a small computer.	欲[ほ,ほしい;k2]しい	欲[ほ,ほしい;k2]しい  - want				N5 Tango
+コンビニ[;h] で チケット[;n2,a] の 予約[よやく;h] が できます[,できる;k2] 。  ダンス[;a] が できます[,できる;k2] 。	You can make reservations for the tickets at the convenience store. I can dance.	できる[,できる;k2]	できる[,できる;k2]  - can				N5 Tango
+客[きゃく;h]  「 いくら[;h,a] です か 。」  店員[てんいん;h] 「 3500円[さんせんごひゃくえん;h] で ございます[,ございます;k4] 。」	"Customer ""How much is it?"" Clerk ""It's  3500  yen."""	客[きゃく;h]	客[きゃく;h]  - customer 店員[てんいん;h]  - clerk				N5 Tango
+店員[てんいん;h] 「 どんな[;a] カメラ[;a] を お 探[さが,さがす;h]しです か 。」	"Clerk ""What kind of camera are you looking for?"""	探[さが,さがす;h]しです か	探[さが,さがす;h]しです か  - are you looking for something?				N5 Tango
+客[きゃく;h] 「 あの[;h] カメラ[;a] を 見[み,みせる;k2]せて ください[,くださる;k3] 。」	"Customer ""Please show me that camera."""	見[み,みせる;k2]せる	見[み,みせる;k2]せる  - show				N5 Tango
+店員[てんいん;h] 「 かしこまりました[,かしこまる;k4] 。 少々[しょうしょう;a] お待ち[おまち;h] ください[,くださる;k3] 。」	"Clerk ""Very well. Please wait a little bit."""	かしこまりました[,かしこまる;k4]	かしこまりました[,かしこまる;k4]  - very well 少々[しょうしょう;a] お待ち[おまち;h] ください[,くださる;k3]  - please wait a while				N5 Tango
+～ 方[かた;h]			～ 方[かた;h]  - way to ～				N5 Tango
+現金[げんきん;n3] が あり[,ある;k1]ません 。	I don't have any cash.	現金[げんきん;n3]	現金[げんきん;n3]  - cash				N5 Tango
+ATM[エーティーエム;n5] で お金[おかね;h] を 下[お,おろす;k2]ろします 。	I withdraw cash from the ATM	下[お,おろす;k2]ろす	下[お,おろす;k2]ろす  - withdraw				N5 Tango
+A「 ATM[エーティーエム;n5] の 使い方[つかいかた;h] が 分[わか,わかる;k2]りません 。」  B「 お引き出[おひきだ;h]し です か 。」 A「 はい[;a] 。」 B「 では[;a] 、 こちら[;h] へ どうぞ[;a] 。」	"A ""I don't know how to use the ATM"" B ""Are you here for a withdrawal?"" A ""Yes."" B ""Then come this way please."""	お引き出[おひきだ;h]し です か	お引き出[おひきだ;h]し です か  - are you here for withdrawal?				N5 Tango
+まず[;a] 、 キャッシュカード[;n4] を 入[い,いれる;h]れて ください[,くださる;k3] 。	First, please insert your cash card.	まず[;a]	まず[;a]  - first キャッシュカード[;n4]  - cash card				N5 Tango
+次[つぎ;n2]に 、 暗証番号[あんしょうばんごう;n5] を 押[お,おして;h]して ください[,くださる;k3] 。	Next, enter your PIN.	次[つぎ;n2]に	次[つぎ;n2]に  - next 暗証番号[あんしょうばんごう;n5]  - PIN code 押[お,おす;h]す  - push				N5 Tango
+それから[;h] 、 金額[きんがく;h] を 押[お,おして;h]して ください[,くださる;k3] 。	Then, enter the amount of cash you would like.	それから[;h]	それから[;h]  - then 金額[きんがく;h]  - amount				N5 Tango
+確認[かくにん;h] ボタン[;h] を 押[お,おして;h]して ください[,くださる;k3] 。	Press the confirmation button.	確認[かくにん;h] (する)	確認[かくにん;h] (する) - confirm ボタン[;h]  - button				N5 Tango
+ここ[;h] から お金[おかね;h] が 出[で,でる;k1]ます 。	The money will come out from here.	出[で,でる;k1]る	出[で,でる;k1]る  - come out ここ[;h]  - here				N5 Tango
+円[えん;a] を ドル[;a] に 換[か,かえる;h]えます 。	I will exchange yen to dollars.	換[か,かえる;h]える	換[か,かえる;h]える  - exchange				N5 Tango
+明日[あした;h] 、 郵便局[ゆうびんきょく;n3] へ 行[い,いく;h]きます 。	I will go to the post office tomorrow.	郵便局[ゆうびんきょく;n3]	郵便局[ゆうびんきょく;n3]  - post office				N5 Tango
+手紙[てがみ;h] を 書[か,かく;k1]きます 。	I will write a letter.	手紙[てがみ;h]	手紙[てがみ;h]  - letter				N5 Tango
+はがき[;h] を 三枚[さんまい;a] お願[おねが;h]い します[,する;h] 。	Can I have three postcards, please?	はがき[;h]	はがき[;h]  - postcard ー 枚[まい]  - counter for sheets or flat thin objects				N5 Tango
+はがき[;h] を ポスト[;a] に 入[い,いれる;h]れます 。	I will put the postcard in the mail box.	ポスト[;a]	ポスト[;a]  - mailbox				N5 Tango
+メール[;a,h] を 送[おく,おくる;h]ります 。	I will send you mail.	送[おく,おくる;h]る	送[おく,おくる;h]る  - send メール[;a,h]  - mail				N5 Tango
+切手[きって;h,o] を 買[か,かう;h]います 。	I will buy stamps.	切手[きって;h,o]	切手[きって;h,o]  - stamp				N5 Tango
+切手[きって;h,o] を 集[あつ,あつめる;k3]めて います[,います;k2] 。	I collect stamps.	集[あつ,あつめる;k3]める	集[あつ,あつめる;k3]める  - collect				N5 Tango
+封筒[ふうとう;h] に 手紙[てがみ;h] を 入[い,いれる;h]れます 。	I will put the letter in the envelope.	封筒[ふうとう;h]	封筒[ふうとう;h]  - envelope				N5 Tango
+イギリス[;h] まで エアメール[;n3] で お願[おねが;h]い します[,する;h] 。	Please send this to Britain by airmail.	エアメール[;n3]	エアメール[;n3]  - airmail				N5 Tango
+航空便[こうくうびん;h,n3] で 送[おく,おくる;h]ります 。	It will send by airmail.	航空便[こうくうびん;h,n3]	航空便[こうくうびん;h,n3]  - airmail				N5 Tango
+船便[ふなびん;h,n2] で 送[おく,おくる;h]ります 。	It will send by surface mail.	船便[ふなびん;h,n2]	船便[ふなびん;h,n2]  - surface mail				N5 Tango
+航空便[こうくうびん;h,n3] で 手紙[てがみ;h] を 出[だ,だす;k1]します 。	I will send a letter by airmail.	出[だ,だす;k1]す	出[だ,だす;k1]す  - send				N5 Tango
+先生[せんせい;n3] に 年賀状[ねんがじょう;n3,h] を 出[だ,だす;k1]します 。	I will send a New Year's card to my teacher.	年賀状[ねんがじょう;n3,h]	年賀状[ねんがじょう;n3,h]  - new year's card				N5 Tango
+郵便局[ゆうびんきょく;n3] で 荷物[にもつ;a] を 送[おく,おくる;h]ります 。	I will send the package at the post office.	荷物[にもつ;a]	荷物[にもつ;a]  - package				N5 Tango
+この[;h] 荷物[にもつ;a] は 重[おも,おもい;h]い です ね 。	This package is heavy.	重[おも,おもい;h]い	重[おも,おもい;h]い  - heavy				N5 Tango
+この[;h] 荷物[にもつ;a] は 軽[かる,かるい;h]い です ね 。	This package is light.	軽[かる,かるい;h]い	軽[かる,かるい;h]い  - light				N5 Tango
+友達[ともだち;h] に プレゼント[;n2] を あげます[,あげる;h] 。	I will give a present to my friend.	あげる[,あげる;h]	あげる[,あげる;h]  - give (giver's perspective) プレゼント[;n2]  - present				N5 Tango
+父[ちち;o,a] に 辞書[じしょ;a] を もらいました[,もらう;h] 。	I received a dictionary from my father.	もらう[,もらう;h]	もらう[,もらう;h]  - receive				N5 Tango
+友達[ともだち;h] が お土産[おみやげ;h] を くれました[,くれる;h] 。	My friend gave me a souvenir.	くれ[,くれる;h,o] る	くれ[,くれる;h,o] る   - give (receiver's perspective)				N5 Tango
+色々[いろいろ;h] な 物[もの;h] を もらいました[,もらう;h] 。	I received many things.	物[もの;h]	物[もの;h]  - thing				N5 Tango
+友達[ともだち;h] と パーティー[;a] を します[,する;h] 。	I will have a party with my friends.	パーティー[;a]	パーティー[;a]  - party				N5 Tango
+6時[ろくじ;n2] に パーティー[;a] を 始[はじ,はじめる;h]めます 。	The party will start at  6 : 00 PM.	始[はじ,はじめる;h]める	始[はじ,はじめる;h]める  - start (transitive)				N5 Tango
+A「 あの人[あのひと;n2,o] は 誰[だれ;a] です か 。」 B「 ホアン[;a]  さん です よ 。」	"A ""Who is that person?"" B ""It is Huang-san."""	誰[だれ;a]	誰[だれ;a]  - who?				N5 Tango
+B「 あの方[あのかた;n3,o] は 大学[だいがく;h] の スミス[;a] 先生[せんせい;n3] です 。」	"B ""That's Professor Smith from the university."""	あの方[あのかた;n3,o]	あの方[あのかた;n3,o]  - that person				N5 Tango
+A「 あの方[あのかた;n3,o] は どなた[;a] です か 。」	"A ""Who is that person?"""	どなた[;a]	どなた[;a]  - who?				N5 Tango
+クリスマス[;n3] に パーティー[;a] を します[,する;h] 。	I will hold a party on Christmas.	クリスマス[;n3]	クリスマス[;n3]  - Christmas				N5 Tango
+A「 誕生日[たんじょうび;n3] は いつ[;a] です か 。」 B「 5月[ごがつ;a] 5日[いつか;h] です 。」	"A ""When is your birthday?"" B ""It's May  5 th."""	誕生日[たんじょうび;n3]	誕生日[たんじょうび;n3]  - birthday				N5 Tango
+友達[ともだち;h] に 子供[こども;h] が 生[う,うまれる;h]まれました 。	My friend had a baby.	生[う,うまれる;h]まれる	生[う,うまれる;h]まれる  - born				N5 Tango
+A「 お誕生日[おたんじょうび;n4] おめでとう[;h] ございます[,ございます;k4] 。」 B「 ありがとう[;h] ございます[,ございます;k4] 。」	"A ""Happy Birthday."" B ""Thank you."""	おめでとう[;h] ( ございます[,ございます;k4] )	おめでとう[;h] ( ございます[,ございます;k4] ) - congratulations				N5 Tango
+A「 これ[;h] 、 プレゼント[;n2] です 。」 B「 わあ[;a] 、 ありがとう[;h] ございます[,ございます;k4] 。」	"A ""This is a present."" B ""Oh, thank you very much."""	わあ[;a]	わあ[;a]  - oh				N5 Tango
+ー歳	ーyears old	一歳[いっさい;a]	一歳[いっさい;a]  -  1  year old 二歳[にさい;a]  -  2  years old 三歳[さんさい;a]  -  3  years old 四歳[よんさい;a]  -  4  years old 五歳[ごさい;a]  -  5  years old 六歳[ろくさい;a]  -  6  years old 七歳[ななさい;n2]  -  7  years old 八歳[はっさい;a]  -  8  years old 九歳[きゅうさい;a]  -  9  years old 十歳[じゅっさい;a]  -  10  years old 二十歳[はたち;a]  -  20  years old				N5 Tango
+A「 ホアン[;a] さん は 何歳[なんさい;a] です か 。」 B「 2[にじゅう;a] 1歳[いっさい;a] です 。」	"A ""How old are you Huang-san?"" B ""I'm  21  years old."""	何歳[なんさい;a]	何歳[なんさい;a]  - how old?				N5 Tango
+A「 弟[おとうと;o] さん は おいくつ[;n2] です か 。」 B「 15歳[じゅうごさい;a] です 。」	"A ""How old is your younger brother."" B ""He is  15  years old."""	おいくつ[;n2]	おいくつ[;n2]  - how old?				N5 Tango
+ー日	ーday of the month		1日[ついたち;o] 2日[ふつか;h] 3日[みっか;h] 4日[よっか;h] 5日[いつか;h] 6日[むいか;h] 7日[なのか;h] 8日[ようか;h] 9日[ここのか;h] 10日[とおか;h] 11日[じゅういちにち;o] 12日[じゅうににち;o] 13日[じゅうさんにち;n3] 14日[じゅうよっか;n3] 15日[じゅうごにち;n3] 16日[じゅうろくにち;o] 17日[じゅうしちにち;o] 18日[じゅうはちにち;o] 19日[じゅうくにち;n3] 20日[はつか;h] 2[にじゅう;a] 1日[いちにち;o] 2[にじゅう;a] 2日[ににち;o] 2[にじゅう;a] 3日[さんにち;a] 2[にじゅう;a] 4日[よっか;o] 2[にじゅう;a] 5日[ごにち;a] 2[にじゅう;a] 6日[ろくにち;o] 2[にじゅう;a] 7日[しちにち;o] 2[にじゅう;a] 8日[はちにち;o] 2[にじゅう;a] 9日[くにち;a] 30日[さんじゅうにち;n3,a] 3[さんじゅう;a] 1日[いちにち;h]				N5 Tango
+A「 今日[きょう;a] は 何日[なんにち;a] です か 。」 B「 5日[いつか;h] です 。」	"A ""What is today's date."" B ""It's the  5 th."""	何日[なんにち;a]	何日[なんにち;a]  - what date?				N5 Tango
+東京[とうきょう;h] 駅[えき;a] 、 大阪[おおさか;h] 駅[えき;a] 、 広島[ひろしま;h] 駅[えき;a]	Tokyo Station, Osaka Station, Hiroshima Station	駅[えき;a]	駅[えき;a]  - station				N5 Tango
+各駅[かくえき;a,h]			各駅[かくえき;a,h]  - local train, bus				N5 Tango
+急行[きゅうこう;h]			急行[きゅうこう;h]  - express train				N5 Tango
+特急[とっきゅう;h]			特急[とっきゅう;h]  - limited express train				N5 Tango
+新幹線[しんかんせん;n3]			新幹線[しんかんせん;n3]  - bullet train				N5 Tango
+急行[きゅうこう;h] に 乗[の,のる;h]ります 。	I will get on the express train.	乗[の,のる;h]る	乗[の,のる;h]る  - get on				N5 Tango
+駅[えき;a] で 電車[でんしゃ;h,a] に 乗[の,のる;h]ります 。	I get on the train at the station.	電車[でんしゃ;h,a]	電車[でんしゃ;h,a]  - train				N5 Tango
+渋谷[しぶや;h] で 電車[でんしゃ;h,a] を 降[お,おりる;k2]ります 。	I will get off the train in Shibuya.	降[お,おりる;k2]りる	降[お,おりる;k2]りる  - get off				N5 Tango
+駅[えき;a] で 切符[きっぷ;h] を 買[か,かう;h]います 。	I will buy a ticket at the station.	切符[きっぷ;h]	切符[きっぷ;h]  - ticket				N5 Tango
+次[つぎ;o] の 駅[えき;a] は 新宿[しんじゅく;h] です 。	The next station is Shinjuku.	次[つぎ;o] の	次[つぎ;o] の - next				N5 Tango
+東京[とうきょう;h] 駅[えき;a] で 乗り換[のりか,のりかえる;k4,k3]えます 。	I transfer at Tokyo Station	乗り換[のりか,のりかえる;k4,k3]える	乗り換[のりか,のりかえる;k4,k3]える  - change, transfer				N5 Tango
+京都[きょうと;a] 駅[えき;a] で 地下鉄[ちかてつ;h] に 乗[の,のる;h]ります 。	I will take the subway from Kyoto Station.	地下鉄[ちかてつ;h]	地下鉄[ちかてつ;h]  - subway				N5 Tango
+8番線[はちばんせん;h] で 急行[きゅうこう;h] に 乗[の,のる;h]ります 。	I will take the express from track number  8 .	番線[ばんせん;h]	番線[ばんせん;h]  - track number				N5 Tango
+A「 新幹線[しんかんせん;n3] は 何番線[なんばんせん;h] です か 。」 B「 14番線[じゅうよんばんせん;h] です 。」	"A ""What track number is the Shinkansen at?"" B ""It's track number  14 ."""	何番線[なんばんせん;h]	何番線[なんばんせん;h]  - what track?				N5 Tango
+トヨタ[;a] は 自動車[じどうしゃ;n2,h] の 会社[かいしゃ;h] です 。	Toyota is an automobile company.	自動車[じどうしゃ;n2,h]	自動車[じどうしゃ;n2,h]  - automobile				N5 Tango
+これ[;h] は 車[くるま;h] の 雑誌[ざっし;h] です 。	This is a car magazine.	車[くるま;h]	車[くるま;h]  - car				N5 Tango
+車[くるま;h] を 運転[うんてん;h] します[,する;h] 。	I drive a car.	運転[うんてん;h] (する)	運転[うんてん;h] (する) - drive				N5 Tango
+A「 車[くるま;h] で 駅[えき;a] まで 送[おく,おくる;h]りましょう か 。」 B「 ありがとう[;h] ございます[,ございます;k4] 。」	"A ""Shall I drive you to the train station."" B ""Thank you very much."""	送[おく,おくる;h]る	送[おく,おくる;h]る  - send, escort				N5 Tango
+駐車場[ちゅうしゃじょう;h] は あり[,ある;k1]ません 。	There is no parking lot.	駐車場[ちゅうしゃじょう;h]	駐車場[ちゅうしゃじょう;h]  - parking lot				N5 Tango
+駐車場[ちゅうしゃじょう;h] に 車[くるま;h] を 止[と,とめる;h]めます 。 ここ[;h] で 止[と,とめる;h]めて ください[,くださる;k3] 。	I will park the car in the parking lot. Please park here.	止[と,とめる;h]める	止[と,とめる;h]める  - park (vehicle)				N5 Tango
+自転車[じてんしゃ;n2,h] で 駅[えき;a] まで 行[い,いく;h]きます 。	I will go to the station by bicycle.	自転車[じてんしゃ;n2,h]	自転車[じてんしゃ;n2,h]  - bicycle				N5 Tango
+バイク[;a] で 会社[かいしゃ;h] へ 来[き,くる;k1]ました 。	I came to the office by motorcycle.	バイク[;a]	バイク[;a]  - motorcycle				N5 Tango
+バス[;a] で 名古屋[なごや;a] に 行[い,いく;h]きました 。	I went to Nagoya by bus.	バス[;a]	バス[;a]  - bus				N5 Tango
+タクシー[;a] に 乗[の,のる;h]りましょう 。	Let's take a taxi.	タクシー[;a]	タクシー[;a]  - taxi				N5 Tango
+飛行機[ひこうき;n2] で 3時間[さんじかん;h] ぐらい です 。	It takes about  3  hours by airplane.	飛行機[ひこうき;n2]	飛行機[ひこうき;n2]  - airplane				N5 Tango
+横浜[よこはま;h] で 船[ふね;a] に 乗[の,のる;h]ります 。	I will take a boat to Yokohama.	船[ふね;a]	船[ふね;a]  - boat				N5 Tango
+バス[;a] 乗り場[のりば;h] は どこ[;a] です か 。	Where is the bus stop?	乗り場[のりば;h]	乗り場[のりば;h]  - bus/taxi stand				N5 Tango
+空港[くうこう;h] は 成田[なりた;a] に あり[,ある;k1]ます  。	The airport is in Narita.	空港[くうこう;h]	空港[くうこう;h]  - airport				N5 Tango
+駅[えき;a] に 時刻表[じこくひょう;h] が あり[,ある;k1]ます  。	There is a timetable at the station.	時刻表[じこくひょう;h]	時刻表[じこくひょう;h]  - time table				N5 Tango
+時間[じかん;h] が あり[,ある;k1]ます  。 時間[じかん;h] が あり[,ある;k1]ません 。	There is time. There is no time.	時間[じかん;h]	時間[じかん;h]  - time				N5 Tango
+急[いそ,いそぐ;k2]ぎましょう 。	Let's hurry up!	急[いそ,いそぐ;k2]ぐ	急[いそ,いそぐ;k2]ぐ  - hurry				N5 Tango
+自転車[じてんしゃ;n2,h] で 10分[じゅっぷん;a] ぐらい かかります[,かかる;k2] 。	It takes about  10  minutes by bicycle.	かかる[,かかる;k2]	かかる[,かかる;k2]  - take (time)				N5 Tango
+大学[だいがく;h] まで どのくらい[;h,a] かかります[,かかる;k2] か 。	How long will it take to get to the university?	どのくらい[;h,a]  /  どのぐらい[;h,a]	どのくらい[;h,a]  /  どのぐらい[;h,a]  - how long (time)?				N5 Tango
+大学[だいがく;h] は 駅[えき;a] から 近[ちか,ちかい;k2]い です 。	The university is near the station.	近[ちか,ちかい;k2]い	近[ちか,ちかい;k2]い  - near				N5 Tango
+図書館[としょかん;n2] は うち[;h] から 遠[とお,とおい;h]い です 。	The library is far from home.	遠[とお,とおい;h]い	遠[とお,とおい;h]い  - far				N5 Tango
+特急[とっきゅう;h] の 方[ほう;a] が 急行[きゅうこう;h] より ずっと[;h] 速[はや,はやい;k2]い です 。	The limited express train is much faster than the express train.	ずっと[;h]	ずっと[;h]  - much 速[はや,はやい;k2]い  - fast, quick				N5 Tango
+いつも[;a] 飛行機[ひこうき;n2] で 大阪[おおさか;h] へ 行[い,いく;h]きます 。	I always go to Osaka by airplane.	いつも[;a]	いつも[;a]  - always				N5 Tango
+大抵[たいてい;h] バス[;a] で 帰[かえ,かえる;k1]ります 。	I mostly take the bus to go home.	大抵[たいてい;h]	大抵[たいてい;h]  - mostly				N5 Tango
+よく[;a] 公園[こうえん;h] を 散歩[さんぽ;h] します[,する;h] 。	I often take a walk in the park.	よく[,よく;k1]	よく[,よく;k1]  - often				N5 Tango
+時々[ときどき;h] タクシー[;a] に 乗[の,のる;h]ります 。	I sometimes take a taxi.	時々[ときどき;h]	時々[ときどき;h]  - sometimes				N5 Tango
+一回[いっかい;h,n3] だけ 飛行機[ひこうき;n2] に 乗[の,のる;h]った こと[;o] が あり[,ある;k1]ます  。			一回[いっかい;h,n3] だけ 飛行機[ひこうき;n2] に 乗[の,のる;h]った こと[;o] が あり[,ある;k1]ます  。  - I have only taken an airplane once. だけ - only				N5 Tango
+A「 空港[くうこう;h] まで どうやって[;a] 行[い,いく;h]きます か 。」 B「 新宿[しんじゅく;h] から バス[;a] で 行[い,いく;h]きます 。」	"A ""How do I get to the airport."" B ""You can take the bus from Shinjuku."""	どうやって[;a]	どうやって[;a]  - how?				N5 Tango
+歩[ある,あるく;k2]いて スーパー[;a] に 行[い,いく;h]きます 。	I will walk to the supermarket.	歩[ある,あるく;k2]く	歩[ある,あるく;k2]く  - walk				N5 Tango
+この[;h] 道[みち;h] を 知[し,しる;h]って います[,います;k2] 。	I know this road.	道[みち;h]	道[みち;h]  - road				N5 Tango
+この[;h] 道[みち;h] を 真っ直[まっす;n3]ぐ 行[い,いく;h]って ください[,くださる;k3] 。	Please go straight on this road.	真っ直[まっす;n3]ぐ	真っ直[まっす;n3]ぐ  - straight				N5 Tango
+角[かど;a]			角[かど;a]  - corner				N5 Tango
+交差点[こうさてん;h,n3]			交差点[こうさてん;h,n3]  - intersection				N5 Tango
+信号[しんごう;h]			信号[しんごう;h]  - signal				N5 Tango
+左[ひだり;h]			左[ひだり;h]  - left				N5 Tango
+右[みぎ;a]			右[みぎ;a]  - right				N5 Tango
+橋[はし;o]			橋[はし;o]  - bridge				N5 Tango
+東[ひがし;h,o]			東[ひがし;h,o]  - east				N5 Tango
+西[にし;h]			西[にし;h]  - west				N5 Tango
+南[みなみ;h]			南[みなみ;h]  - south				N5 Tango
+北[きた;h,o]			北[きた;h,o]  - north				N5 Tango
+信号[しんごう;h] を 左[ひだり;h] に 曲[ま,まがる;h]がります 。	I will take a left at the signal.	曲[ま,まがる;h]がる	曲[ま,まがる;h]がる  - bend, turn				N5 Tango
+この[;h] 橋[はし;o] を 渡[わた,わたる;h]ります 。	I will cross this bridge.	渡[わた;h]り	渡[わた;h]り  - cross				N5 Tango
+行き方[いきかた;h] を 説明[せつめい;h] して[,して;h] ください[,くださる;k3] 。	Please explain the directions to me.	説明[せつめい;h] (する)	説明[せつめい;h] (する) - explanation				N5 Tango
+A「 銀行[ぎんこう;h] へ 行[い,いく;h]きたい です 。 いくつ目[いくつめ;h] の 交差点[こうさてん;h,n3] です か 。」 B「 3つ目[みっつめ;h] です よ 。」	"A ""I want to go to the bank. Which intersection is it on?."" B ""It is on the third one."""	いくつ目[いくつめ;h]	いくつ目[いくつめ;h]  - which? (ordinal) ー つ 目[め;o]  - number (ordinal) 1つ目[ひとつめ;o] 2つ目[ふたつめ;o] 3つ目[みっつめ;h]				N5 Tango
+A「 何[なん;h] メートル[;h] ぐらい 歩[ある,あるく;k2]きます か 。」	"A ""How many meters do I need to walk?"""	何[なん;h] メートル[;h]	何[なん;h] メートル[;h]  - how many meters?				N5 Tango
+B「 500[ごひゃく;h] メートル[;h] ぐらい 歩[ある,あるく;k2]きます 。」			"B「 500[ごひゃく;h] メートル[;h] ぐらい 歩[ある,あるく;k2]きます 。」  - B ""You need to walk about 500 meters."" ーメートル - ーmeters"				N5 Tango
+隣[となり;h]			隣[となり;h]  - neighbor				N5 Tango
+間[あいだ;h]			間[あいだ;h]  - between				N5 Tango
+近[ちか;n2,a]く			近[ちか;n2,a]く  - near				N5 Tango
+上[うえ;h]			上[うえ;h]  - on, over, above				N5 Tango
+下[した;o]			下[した;o]  - under, below				N5 Tango
+前[まえ;a]			前[まえ;a]  - front				N5 Tango
+後[うし;h]ろ			後[うし;h]ろ  - behind				N5 Tango
+中[なか;a]			中[なか;a]  - inside				N5 Tango
+外[そと;a]			外[そと;a]  - outside				N5 Tango
+そこ[;h]			そこ[;h]  - there (near listener)				N5 Tango
+日曜日[にちようび;n3] に よく[;a] 出[で,でかける;h]かけます 。	I go out frequently on Sundays.	出[で,でかける;h]かける	出[で,でかける;h]かける  - go out				N5 Tango
+8時[はちじ;n2] に うち[;h] を 出[で,でる;k1]ます 。  去年[きょねん;a] 、 高校[こうこう;h] を 出[で,でる;k1]ました 。	I leave the house at  8 AM. I graduated from high school last year.	出[で,でる;k1]る	出[で,でる;k1]る  - leave (go outside, graduate)				N5 Tango
+10時[じゅうじ;a] に 会社[かいしゃ;h] に 着[つ,つく;k1,o]きます 。	I arrive at the office at  10 AM.	着[つ,つく;k1,o]く	着[つ,つく;k1,o]く  - arrive				N5 Tango
+駅[えき;a] で 友達[ともだち;h] に 会[あ,あう;k1]います 。	I will meet my friend at the station.	会[あ,あう;k1]う	会[あ,あう;k1]う  - meet				N5 Tango
+1時間[いちじかん;n3] 友達[ともだち;h] を 待[ま,まつ;k1]ちました 。	I waited for my friend for an hour.	待[ま,まつ;k1]つ	待[ま,まつ;k1]つ  - wait				N5 Tango
+明日[あした;h] 、 彼女[かのじょ;a] と デート[;a] します[,する;h] 。	I will go on a date with her tomorrow.	デート[;a] (する)	デート[;a] (する) - date (romantic)				N5 Tango
+友達[ともだち;h] と 約束[やくそく;h] が あり[,ある;k1]ます  。	I have an appointment with my friends.	約束[やくそく;h] (する)	約束[やくそく;h] (する) - promise				N5 Tango
+今日[きょう;a] は 用事[ようじ;h] が あり[,ある;k1]ます  。	I have an errand to run today.	用事[ようじ;h]	用事[ようじ;h]  - errand				N5 Tango
+今日[きょう;a] は 都合[つごう;h] が いい[,いい;k1] です 。	Today is convenient for me.	都合[つごう;h] が いい[,いい;k1]	都合[つごう;h] が いい[,いい;k1]  - convenient				N5 Tango
+明日[あした;h] は 都合[つごう;h] が 悪[わる,わるい;k2]い です 。	Tomorrow is inconvenient.	都合[つごう;h] が 悪[わる,わるい;k2]い	都合[つごう;h] が 悪[わる,わるい;k2]い  - inconvenient				N5 Tango
+A「 今日[きょう;a] は 駄目[だめ;o] です か 。」 B「 はい[;a] 。 今日[きょう;a] は ちょっと[;o] 。」	"A ""Are things going poorly today?"" B ""Yes. Today is not going very well."""	駄目[だめ;o] です	駄目[だめ;o] です  - not good				N5 Tango
+約束[やくそく;h] の 時間[じかん;h] を 変[か,かえる;h]えます 。	I will change the time of the appointment.	変[か,かえる;h]える	変[か,かえる;h]える  - change				N5 Tango
+お出[おで,おでかける;h]かけ です か			お出[おで,おでかける;h]かけ です か  - are you going on an outing				N5 Tango
+B「 はい[;a] 、 ちょっと[;o] 新宿[しんじゅく;h] まで 。」	"B ""Yes, just to Shinjuku."""	ちょっと[;o]  ～  まで	ちょっと[;o]  ～  まで  - just to～				N5 Tango
+A「 良[よ,よい;k1]かったら 一緒[いっしょ;h] に 広島[ひろしま;h] へ 行[い,いく;h]きません か 。」 B「 はい[;a] 、 是非[ぜひ;a] 。」	"A ""Why don't you come with me to Hiroshima?"" B ""Yes, I would love to."""	良[よ,よい;k1]かったら	良[よ,よい;k1]かったら  - if it's alright with you...				N5 Tango
+すみません[;n4] 、 今日[きょう;a] は 用事[ようじ;h] が あり[,ある;k1]ます  。  すみません[;n4] 、 銀座[ぎんざ;h] まで いくら[;h,a] です か 。	Sorry, I have something to do today. Sorry, how much is it to Ginza?	すみません[;n4]	すみません[;n4]  - excuse me, sorry				N5 Tango
+A「 お茶[おちゃ;h] でも 飲[の,のむ;k1]みません か 。」			"A「 お茶[おちゃ;h] でも 飲[の,のむ;k1]みません か 。」  - A ""How about some tea?"" ～ でも  ～  ません か  - would you ～ or something"				N5 Tango
+B「 すみません[;n4] 。 今日[きょう;a] は ちょっと[;o] 。」	"B ""Sorry, today is not so good."""	は ちょっと[;o]	は ちょっと[;o]  - not so good				N5 Tango
+A「 明日[あした;h] 、 映画[えいが;a,h] を 見[み,みる;k1]ません か 。」 B「 残念[ざんねん;n3] です が 、 明日[あした;h] は ちょっと[;o] 。」	"A ""How about going to the movies tomorrow?"" B ""Unfortunately, tomorrow isn't good for me."""	残念[ざんねん;n3] ですが	残念[ざんねん;n3] ですが  - unfortunately				N5 Tango
+B「 また[;h] 今度[こんど;a] お願[おねが;h]い します[,する;h] 。」	"B ""Next time please."""	また[;h] 今度[こんど;a] お願[おねが;h]い します[,する;h]	また[;h] 今度[こんど;a] お願[おねが;h]い します[,する;h]  - next time please				N5 Tango
+チャンス[;a] が あったら[,あったら;h] 、 北海道[ほっかいどう;n3] へ 行[い,いく;h]きたい です 。	If there is a chance, I would like to go to Hokkaido.	チャンス[;a]	チャンス[;a]  - chance				N5 Tango
+行[い,いく;h]って きます[,くる;k1]			行[い,いく;h]って きます[,くる;k1]  - good bye, i'm off				N5 Tango
+行[い,いく;h]って らっしゃい			行[い,いく;h]って らっしゃい  - have a good day, take care				N5 Tango
+ただいま[;n2]			ただいま[;n2]  - hello, I'm back home				N5 Tango
+お帰[おかえ;n6]りなさい			お帰[おかえ;n6]りなさい  - welcome home				N5 Tango
+私[わたし;h] の 家[いえ;h] は 福岡[ふくおか;n2] に あり[,ある;k1]ます  。	My house is in Fukuoka.	家[いえ;h]	家[いえ;h]  - home				N5 Tango
+部屋[へや;o] に キッチン[;a] が あり[,ある;k1]ます  。	The room has a kitchen.	部屋[へや;o]	部屋[へや;o]  - room キッチン[;a]  - kitchen				N5 Tango
+ドア[;a] を 開[あ,あける;h]けないで ください[,くださる;k3] 。	Please do not open the door.	開[あ,あける;h]ける	開[あ,あける;h]ける  - open ドア[;a]  - door				N5 Tango
+窓[まど;a] を 閉[し,しめる;k2]めても いい[,いい;k1] です か 。	Can I close the window?	閉[し,しめる;k2]める	閉[し,しめる;k2]める  - close 窓[まど;a]  - window				N5 Tango
+これ[;h] は アパート[;n2] の 鍵[かぎ;o] です 。	This is the key to the apartment.	鍵[かぎ;o]	鍵[かぎ;o]  - key アパート[;n2]  - apartment				N5 Tango
+部屋[へや;o] に ベッド[;a] が あり[,ある;k1]ます  。	There is a bed in the room.	ベッド[;a]	ベッド[;a]  - bed				N5 Tango
+ダイニングキッチン[;n6]			ダイニングキッチン[;n6]  - dining-kitchen				N5 Tango
+和室[わしつ;h]			和室[わしつ;h]  - Japanese room				N5 Tango
+トイレ[;a] お手洗[おてあら;n3]い			トイレ[;a] お手洗[おてあら;n3]い  - toilet, bathroom				N5 Tango
+布団[ふとん;h]			布団[ふとん;h]  - futon				N5 Tango
+ダイニングキッチン[;n6] に テーブル[;h] が あり[,ある;k1]ます  。	There is a table in the dining room.	テーブル[;h]	テーブル[;h]  - table				N5 Tango
+辞書[じしょ;a] は 机[つくえ;h] の 上[うえ;h] です 。	The dictionary is on the desk.	机[つくえ;h]	机[つくえ;h]  - desk				N5 Tango
+どうぞ[;a] 座[すわ,すわる;h]って ください[,くださる;k3] 。	Please sit down.	座[すわ,すわる;h]る	座[すわ,すわる;h]る  - sit				N5 Tango
+椅子[いす;h] に 座[すわ,すわる;h]ります 。	I will sit on the chair.	椅子[いす;h]	椅子[いす;h]  - chair				N5 Tango
+ララ[;h] ちゃん[;a] は 家[いえ;h] の 前[まえ;a] に 立[た,たつ;k1]って います[,います;k2] 。	Lara-chan is standing in front of the house.	立[た,たつ;k1]つ	立[た,たつ;k1]つ  - stand				N5 Tango
+一週間[いっしゅうかん;n3] に 一回[いっかい;h,n3] 、 洗濯[せんたく;h] します[,する;h] 。	I do the laundry once a week.	洗濯[せんたく;h] (する)	洗濯[せんたく;h] (する) - laundry				N5 Tango
+毎日[まいにち;a] 、 掃除[そうじ;h] します[,する;h] 。	I clean everyday.	掃除[そうじ;h] (する)	掃除[そうじ;h] (する) - clean				N5 Tango
+ごみ[;o] の 日[ひ;h] は 木曜日[もくようび;n3] です 。	The day to dispose of garbage is Thursday.	ごみ[;o]	ごみ[;o]  - garbage				N5 Tango
+木曜日[もくようび;n3] に ごみ[;o] を 捨[す,すてる;h]てます 。	I will throw away garbage on Thursday.	捨[す,すてる;h]てる	捨[す,すてる;h]てる  - throw away				N5 Tango
+ここ[;h] に 荷物[にもつ;a] を 置[お,おく;h]いて ください[,くださる;k3] 。	Please put the luggage in here.	置[お,おく;h]く	置[お,おく;h]く  - put				N5 Tango
+家族[かぞく;a] は タイ[;a] に 住[す,すむ;k1]んで います[,います;k2] 。	The family lives in Thailand.	住[す,すむ;k1]む	住[す,すむ;k1]む  - live				N5 Tango
+ここ[;h] に 住所[じゅうしょ;a] を 書[か,かく;k1]いて ください[,くださる;k3] 。	Please write your address here.	住所[じゅうしょ;a]	住所[じゅうしょ;a]  - address				N5 Tango
+冷蔵庫[れいぞうこ;n3]			冷蔵庫[れいぞうこ;n3]  - refrigerator				N5 Tango
+洗濯機[せんたくき;n4,n3]			洗濯機[せんたくき;n4,n3]  - washing machine				N5 Tango
+掃除機[そうじき;n3]			掃除機[そうじき;n3]  - vacuum cleaner				N5 Tango
+A「 デパート[;n2] は どの[;a] 建物[たてもの;n2,n3] です か 。」 B「 あの[;h] 建物[たてもの;n2,n3] です 。」	"A ""Which building is the department store?"" B ""It's that building over there."""	建物[たてもの;n2,n3]	建物[たてもの;n2,n3]  - building				N5 Tango
+ホアン[;a]  さん は 寮[りょう;a] に 住[す,すむ;k1]んで います[,います;k2] 。	Huang-san lives in the dormitory.	寮[りょう;a]	寮[りょう;a]  - dormitory				N5 Tango
+会社[かいしゃ;h] は あの[;h] ビル[;a] です 。	The office is in that building.	ビル[;a]	ビル[;a]  - building				N5 Tango
+階段[かいだん;h] は あそこ[;h] です 。	Stairs are over there.	階段[かいだん;h]	階段[かいだん;h]  - stairs				N5 Tango
+A「 ホアン[;a]  さん の 部屋[へや;o] は 何階[なんがい;h] です か 。」 B「 二階[にかい;h] です 。」	"A ""Which floor is Huang-san's room on."" B ""It's on the second floor."""	何階[なんがい;h]	何階[なんがい;h]  - which floor? 一階[いっかい;h] 二階[にかい;h] 三階[さんがい;h] 四階[よんかい;h] 五階[ごかい;h] 六階[ろっかい;h] 七階[ななかい;h] 八階[はっかい;h] 九階[きゅうかい;h] 十階[じゅっかい;h]				N5 Tango
+地下[ちか;a,o]			地下[ちか;a,o]  - basement				N5 Tango
+引っ越[ひっこ;h]し は いつ[;a] です か 。	When are you moving?	引っ越[ひっこ;h]し	引っ越[ひっこ;h]し  - moving				N5 Tango
+来月[らいげつ;a] 、 大阪[おおさか;h] へ 転勤[てんきん;h] します[,する;h] 。	I will be stationed in Osaka next month.	転勤[てんきん;h] (する)	転勤[てんきん;h] (する) - transfer 来月[らいげつ;a]  - next month				N5 Tango
+ここ[;h] は 家賃[やちん;a] が 高[たか,たかい;k2]い です 。	The rent here is high.	家賃[やちん;a]	家賃[やちん;a]  - rent				N5 Tango
+田舎[いなか;h] が 好[す;o]き です 。	I like the countryside.	田舎[いなか;h]	田舎[いなか;h]  - countryside				N5 Tango
+スーパー[;a] が 近[ちか,ちかい;k2]い です 。 便利[べんり;a] です 。	The supermarket is nearby. That's convenient.	便利[べんり;a] な	便利[べんり;a] な  - convenient				N5 Tango
+A「 どんな[;a] 所[ところ;o] に 住[す,すむ;k1]みたい です か 。」 B「 便利[べんり;a] な 所[ところ;o] に 住[す,すむ;k1]みたい です 。」	"A ""What kind of place do you want to live in?"" B ""I want to live some place convenient."""	所[ところ;o]	所[ところ;o]  - place				N5 Tango
+静[しず;a]か な 所[ところ;o] が 好[す;o]き です 。	I like quiet places.	静[しず;a]か な	静[しず;a]か な  - quiet				N5 Tango
+賑[にぎ;n2]やか な 所[ところ;o] に 住[す,すむ;k1]みたい です 。	I want to live in a lively place.	賑[にぎ;n2]やか な	賑[にぎ;n2]やか な  - lively				N5 Tango
+この[;h] アパート[;n2] は 駅[えき;a] から 遠[とお,とおい;h]い です 。 不便[ふべん;a] です 。	This apartment is far from the station. That is inconvenient.	不便[ふべん;a] な	不便[ふべん;a] な  - inconvenient				N5 Tango
+ここ[;h] は 交通[こうつう;h] が 不便[ふべん;a] です 。	It's not easy to get around here.	交通[こうつう;h]	交通[こうつう;h]  - traffic				N5 Tango
+庭[にわ;h] に 犬[いぬ;o] が います[,います;k2] 。	There is a dog in the yard.	庭[にわ;h]	庭[にわ;h]  - garden, yard				N5 Tango
+庭[にわ;h] に 木[き;o] が あり[,ある;k1]ます  。	There is a tree in the yard.	木[き;o]	木[き;o]  - tree				N5 Tango
+鎌倉[かまくら;h] は 緑[みどり;a] が 多[おお,おおい;k1,k2]い です 。	There is a lot of greenery in Kamakura.	緑[みどり;a]	緑[みどり;a]  - greenery				N5 Tango
+この[;h] 町[まち;o] は 若[わか,わかい;k2]い 人[ひと;h] が 多[おお,おおい;k1,k2]い です 。	This are many young people in this town.	若[わか,わかい;k2]い	若[わか,わかい;k2]い  - young				N5 Tango
+80歳[はちじゅうさい;n3] です 。 年[とし;o] を 取[と,とる;k1]りました 。	I am  80  years old. I have grown old.	年[とし;o] を 取[と,とる;k1]る	年[とし;o] を 取[と,とる;k1]る  - get old				N5 Tango
+市役所[しやくしょ;n2] は 駅[えき;a] の 近[ちか;n2,a]く です 。	The city hall is near the station.	市役所[しやくしょ;n2]	市役所[しやくしょ;n2]  - city hall				N5 Tango
+広[ひろ,ひろい;k2]い			広[ひろ,ひろい;k2]い  - spacious				N5 Tango
+狭[せま,せまい;k2]い			狭[せま,せまい;k2]い  - small, cramped				N5 Tango
+新[あたら,あたらしい;k4]しい			新[あたら,あたらしい;k4]しい  - new				N5 Tango
+古[ふる,ふるい;k2]い			古[ふる,ふるい;k2]い  - old				N5 Tango
+いらっしゃい[;n4]			いらっしゃい[;n4]  - welcome				N5 Tango
+どうぞ[;a] お上がり[おあがり,おあがり;h] ください[,くださる;k3] 。			どうぞ[;a] お上がり[おあがり,おあがり;h] ください[,くださる;k3] 。  - please come in				N5 Tango
+失礼[しつれい;n2] します[,する;h] 。			失礼[しつれい;n2] します[,する;h] 。  - excuse me				N5 Tango
+そろそろ[;a] 失礼[しつれい;n2] します[,する;h] 。			そろそろ[;a] 失礼[しつれい;n2] します[,する;h] 。  - I will excuse myself				N5 Tango
+また[;h] いらっしゃって[,いらっしゃる;k4] ください[,くださる;k3]			また[;h] いらっしゃって[,いらっしゃる;k4] ください[,くださる;k3]  - please come again				N5 Tango
+姉[あね;h] の 夫[おっと;h] は 会社員[かいしゃいん;n3] です 。	My elder sister's husband is an office worker.	夫[おっと;h]	夫[おっと;h]  - husband				N5 Tango
+兄[あに;a] の 妻[つま;a] は 日本人[にほんじん;n4] です 。	My elder brother's wife is Japanese.	妻[つま;a]	妻[つま;a]  - wife				N5 Tango
+田中[たなか;h] さん の ご 主人[しゅじん;a] は 社長[しゃちょう;h] です 。	The husband of Mrs. Tanaka is a company president.	ご 主人[しゅじん;a]	ご 主人[しゅじん;a]  - husband				N5 Tango
+山田[やまだ;h] さん の 奥[おく;a]さん は 料理[りょうり;a] が 上手[じょうず;o] です 。	The wife of Mr. Yamada is good at cooking.	奥[おく;a]さん	奥[おく;a]さん  - wife				N5 Tango
+先生[せんせい;n3] に 友達[ともだち;h] を 紹介[しょうかい;h] します[,する;h] 。	I will introduce my friend to the teacher.	紹介[しょうかい;h] (する)	紹介[しょうかい;h] (する) - introduce				N5 Tango
+A「 こちら[;h] は アリ[;h] さん です 。」	"A ""This is Ali-san."""	こちら[;h] は  ～  さん です	こちら[;h] は  ～  さん です  - this is Mr./Mrs.				N5 Tango
+B「 初め[はじめ;h] まして[,まして;k1] 、 アリ[;h] です 。 これから[;h] お世話[おせわ;n2] に な[,なる;k1]ります 。」	"B ""Nice to meet you. I am Ali. Thank you for taking care of me on this occasion."""	これから[;h] お世話[おせわ;n2] に なります	これから[;h] お世話[おせわ;n2] に なります  - thank you for taking care of me on this occasion				N5 Tango
+A「 ご 両親[りょうしん;a] は どちら[;a] に いらっしゃいます[,いらっしゃる;k4] か 。」 B「 トルコ[;a] に います[,います;k2] 。」	"A ""Where are your parents?"" B ""They are in Turkey."""	いらっしゃいます[,いらっしゃる;k4]	いらっしゃいます[,いらっしゃる;k4]  - is here/there トルコ[;a]  - Turkey				N5 Tango
+兄[あに;a] は 独身[どくしん;h] です 。	My brother is single.	独身[どくしん;h]	独身[どくしん;h]  - single				N5 Tango
+来月[らいげつ;a] 、 結婚[けっこん;h] します[,する;h] 。	I will get married next month.	結婚[けっこん;h] (する)	結婚[けっこん;h] (する) - married				N5 Tango
+A「 何[なに;h] を 飲[の,のむ;k1]む ？」 B「 僕[ぼく;a,h] は ジュース[;a] 。」	"A ""What do you want to drink?"" B ""I will have juice."""	僕[ぼく;a,h]	僕[ぼく;a,h]  - I (male)				N5 Tango
+色々[いろいろ;h] ありがとう[;n2] ございました[,ござる;k2] 。	Thank you very much for everything.	色々[いろいろ;h]	色々[いろいろ;h]  - for everything				N5 Tango
+A「 お世話[おせわ;n2] に な[,なる;k1]りました 。」 B「 いいえ[;o] 、 こちら[;h] こそ[;a]  。」	"A ""Thank you for taking care of me."" B ""Not at all, and I thank you the same."""	お世話[おせわ;n2] に な[,なる;k1]りました	お世話[おせわ;n2] に な[,なる;k1]りました  - thank you for taking care of me				N5 Tango
+気[き;h] を つけて[,つける;k2]			気[き;h] を つけて[,つける;k2]  - take care				N5 Tango
+A「 危[あぶ,あぶない;h,k3]ない です 。 気[き;h] を つけて[,つける;k2] ください[,くださる;k3] 。」 B「 はい[;a] 。」	"A ""Watch out. Please be careful."" B ""Yes."""	危[あぶ,あぶない;h,k3]ない	危[あぶ,あぶない;h,k3]ない  - watch out				N5 Tango
+週末[しゅうまつ;h] 、 デート[;a] を します[,する;h] 。	I will go on a date this weekend.	週末[しゅうまつ;h]	週末[しゅうまつ;h]  - weekend				N5 Tango
+一昨日[おととい;n3]			一昨日[おととい;n3]  - the day before yesterday				N5 Tango
+明後日[あさって;n2]			明後日[あさって;n2]  - the day after tomorrow				N5 Tango
+先週[せんしゅう;h]			先週[せんしゅう;h]  - last week				N5 Tango
+今週[こんしゅう;h]			今週[こんしゅう;h]  - this week				N5 Tango
+来週[らいしゅう;h]			来週[らいしゅう;h]  - next week				N5 Tango
+先月[せんげつ;a]			先月[せんげつ;a]  - last month				N5 Tango
+今月[こんげつ;h]			今月[こんげつ;h]  - this month				N5 Tango
+去年[きょねん;a] の 初[はじ;h]め に 日本[にほん;n2] へ 来[き,くる;k1]ました 。	I came to Japan at the beginning of last year.	初[はじ;h]め	初[はじ;h]め  - beginning				N5 Tango
+今月[こんげつ;h] の 終[お,おわり;h]わり に 国[くに;h] へ 帰[かえ,かえる;k1]ります 。	I will return to my country this month.	終[お,おわり;h]わり	終[お,おわり;h]わり  - end				N5 Tango
+部屋[へや;o] に エアコン[;h] が あり[,ある;k1]ます  。	The room has an air conditioner.	エアコン[;h]	エアコン[;h]  - air conditioner				N5 Tango
+エアコン[;h] を 点[つ,つく;k1,o]けます 。	I will turn on the air conditioner.	点[つ;n2]ける	点[つ;n2]ける  - turn on				N5 Tango
+電気[でんき;a] を 点[つ,つく;k1,o]けて ください[,くださる;k3] 。	Please turn on the lights.	電気[でんき;a]	電気[でんき;a]  - electricity, power, lights				N5 Tango
+電気[でんき;a] を 消[け,けす;h]します 。	I will turn off the lights.	消[け,けす;h]す	消[け,けす;h]す  - turn off				N5 Tango
+電気[でんき;a] を 点[つ;n2]ける と 、 明[あか,あかるい;h]るく な[,なる;k1]ります 。	It gets bright when the lights are turned on.	明[あか,あかるい;h]るい	明[あか,あかるい;h]るい  - bright				N5 Tango
+部屋[へや;o] が 暗[くら,くらい;h]い です 。	The room is dark.	暗[くら,くらい;h]い	暗[くら,くらい;h]い  - dark				N5 Tango
+週末[しゅうまつ;h] 、 ビデオ[;a] を 見[み,みる;k1]ます 。	I will watch the video over the weekend.	ビデオ[;a]	ビデオ[;a]  - video				N5 Tango
+スイッチ[;n2,a] は ドア[;a] の 右[みぎ;a] です 。	The switch is on the right side of the door.	スイッチ[;n2,a]	スイッチ[;n2,a]  - switch				N5 Tango
+これ[;h] を 左[ひだり;h] に 回[まわ,まわす;h]す と 、 お湯[おゆ;h] が 出[で,でる;k1]ます 。	Warm water comes out when you turn this to the left.	回[まわ,まわす;h]す	回[まわ,まわす;h]す  - turn, revolve				N5 Tango
+これ[;h] を 引[ひ,ひく;h]く と 、 水[みず;h] が 出[で,でる;k1]ます 。	Water comes out when you pull this.	引[ひ,ひく;h]く	引[ひ,ひく;h]く  - pull				N5 Tango
+スイッチ[;n2,a] を 押[お,おす;h]す と 、 動[うご,うごく;k2]きます 。	It moves when you push the switch.	動[うご,うごく;k2]く	動[うご,うごく;k2]く  - move				N5 Tango
+ラジオ[;a] の 音[おと;o] が 小[ちい,ちいさい;k3]さい です 。	The sound of the radio is weak.	音[おと;o]	音[おと;o]  - sound				N5 Tango
+エアコン[;h] が 故障[こしょう;h] しました[,する;h] 。	The air conditioning is broken.	故障[こしょう;h] (する)	故障[こしょう;h] (する) - broken				N5 Tango
+エアコン[;h] を 修理[しゅうり;a] して[,して;h] ください[,くださる;k3] 。	Please fix the air conditioning.	修理[しゅうり;a] (する)	修理[しゅうり;a] (する) - repair				N5 Tango
+もし[;a] 故障[こしょう;h] したら[,する;h] 、 修理[しゅうり;a] します[,する;h] 。	If it breaks, I will fix it.	もし[;a]  (~ たら)	もし[;a]  (~ たら) - if...then				N5 Tango
+電気屋[でんきや;h] を 呼[よ,よぶ;h]びます 。	I will call the electrician.	呼[よ,よぶ;h]びます	呼[よ,よぶ;h]びます  - call				N5 Tango
+弟[おとうと;o] の パソコン[;h] を 直[なお,なおす;k2]します 。  弟[おとうと;o] の レポート[;n2] を 直[なお,なおす;k2]します 。	I will fix my brother's computer. I will correct my brother's report.	直[なお,なおす;k2]す	直[なお,なおす;k2]す  - fix, correct				N5 Tango
+電気製品[でんきせいひん;n4] を 秋葉原[あきはばら;n3] で 買[か,かう;h]いました 。	I bought electric products in Akihabara.	製品[せいひん;h]	製品[せいひん;h]  - product				N5 Tango
+病気[びょうき;h] に な[,なる;k1]りました 。	I got sick.	病気[びょうき;h]	病気[びょうき;h]  - sick				N5 Tango
+病院[びょういん;h] へ 行[い,いく;h]きます 。	I will go to the hospital.	病院[びょういん;h]	病院[びょういん;h]  - hospital				N5 Tango
+医者[いしゃ;h] 「 どう[;a] しました[,する;h] か 。」	"Doctor ""What's the matter?"""	どう[;a] しました[,する;h] か	どう[;a] しました[,する;h] か  - what's wrong?				N5 Tango
+A「 昨日[きのう;h] から 熱[ねつ;o] が あり[,ある;k1]ます  。」	"A ""I have been running a fever since yesterday."""	熱[ねつ;o]	熱[ねつ;o]  - fever				N5 Tango
+医者[いしゃ;h] 「 風邪[かぜ;h] です ね 。」	"Doctor ""You have a cold."""	風邪[かぜ;h]	風邪[かぜ;h]  - cold				N5 Tango
+医者[いしゃ;h] 「 インフルエンザ[;n5] です 。 お風呂[おふろ;n2] に 入[はい,はいる;k1]らないで ください[,くださる;k3] 。」	"Doctor ""You have the flu. Do not take a bath."""	インフルエンザ[;n5]	インフルエンザ[;n5]  - flu				N5 Tango
+一日[いちにち;h] に 三回[さんかい;h] 薬[くすり;h] を 飲[の,のむ;k1]んで ください[,くださる;k3] 。	Take this medicine  3  times a day.	薬[くすり;h]	薬[くすり;h]  - medicine				N5 Tango
+鼻[はな;h]			鼻[はな;h]  - nose				N5 Tango
+耳[みみ;o]			耳[みみ;o]  - ears				N5 Tango
+口[くち;h]			口[くち;h]  - mouth				N5 Tango
+喉[のど;a]			喉[のど;a]  - throat				N5 Tango
+頭[あたま;o,n2]			頭[あたま;o,n2]  - head				N5 Tango
+お腹[おなか;h]			お腹[おなか;h]  - stomach				N5 Tango
+手[て;o]			手[て;o]  - hand				N5 Tango
+足[あし;o]			足[あし;o]  - foot				N5 Tango
+看護師[かんごし;n3] 「 お大事[おだいじ;h]に 。」	"Nurse ""Please take care."""	お大事[おだいじ;h]に	お大事[おだいじ;h]に  - take care				N5 Tango
+2、3日[にさんにち;n2] 会社[かいしゃ;h] を 休[やす,やすむ;k2]みます 。	I will take two or thee days off from work.	2、3日[にさんにち;n2]	2、3日[にさんにち;n2]  - two, three days				N5 Tango
+歯[は;o] が 痛[いた,いたい;k2]い です 。	My tooth hurts.	～ が 痛[いた,いたい;k2]い	～ が 痛[いた,いたい;k2]い  - hurts				N5 Tango
+昨日[きのう;h] 、 歯医者[はいしゃ;a] へ 行[い,いく;h]きました 。	I went to the dentist yesterday.	歯医者[はいしゃ;a] ( さん )	歯医者[はいしゃ;a] ( さん ) - dentist				N5 Tango
+一人[ひとり;n2] で 病院[びょういん;h] へ 行[い,いく;h]きます 。	I will go to the hospital alone.	一人[ひとり;n2] で	一人[ひとり;n2] で  - alone				N5 Tango
+健康[けんこう;h] に 気[き;h] を つけて[,つける;k2] います[,います;k2] 。	I am mindful of my health.	健康[けんこう;h]	健康[けんこう;h]  - health				N5 Tango
+病院[びょういん;h] に 健康保険証[けんこうほけんしょう;h] を 持[も,もつ;k1]って いきます[,いく;h] 。	I will bring my health insurance card to the hospital.	( 健康[けんこう;h] ) 保険証[ほけんしょう;h]	( 健康[けんこう;h] ) 保険証[ほけんしょう;h]  - health insurance card				N5 Tango
+妹[いもうと;o] は 体[からだ;h] が 弱[よわ,よわい;k2]い です 。	My sister is sickly.	体[からだ;h]	体[からだ;h]  - body				N5 Tango
+ジョギング[;h] は 体[からだ;h] に いい[,いい;k1] です 。	Jogging is good for your health.	体[からだ;h] に いい[,いい;k1]	体[からだ;h] に いい[,いい;k1]  - good for one's health				N5 Tango
+体[からだ;h] の 調子[ちょうし;h] が 良[よ,よく;k1]くない です 。	My condition is not good.	調子[ちょうし;h]	調子[ちょうし;h]  - condition				N5 Tango
+A「 疲[つか,つかれる;k3]れました ね 。 少[すこ;n2]し 休[やす,やすむ;k2]みましょう 。」 B「 はい[;a] 。」	"A ""I'm tired. Let's rest a little."" B ""Okay."""	疲[つか,つかれる;k3]れる	疲[つか,つかれる;k3]れる  - tired				N5 Tango
+A「 今朝[けさ;a] 、 5時[ごじ;a] に 起[お,おきる;k2]きました 。 眠[ねむ,ねむい;h]い です 。」	"A ""I woke up at  5 AM this morning. I'm sleepy."""	眠[ねむ,ねむい;h]い	眠[ねむ,ねむい;h]い  - sleepy				N5 Tango
+B「 早[はや;a]く 寝[ね,ねる;h]た 方[ほう;a] が いい[,いい;k1] です よ 。」	"B ""You should go to sleep early."""	早[はや;a]く	早[はや;a]く  - early				N5 Tango
+A「 毎日[まいにち;a] 、 残業[ざんぎょう;h] します[,する;h] 。」 B「 大変[たいへん;h] です ね 。」	"A ""I work overtime every day."" B ""That is terrible."""	大変[たいへん;h] な	大変[たいへん;h] な  - terrible				N5 Tango
+最近[さいきん;h] 、 仕事[しごと;h] が 忙[いそが,いそがしい;k4]しい です 。	Recently, I have been busy at work.	最近[さいきん;h]	最近[さいきん;h]  - recently				N5 Tango
+母[はは;a] が 心配[しんぱい;h] して[,して;h] います[,います;k2] 。	My mother is worried.	心配[しんぱい;h] (する)	心配[しんぱい;h] (する) - worry				N5 Tango
+自動販売機[じどうはんばいき;n6] で タバコ[;h] を 買[か,かう;h]います 。	I bought cigarettes at the vending machine.	タバコ[;h]	タバコ[;h]  - cigarettes				N5 Tango
+ここ[;h] で タバコ[;h] を 吸[す,すう;h]わないで ください[,くださる;k3] 。	Please do not smoke here.	吸[す,すう;h]う	吸[す,すう;h]う  - smoke				N5 Tango
+駅[えき;a] は 禁煙[きんえん;h] です 。	No smoking at the station.	禁煙[きんえん;h]	禁煙[きんえん;h]  - no smoking				N5 Tango
+A「 一人[ひとり;n2] で 大丈夫[だいじょうぶ;n3] です か 。」 B「 はい[;a] 。」	"A ""Are you ok on your own."" B ""Yes."""	大丈夫[だいじょうぶ;n3]	大丈夫[だいじょうぶ;n3]  - okay				N5 Tango
+ダイエット[;a] を して[,して;h] います[,います;k2] 。	I am on a diet.	ダイエット[;a]	ダイエット[;a]  - diet				N5 Tango
+無理[むり;a] な ダイエット[;a] は 良[よ,よく;k1]くない です 。	An unreasonable diet is not good.	無理[むり;a] な	無理[むり;a] な  - unreasonable				N5 Tango
+時々[ときどき;h] 、 家族[かぞく;a] を 思い出[おもいだ,おもいだす;k4,h,k2]します 。	I sometimes remember my family.	思い出[おもいだ,おもいだす;k4,h,k2]す	思い出[おもいだ,おもいだす;k4,h,k2]す  - remember				N5 Tango
+友達[ともだち;h] が 国[くに;h] へ 帰[かえ,かえる;k1]りました 。 寂[さび,さびしい;k3]しい です 。	My friend returned to his/her home country. I feel lonely.	寂[さび,さびしい;k3]しい	寂[さび,さびしい;k3]しい  - lonely				N5 Tango
+鈴木[すずき;h] 「 ホアン[;a]  さん 、 久[ひさ;h,o]しぶり です ね 。」	"Suzuki ""Huang-san, long time no see!"""	久[ひさ;h,o]しぶり です	久[ひさ;h,o]しぶり です  - long time no see				N5 Tango
+鈴木[すずき;h] 「 お 元気[げんき;a] です か 。」	"Suzuki ""Are you doing ok?"""	元気[げんき;a] です か	元気[げんき;a] です か  - are you doing well?				N5 Tango
+鈴木[すずき;h] 「 お 元気[げんき;a] です か 。」  ホアン[;a]  「 はい[;a] 。 お陰様[おかげさま;h] で。」  鈴木[すずき;h] 「 体[からだ;h] の 調子[ちょうし;h] は どう[;a] です か 。」  ホアン[;a]  「 お陰様[おかげさま;h] で 良[よ,よく;k1]く なりました[,なる;k1] 。」	"Suzuki ""Are you doing ok?"" Huang ""Yes, thanks to everyone."" Suzuki ""How are you feeling?"" Huang ""I have recovered, thanks to everyone."""	お陰様[おかげさま;h] で	お陰様[おかげさま;h] で - thanks to you				N5 Tango
+いつも[;a] パスポート[;n3] を 持[も,もつ;k1]って います[,います;k2] 。	I always carry my passport.	パスポート[;n3]	パスポート[;n3]  - passport				N5 Tango
+大使館[たいしかん;n3] は 東京[とうきょう;h] に あり[,ある;k1]ます  。	The embassy is in Tokyo.	大使館[たいしかん;n3]	大使館[たいしかん;n3]  - embassy				N5 Tango
+大使館[たいしかん;n3] で ビザ[;a] を もらいます[,もらう;h] 。	I will receive my visa at the embassy.	ビザ[;a]	ビザ[;a]  - visa				N5 Tango
+暗証番号[あんしょうばんごう;n5] は 大切[たいせつ;h] です 。	The passcode number is important.	大切[たいせつ;h] な	大切[たいせつ;h] な  - important				N5 Tango
+うち[;h] の 鍵[かぎ;o] を なくしました[,なくす;h] 。	I lost my house key.	なくす[,なくす;h]	なくす[,なくす;h]   - lose				N5 Tango
+お金[おかね;h] を 貸[か,かす;h]して ください[,くださる;k3] 。	Please, lend me some money.	貸[か,かす;h]す	貸[か,かす;h]す  - lend				N5 Tango
+友達[ともだち;h] に お金[おかね;h] を 借[か,かりる;h]ります 。  図書館[としょかん;n2] で 本[ほん;a] を 借[か,かりる;h]ります 。	I will borrow money from a friend. I will borrow books from the library.	借[か,かりる;h]りる	借[か,かりる;h]りる  - borrow				N5 Tango
+図書館[としょかん;n2] に 本[ほん;a] を 返[かえ,かえす;k1]します 。	I will return the book to the library.	返[かえ,かえす;k1]す	返[かえ,かえす;k1]す  - return				N5 Tango
+無駄[むだ;h] な 買い物[かいもの;h] は しません[,する;h] 。	I don't do wasteful shopping.	無駄[むだ;h] な	無駄[むだ;h] な  - wasteful				N5 Tango
+留学[りゅうがく;h] する[,する;h] とき[;h] 、 ビザ[;a] が 要[い,いる;h]ります 。	I need a visa to study abroad.	要[い,いる;h]る	要[い,いる;h]る  - need				N5 Tango
+A「 この[;h] カメラ[;a] は 500,000円[ごじゅうまんえん;h] です 。」 B「 えっ[;a] ？」	"A ""This camera is  500 , 000  yen."" B ""Really?"""	えっ[;a]	えっ[;a]  - really?				N5 Tango
+B「 本当[ほんとう;h] です か 。」	"B ""Is that true?"""	本当[ほんとう;h]	本当[ほんとう;h]  - really, true				N5 Tango
+嘘[うそ;a] じゃ あり[,ある;k1]ません 。 本当[ほんとう;h] です 。	It is not a lie. It's true.	嘘[うそ;a]	嘘[うそ;a]  - lie				N5 Tango
+インターネット[;n5] で 日本[にほん;n2] の 事[こと;o] を 調[しら,しらべる;k3]べました 。	I researched about Japan on the internet.	事[こと;o]	事[こと;o]  - about				N5 Tango
+毎日[まいにち;a] 、 お祈[おいの;h]り を します[,する;h] 。	I pray every day.	お祈[おいの;h]り	お祈[おいの;h]り  - pray				N5 Tango
+この[;h] 絵[え;o] に 触[さわ,さわる;h]らないで ください[,くださる;k3] 。	Please do not touch the picture.	触[さわ,さわる;h]る	触[さわ,さわる;h]る  - touch				N5 Tango
+大[おお,おおきい;k3]きい 夢[ゆめ;o] が あり[,ある;k1]ます  。	I have a big dream.	夢[ゆめ;o]	夢[ゆめ;o]  - dream				N5 Tango
+兄[あに;a] は 大学院[だいがくいん;n4] の 学生[がくせい;h] です 。	My brother is a graduate school student.	大学院[だいがくいん;n4]	大学院[だいがくいん;n4]  - graduate school				N5 Tango
+大学[だいがく;h] で 経済[けいざい;a] を 勉強[べんきょう;h] して[,して;h] います[,います;k2] 。	I'm studying economics in college.	経済[けいざい;a]	経済[けいざい;a]  - economics				N5 Tango
+山田[やまだ;h] さん の 専門[せんもん;h] は 経済[けいざい;a] です 。	Yamada's expertise is economics.	専門[せんもん;h]	専門[せんもん;h]  - expertise				N5 Tango
+10年[じゅうねん;h] ぐらい 、 経済[けいざい;a] を 研究[けんきゅう;h] して[,して;h] います[,います;k2] 。	I have been researching economics for about ten years.	研究[けんきゅう;h] (する)	研究[けんきゅう;h] (する) - research				N5 Tango
+父[ちち;o,a] は 経済[けいざい;a] の 研究者[けんきゅうしゃ;n3] です 。	My father is a scholar of economics.	研究者[けんきゅうしゃ;n3]	研究者[けんきゅうしゃ;n3]  - scholar				N5 Tango
+将来[しょうらい;a] 、 研究者[けんきゅうしゃ;n3] に な[,なる;k1]りたい です 。	I want to become a scholar in the future.	将来[しょうらい;a]	将来[しょうらい;a]  - future				N5 Tango
+専門[せんもん;h] は 美術[びじゅつ;a] です 。	My expertise is art.	美術[びじゅつ;a]	美術[びじゅつ;a]  - art				N5 Tango
+地球[ちきゅう;h] の 事[こと;o] を 研究[けんきゅう;h] して[,して;h] います[,います;k2] 。	I am researching about the Earth.	地球[ちきゅう;h]	地球[ちきゅう;h]  - Earth				N5 Tango
+日本[にほん;n2] の 経済[けいざい;a] について 調[しら,しらべる;k3]べて います[,います;k2] 。			日本[にほん;n2] の 経済[けいざい;a] について 調[しら,しらべる;k3]べて います[,います;k2] 。  - I am researching about the Japanese economy. ～について - about, regarding, concerning				N5 Tango
+来年[らいねん;h] 、 会社[かいしゃ;h] を 辞[や,やめる;h]めます 。	I will quit the company next year.	辞[や,やめる;h]める	辞[や,やめる;h]める  - quit				N5 Tango
+将来[しょうらい;a] の 事[こと;o] を 考[かんが,かんがえる;k4,k3]えて います[,います;k2] 。	I am thinking about the future.	考[かんが,かんがえる;k4,k3]える	考[かんが,かんがえる;k4,k3]える  - think				N5 Tango
+A「 もう[;a,h] 将来[しょうらい;a] の 事[こと;o] を 考[かんが,かんがえる;k4,k3]えました か 。」	"A ""Did you already think about your future."""	もう[;a,h]	もう[;a,h]  - already				N5 Tango
+B 「 いいえ[;o] 、  まだ[;a] です 。」	"B ""No, not yet."""	まだ[;a]	まだ[;a]  - not yet				N5 Tango
+B「 これから[;h] 考[かんが,かんがえる;k4,k3]えます 。」	"B ""I will think about it from now."""	これから[;h]	これから[;h]  - from now				N5 Tango
+皆[みな;n2]さん			皆[みな;n2]さん  - everyone				N5 Tango
+ロボット[;a,n2]			ロボット[;a,n2]  - robot				N5 Tango
+へえ[;a]			へえ[;a]  - wow				N5 Tango
+この[;h] ロボット[;a,n2] は 言葉[ことば;o] が 分[わ,わかる;k2]かります 。 そして[;o,h] 、 ダンス[;a] も できます[,できる;k2] 。	This robot understands words. And it can also dance.	そして[;o,h]	そして[;o,h]  - and then				N5 Tango
+パーティー[;a] の 前[まえ;a] に 買い物[かいもの;h] を します[,する;h] 。	I will shop before the party.	前[まえ;a]	前[まえ;a]  - before				N5 Tango
+買い物[かいもの;h] の 後[あと;a] 、 料理[りょうり;a] を します[,する;h] 。	I will cook after shopping.	後[あと;a]	後[あと;a]  - after				N5 Tango
+A「 もうすぐ[;n3] パーティー[;a] が 始[はじ,はじまる;h]まります よ 。」	"A ""The party will start soon."""	もうすぐ[;n3]	もうすぐ[;n3]  - soon				N5 Tango
+B「 分[わか,わかる;k2]りました 。 すぐ[;a] 行[い,いく;h]きます 。」	"B ""Okay. I will be there immediately."""	すぐ[;a]	すぐ[;a]  - immediately				N5 Tango
+C「 今[いま;a] 、 レポート[;n2] を 書[か,かく;k1]いて います[,います;k2] 。 後[あと;a] で 行[い,いく;h]きます 。」	"C ""I'm writing a report now. I will go later."""	後[あと;a] で	後[あと;a] で - later				N5 Tango
+また[;h] 後[あと;a] で 電話[でんわ;h] を 掛[か,かける;k2]けます 。	I will call again later.	また[;h]	また[;h]  - again				N5 Tango
+レポート[;n2] は 明日[あした;h] まで に 書[か,かく;k1]きます 。			レポート[;n2] は 明日[あした;h] まで に 書[か,かく;k1]きます 。  - I will write up the report by tomorrow. までに - by				N5 Tango
+ですから[;a] 、 今日[きょう;a] は どこ[;a] に も 行[い,いく;h]きません 。			ですから[;a] 、 今日[きょう;a] は どこ[;a] に も 行[い,いく;h]きません 。  - So, I won't go anywhere today. ですから - so, therefore				N5 Tango
+A「 毎日[まいにち;a] 忙[いそが,いそがしい;k4]しい です か 。」 B「 そんなに[;h] 忙[いそが,いそがしい;k4]しくない です 。」	"A ""Are you busy every day?"" B ""No, not so much."""	そんなに[;h]	そんなに[;h]  - so much				N5 Tango
+段々[だんだん;a] 難[むずか,むずかしい;h,k4]しく な[,なる;k1]ります 。	It gradually becomes difficult.	段々[だんだん;a]	段々[だんだん;a]  - gradually				N5 Tango
+A「 皆[みな;n2]さん 、 今日[きょう;a] は ロボット[;a,n2] について 話[はな,はなす;k2]します 。 この[;h] ロボトは 色々[いろいろ;h] な こと[;o] が できます[,できる;k2] 。」 B「 へえ[;a] 、 それ[;h] は 凄[すご,すごい;k2]い です ね 。」	"A ""Everyone, today we will discuss about robots. Robots can do many things."" B ""Wow, that is amazing."""	凄[すご,すごい;k2]い	凄[すご,すごい;k2]い  - amazing ついて  - about				N5 Tango
+特[とく;a]に 漢字[かんじ;h] が 難[むずか,むずかしい;h,k4]しい です 。	Kanji are especially difficult.	特[とく;a]に	特[とく;a]に  - especially				N5 Tango
+難[むずか,むずかしい;h,k4]しい です 。 なかなか[;h] 答[こた;n2,o]え が 分[わか,わかる;k2]りません 。	It's difficult. I don't quite know the answer.	なかなか[;h]	なかなか[;h]  - quite				N5 Tango
+考[かんが,かんがえる;k4,k3]えました が 、 分[わか,わかる;k2]りません でした 。  研究[けんきゅう;h] は 難[むずか,むずかしい;h,k4]しい です が 、 面白[おもしろ,おもしろい;k4]い です 。			考[かんが,かんがえる;k4,k3]えました が 、 分[わか,わかる;k2]りません でした 。  研究[けんきゅう;h] は 難[むずか,むずかしい;h,k4]しい です が 、 面白[おもしろ,おもしろい;k4]い です 。   - I thought about it, but I didn't understand. The research is difficult but interesting. ～が - but				N5 Tango
+考[かんが,かんがえる;k4,k3]えた けど 、 分[わ,わかる;k2]からなかった 。  研究[けんきゅう;h] は 難[むずか,むずかしい;h,k4]しい けど 、 面白[おもしろ,おもしろい;k4]い 。			考[かんが,かんがえる;k4,k3]えた けど 、 分[わ,わかる;k2]からなかった 。  研究[けんきゅう;h] は 難[むずか,むずかしい;h,k4]しい けど 、 面白[おもしろ,おもしろい;k4]い 。   - I thought about it, but I didn't understand. The research is difficult but interesting. ～けど - but				N5 Tango
+A「 仕事[しごと;h] は どう[;a] です か 。」 B「 そう[;a] です ね 。 忙[いそが,いそがしい;k4]しい です が 、 面白[おもしろ,おもしろい;k4]い です 。」	"A ""How is your work?"" B ""Let's see. I'm busy, but it's interesting."""	そう[;a] です ね	そう[;a] です ね  - let's see				N5 Tango
+A「 失礼[しつれい;n2] です が 、 お 名前[なまえ;h] は ？」 B「 山田[やまだ;h] です 。」	"A ""Excuse me, but what is your name?"" B ""I'm Yamada."""	失礼[しつれい;n2] ですが[;a]	失礼[しつれい;n2] ですが[;a]  - excuse me, but				N5 Tango
+ホアン[;a]  さん に 住所[じゅうしょ;a] を 聞[き,きく;h]きます 。	I will ask Huang-san for his address.	聞[き,きく;h]く	聞[き,きく;h]く  - ask				N5 Tango
+あの[;h]ー			あの[;h]ー  - excuse me				N5 Tango
+えー[;h]っと			えー[;h]っと  - umm...				N5 Tango
+でも[;a]			でも[;a]  - but				N5 Tango
+どうして[;a]			どうして[;a]  - why				N5 Tango
+～から			～から  - because				N5 Tango
+そう[;a] ですか			そう[;a] ですか  - is that so?				N5 Tango
+A「 あの[;h]ー 、 郵便局[ゆうびんきょく;n3] は どこ[;a] です か 。」 B「 えー[ええ;h]っと 、 あそこ[;h] です よ 。 でも[;a] 、 今日[きょう;a] は 休[やす;o]み です よ 。」 A「 どうして[;a] です か 。」 B「 土曜日[どようび;n2] です から 。」 A「 そう[;a]  です か 。 分[わ,わかる;k2]かりました 。 ありがとう[;h] ございます[,ございます;k4] 。」			"A「 あの[;h]ー 、 郵便局[ゆうびんきょく;n3] は どこ[;a] です か 。」 B「 えー[ええ;h]っと 、 あそこ[;h] です よ 。 でも[;a] 、 今日[きょう;a] は 休[やす;o]み です よ 。」 A「 どうして[;a] です か 。」 B「 土曜日[どようび;n2] です から 。」 A「 そう[;a]  です か 。 分[わ,わかる;k2]かりました 。 ありがとう[;h] ございます[,ございます;k4] 。」  - A ""Excuse me, where is the post office?"" B ""Um..., it's there. But it's closed today."" A ""Why is that?"" B ""Because it's Saturday"" A ""Okay, I understand. Thank you."""				N5 Tango
+犬[いぬ;o] が います[,います;k2] 。  兄[あに;a] が います[,います;k2] 。	I have a dog. I have an older brother.	いる[,いる;h]	いる[,いる;h]  - have, be, exists (for living, animate objects)				N5 Tango
+A「 ピアノ[;h] を 弾[ひ,ひく;h]いても いい[,いい;k1] です か 。」 B「 はい[;a] 、 どうぞ[;a] 。」	"A ""Can I play the piano?"" B ""Yes, please."""	弾[ひ,ひく;h]く	弾[ひ,ひく;h]く  - play ピアノ[;h]  - piano				N5 Tango
+映画[えいが;a,h] は 10時[じゅうじ;a] に 始[はじ,はじまる;h]まります。	The movie starts at  10  o'clock.	始[はじ,はじまる;h]まる	始[はじ,はじまる;h]まる  - start (intransitive)				N5 Tango
