@@ -1,5 +1,7 @@
 # 🎌 SigmaJP
 
+🔗 **Live demo:** https://sigmajp.onrender.com/
+
 > A spaced-repetition Japanese language learning web application.
 
 ## 📖 Overview
